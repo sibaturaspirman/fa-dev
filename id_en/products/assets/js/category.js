@@ -14,7 +14,7 @@ const productsLabels = {
 const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   if(docNo && docNo !== '' && kisyuNo && kisyuNo !== '') {
     const GET_DOCUMENT_LINK_INFO = "/app/fa/DocumentSearchService/GetDocumentLinkInfo.do";
-    const NEW_GET_DOCUMENT_LINK_INFO = "/fa/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
+    const NEW_GET_DOCUMENT_LINK_INFO = "/id_en/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
     let count = 0;
     let kisyuSwitchedFlag = false;
     for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -75,7 +75,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
 (function($) {
   'use strict';
   // ドキュメントリンク 新システム移行機種定義ファイル読み込み
-  $("<script src='/fa/shared/js/ikouKisyu.js'></script>").appendTo("body");
+  $("<script src='/id_en/shared/js/ikouKisyu.js'></script>").appendTo("body");
 
   const queryParametersObject = MEL_SETTINGS.helper.getCurrentQueries();
   
@@ -88,7 +88,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   // 製品検索初期化
   if($radioSearchType.length > 0) {
     $.ajax({
-      url: '/fa/shared/suggest/jn/sdata.json',
+      url: '/id_en/shared/suggest/jn/sdata.json',
       dataType: 'text'
     })
     .done(function(data) {
@@ -99,8 +99,8 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       Products = productsSearchSuggetJSON.Products;
       Kisyus = $.extend(true, [], productsSearchSuggetJSON.Products);
       
-      $('body').append('<script src="/fa/shared/suggest/SGSTSearch.js"><\/script>');
-      $('body').append('<script src="/fa/shared/suggest/SGSTCore.js"><\/script>');
+      $('body').append('<script src="/id_en/shared/suggest/SGSTSearch.js"><\/script>');
+      $('body').append('<script src="/id_en/shared/suggest/SGSTCore.js"><\/script>');
 
     })
     .fail(function(jqXHR, textStatus, errorThrown){
@@ -137,7 +137,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       }
     });
     // 制限文字数を満たない状態でサブミットされた場合はアラート表示
-    $('form[action="/fa/products/typename/search.do"]').each(function() {
+    $('form[action="/id_en/products/typename/search.do"]').each(function() {
       const $this = $(this);
       const $thisTextField = $this.find('input[type="text"]');
       $this.submit(function() {
@@ -172,55 +172,55 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   const $productsLayerNav = $('[data-js-layer-nav]');
   const $productsProductsBreadcrumb = $('[data-js-products-breadcrumb]');
   const kisyuParameterRoot = {
-    '3dsim': '/fa/products/software/simulation-tools/gemini/',
-    'melipc': '/fa/products/edge/melipc/',
-    'plcr': '/fa/products/cnt/plcr/items/',
-    'plcf': '/fa/products/cnt/plcf/items/',
-    'plcq': '/fa/products/cnt/plcq/items/',
-    'plcl': '/fa/products/cnt/plcl/items/',
-    'plc_fx': '/fa/products/cnt/plc_fx/items/',
-    'plcqsws': '/fa/products/cnt/plcqsws/items/',
-    'plca': '/fa/products/cnt/plca/items/',
-    'plcnet': '/fa/products/cnt/plcnet/items/',
-    'ssc': '/fa/products/cnt/ssc/',
-    'cnc': '/fa/products/cnt/cnc/',
-    'sensor': '/fa/products/snsr/sensor/',
-    'servo': '/fa/products/drv/servo/',
-    'gear-reducer': '/fa/products/drv/gear-reducer/',
-    'slsv': '/fa/products/drv/slsv/',
-    'inv': '/fa/products/drv/inv/',
-    'i_motor': '/fa/products/drv/i_motor/',
-    'gear': '/fa/products/drv/gear/',
-    'clutch': '/fa/products/drv/clutch/',
-    'tencon': '/fa/products/drv/tencon/',
-    'got': '/fa/products/hmi/got/',
-    'got_soft': '/fa/products/hmi/got/',
-    'robot': '/fa/products/rbt/robot/',
-    'lvcb': '/fa/products/lvd/lvcb/',
-    'lvsw': '/fa/products/lvd/lvsw/',
-    'pmd': '/fa/products/pmng/pmd/',
-    'trns': '/fa/products/taca/trns/',
-    'capa': '/fa/products/taca/capa/',
-    'vcbvmc': '/fa/products/mvd/vcbvmc/',
-    'pror': '/fa/products/mvd/pror/',
-    'fuses': '/fa/products/mvd/fuses/',
-    'mvsw': '/fa/products/mvd/mvsw/',
-    'ems': '/fa/products/pmng/ems/',
-    'pms': '/fa/products/pmng/pms/',
-    'pven': '/fa/products/psup/pven/',
-    'ups': '/fa/products/psup/ups/',
-    'mcc': '/fa/products/psup/mcc/',
-    'pven': '/fa/products/psup/pven/',
-    'laser': '/fa/products/mecha/laser/',
-    'edm': '/fa/products/mecha/edm/',
-    'msc': '/fa/products/mecha/msc/',
-    'am': '/fa/products/mecha/am/',
-    'ebm': '/fa/products/mecha/ebm/',
-    'ebm': '/fa/products/mecha/ebm/',
-    'weldhead': '/fa/products/mecha/weldhead/',
-    'ecoadviser': '/fa/products/software/ems/eap/',
-    'ecomeasure': '/fa/products/software/ems/eap/',
-    'lp2': '/fa/products/lp1/lp2/'
+    '3dsim': '/id_en/products/software/simulation-tools/gemini/',
+    'melipc': '/id_en/products/edge/melipc/',
+    'plcr': '/id_en/products/cnt/plcr/items/',
+    'plcf': '/id_en/products/cnt/plcf/items/',
+    'plcq': '/id_en/products/cnt/plcq/items/',
+    'plcl': '/id_en/products/cnt/plcl/items/',
+    'plc_fx': '/id_en/products/cnt/plc_fx/items/',
+    'plcqsws': '/id_en/products/cnt/plcqsws/items/',
+    'plca': '/id_en/products/cnt/plca/items/',
+    'plcnet': '/id_en/products/cnt/plcnet/items/',
+    'ssc': '/id_en/products/cnt/ssc/',
+    'cnc': '/id_en/products/cnt/cnc/',
+    'sensor': '/id_en/products/snsr/sensor/',
+    'servo': '/id_en/products/drv/servo/',
+    'gear-reducer': '/id_en/products/drv/gear-reducer/',
+    'slsv': '/id_en/products/drv/slsv/',
+    'inv': '/id_en/products/drv/inv/',
+    'i_motor': '/id_en/products/drv/i_motor/',
+    'gear': '/id_en/products/drv/gear/',
+    'clutch': '/id_en/products/drv/clutch/',
+    'tencon': '/id_en/products/drv/tencon/',
+    'got': '/id_en/products/hmi/got/',
+    'got_soft': '/id_en/products/hmi/got/',
+    'robot': '/id_en/products/rbt/robot/',
+    'lvcb': '/id_en/products/lvd/lvcb/',
+    'lvsw': '/id_en/products/lvd/lvsw/',
+    'pmd': '/id_en/products/pmng/pmd/',
+    'trns': '/id_en/products/taca/trns/',
+    'capa': '/id_en/products/taca/capa/',
+    'vcbvmc': '/id_en/products/mvd/vcbvmc/',
+    'pror': '/id_en/products/mvd/pror/',
+    'fuses': '/id_en/products/mvd/fuses/',
+    'mvsw': '/id_en/products/mvd/mvsw/',
+    'ems': '/id_en/products/pmng/ems/',
+    'pms': '/id_en/products/pmng/pms/',
+    'pven': '/id_en/products/psup/pven/',
+    'ups': '/id_en/products/psup/ups/',
+    'mcc': '/id_en/products/psup/mcc/',
+    'pven': '/id_en/products/psup/pven/',
+    'laser': '/id_en/products/mecha/laser/',
+    'edm': '/id_en/products/mecha/edm/',
+    'msc': '/id_en/products/mecha/msc/',
+    'am': '/id_en/products/mecha/am/',
+    'ebm': '/id_en/products/mecha/ebm/',
+    'ebm': '/id_en/products/mecha/ebm/',
+    'weldhead': '/id_en/products/mecha/weldhead/',
+    'ecoadviser': '/id_en/products/software/ems/eap/',
+    'ecomeasure': '/id_en/products/software/ems/eap/',
+    'lp2': '/id_en/products/lp1/lp2/'
   }
   
   let productsFloatingMenuHTML = '';
@@ -660,11 +660,11 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       ancestors: [
         {
           "name": "Home",
-          "path": "/fa/"
+          "path": "/id_en/"
         },
         {
           "name": "Products",
-          "path": "/fa/products/index.html"
+          "path": "/id_en/products/index.html"
         }
       ],
       parent: {},
@@ -737,31 +737,31 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     // ToDo: 仕様一覧・規格適合品・生産終了品の一覧ページ制作後にname・path修正
     if(Object.keys(currentPageFamily.parent).length === 0) {
       // 仕様一覧
-      if(currentPathWithQuery.indexOf('/fa/products/faspec/search') !== -1) {
+      if(currentPathWithQuery.indexOf('/id_en/products/faspec/search') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_en/products/index.html'
         }
       }
       // 規格適合品
-      else if(currentPathWithQuery.indexOf('/fa/products/standard/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('/id_en/products/standard/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_en/products/index.html'
         }
       }
       // 生産終了品
-      else if(currentPathWithQuery.indexOf('/fa/products/dbdbsearch/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('/id_en/products/dbdbsearch/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_en/products/index.html'
         }
       }
       // その他
       else {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_en/products/index.html'
         }
       }
     }
