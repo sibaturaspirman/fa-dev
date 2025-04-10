@@ -389,8 +389,8 @@
   /* 初期設定 */
   // 設定ファイルからタグ一覧と全記事データオブジェクトを生成
   $.when(
-    $.getJSON('/id_en/data/filter-data.json'),
-    $.getJSON('/id_en/data/article-data.json'),
+    $.getJSON('/id_en/the-art-of-manufacturing/data/filter-data.json'),
+    $.getJSON('/id_en/the-art-of-manufacturing/data/article-data.json'),
     $.getJSON('/id_en/our-stories/data/article-data.json')
   )
   .done(function(filter_data, article_data, ourStories_data){
