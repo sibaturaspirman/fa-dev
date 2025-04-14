@@ -891,7 +891,7 @@ div[id^=modal]{display:none}
 [data-js-modal_fixed] [data-js-modal_bg]::after,[data-js-modal_fixed] [data-js-modal_bg]::before{display:flex;width:1px;height:calc(100vh + 1px);content:""}
 [data-js-modal_fixed] [data-js-modal_bg]::-webkit-scrollbar{display:none}
 .c-anchorNav{position:relative;min-height:calc(1.5em + 5px * 2 + 11px * 2);margin:60px auto 0 auto;padding:10px 20px 10px 140px;border-radius:30px;box-shadow:0 2px 3px 0 rgba(0,0,0,.2)}
-.c-anchorNav::before{position:absolute;top:0;left:0;display:flex;overflow:hidden;width:120px;height:100%;padding:10px;content:"Contents";color:#4d4d4d;border-radius:30px 0 0 30px;background:#f2f2f2;align-items:center;justify-content:center}
+.c-anchorNav::before{position:absolute;top:0;left:0;display:flex;overflow:hidden;width:120px;height:100%;padding:10px;content:"Daftar Isi";color:#4d4d4d;border-radius:30px 0 0 30px;background:#f2f2f2;align-items:center;justify-content:center}
 .c-anchorNav .u-icons--chevronBottom{color:#000}
 .c-anchorNav .u-icons--chevronBottom::before{font-size:1.5em;line-height:.666666}
 .c-anchorNav .u-icons--chevronBottom:hover{color:#f50f10}
