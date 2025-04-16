@@ -288,7 +288,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Visualization software",
+            "name": "Visualisasi Perangkat Lunak",
             "path": "/id_id/products/software/visualisation/index.html"
           },
           {
@@ -296,11 +296,11 @@
             "path": "/id_id/products/software/remote-accesses/index.html"
           },
           {
-            "name": "Simulation tools",
+            "name": "Perangkat Simulasi",
             "path": "/id_id/products/software/simulation-tools/index.html"
           },
           {
-            "name": "Data science tools",
+            "name": "Perangkat Analisis Data",
             "path": "/id_id/products/software/data-science-tools/index.html"
           },
           {
@@ -308,11 +308,11 @@
             "path": "/id_id/products/software/data-sharing-software/index.html"
           },
           {
-            "name": "Energy Saving Support Software",
+            "name": "Perangkat Lunak Pendukung Hemat Energi",
             "path": "/id_id/products/software/ems/index.html"
           },
           {
-            "name": "Image Processing Software",
+            "name": "Perangkat Lunak Pengolahan Visual",
             "path": "/id_id/products/software/image-processing/index.html"
           }
         ]

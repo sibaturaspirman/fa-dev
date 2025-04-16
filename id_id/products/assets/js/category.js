@@ -312,7 +312,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     if($productsDownload.length > 0 && settingsJson.download.recommended.length > 0) {
       $productsDownloadRecommendedCatalog.addClass('c-recommendedCatalog');
       productsDownloadHTML = `
-        <p class="c-recommendedCatalog__title">Recommended Catalog</p>
+        <p class="c-recommendedCatalog__title">Katalog Rekomendasi</p>
         <a class="c-linkWithImage" href>
         <div class="c-linkWithImage__image">
         <img src alt="" decoding="async">
@@ -453,7 +453,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       if($productsDownload.length > 0 && settingsJson.download.recommended.length > 0) {
         $productsDownloadRecommendedCatalog.addClass('c-recommendedCatalog');
         productsDownloadHTML = `
-          <p class="c-recommendedCatalog__title">Recommended Catalog</p>
+          <p class="c-recommendedCatalog__title">Katalog Rekomendasi</p>
           <a class="c-linkWithImage" href>
           <div class="c-linkWithImage__image">
           <img src alt="" decoding="async">
@@ -574,14 +574,14 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
         `);        
       } else {
         productsNewsListHtml = `
-          <li><p class="c-text l-separator-x1_5-imp">There are no announcements at this time.</p></li>
+          <li><p class="c-text l-separator-x1_5-imp">Tidak ada pengumuman yang tersedia saat ini.</p></li>
         `;    
         $productsNews.html(productsNewsListHtml);    
       }
     })
     .fail(function() {
       let productsNewsListHtml = `
-        <li><p class="c-text l-separator-x1_5-imp">There are no announcements at this time.</p></li>
+        <li><p class="c-text l-separator-x1_5-imp">Tidak ada pengumuman yang tersedia saat ini.</p></li>
       `;
       $productsNews.html(productsNewsListHtml); 
       console.log('お知らせの読み込みエラーです');
