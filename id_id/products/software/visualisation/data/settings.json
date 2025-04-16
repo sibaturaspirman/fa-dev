@@ -85,7 +85,7 @@
 		"recommended": [],
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "#",
 				"child": [
@@ -119,11 +119,11 @@
 	"relatedLink": {
 		"items": [
 			{
-				"name": "FA e-Learning",
+				"name": "e-Learning FA",
 				"link": "/fa/assist/e-learning/index.html"
 			},
 			{
-				"name": "FA Terminology Dictionary",
+				"name": "Daftar Istilah FA",
 				"link": "/fa/assist/fa_dictionary/index.html"
 			}
 		]
@@ -135,12 +135,12 @@
 	"contact": {
 		"items": [
 			{
-				"name": "Contact us",
+				"name": "Hubungi Kami",
 				"icon": "estimate",
 				"link": "/fa/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2166"
 			}
