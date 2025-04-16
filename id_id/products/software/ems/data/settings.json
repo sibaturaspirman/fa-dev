@@ -2,24 +2,24 @@
 	"floatingMenu": {
 	  "specificItems": [
 			{
-				"name": "Download",
+				"name": "Unduh",
 				"icon": "download",
-				"link": "/fa/download/search.page?kisyu=/ems&mode=catalog",
+				"link": "/id_id/download/search.page?kisyu=/ems&mode=catalog",
 				"child":[
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
+						"link": "/id_id/download/search.page?mode=catalog&kisyu=/ecoadviser"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/ecoadviser"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
+						"link": "/id_id/download/software/search.page?mode=software&kisyu=/ecoadviser"
 					}
 				]
 			},
@@ -38,14 +38,14 @@
 	"productsMenu": {
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/ecoadviser"
+				"link": "/id_id/products/faspec/search.page?kisyu=/ecoadviser"
 			},
 			{
-				"name": "Products certified/compliant to various standards",
+				"name": "Product bersertifikat/memenuhi standar",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser"
+				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/ecoadviser"
 			}
 		]
 	},
@@ -63,19 +63,19 @@
 		],
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
+				"link": "/id_id/download/search.page?mode=catalog&kisyu=/ecoadviser"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
+				"link": "/id_id/download/search.page?mode=manual&kisyu=/ecoadviser"
 			},
 			{
-				"name": "Software",
+				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
+				"link": "/id_id/download/software/search.page?mode=software&kisyu=/ecoadviser"
 			}
 		]
 	},
@@ -86,12 +86,12 @@
 	"contact": {
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi kami",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2304"
 			}
