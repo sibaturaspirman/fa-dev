@@ -1,35 +1,35 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/fa/index.html",
+    "path": "/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/fa/products/index.html",
+        "path": "/id_en/products/index.html",
         "child": [
           {
             "name": "Image processing software",
-            "path": "/fa/products/software/image-processing/index.html",
+            "path": "/id_en/products/software/image-processing/index.html",
             "child": [
               {
                 "name": "Visual Inspection Software MELSOFT VIXIO",
-                "path": "/fa/products/software/image-processing/vixio/index.html"
+                "path": "/id_en/products/software/image-processing/vixio/index.html"
               },
               {
                 "name": "What is MELSOFT VIXIO?",
-                "path": "/fa/products/software/image-processing/vixio/about.html"
+                "path": "/id_en/products/software/image-processing/vixio/about.html"
               },
               {
                 "name": "How to use MELSOFT VIXIO",
-                "path": "/fa/products/software/image-processing/vixio/operation.html"
+                "path": "/id_en/products/software/image-processing/vixio/operation.html"
               },
               {
                 "name": "MELSOFT VIXIO application examples",
-                "path": "/fa/products/software/image-processing/vixio/example.html"
+                "path": "/id_en/products/software/image-processing/vixio/example.html"
               },
               {
                 "name": "Operating environment",
-                "path": "/fa/products/software/image-processing/vixio/spec.html"
+                "path": "/id_en/products/software/image-processing/vixio/spec.html"
               }
             ]
           }
@@ -40,12 +40,12 @@
 
   "switchNav": {
     "name": "Image processing software",
-    "path": "/fa/products/software/image-processing/index.html",
+    "path": "/id_en/products/software/image-processing/index.html",
     "child": [
       {
         "group": "Visual Inspection Software",
         "name": "MELSOFT VIXIO",
-        "feature": "/fa/products/software/image-processing/vixio/index.html",
+        "feature": "/id_en/products/software/image-processing/vixio/index.html",
         "spec": "",
         "standard": "",
         "discon": ""

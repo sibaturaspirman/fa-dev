@@ -4,22 +4,22 @@
 			{
 				"name": "Download",
 				"icon": "download",
-				"link": "/fa/download/search.page?kisyu=/ems&mode=catalog",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/ems&mode=catalog",
 				"child":[
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
 					}
 				]
 			},
@@ -40,12 +40,12 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ecoadviser"
 			},
 			{
 				"name": "Products certified/compliant to various standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser"
 			}
 		]
 	},
@@ -65,17 +65,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
 			}
 		]
 	},
