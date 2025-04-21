@@ -62,7 +62,7 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
 				"link": "/fa/products/faspec/search.page?kisyu=/cnc"
 			}

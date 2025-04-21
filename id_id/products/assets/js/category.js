@@ -172,55 +172,55 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   const $productsLayerNav = $('[data-js-layer-nav]');
   const $productsProductsBreadcrumb = $('[data-js-products-breadcrumb]');
   const kisyuParameterRoot = {
-    '3dsim': '/fa/products/software/simulation-tools/gemini/',
-    'melipc': '/fa/products/edge/melipc/',
-    'plcr': '/fa/products/cnt/plcr/items/',
-    'plcf': '/fa/products/cnt/plcf/items/',
-    'plcq': '/fa/products/cnt/plcq/items/',
-    'plcl': '/fa/products/cnt/plcl/items/',
-    'plc_fx': '/fa/products/cnt/plc_fx/items/',
-    'plcqsws': '/fa/products/cnt/plcqsws/items/',
-    'plca': '/fa/products/cnt/plca/items/',
-    'plcnet': '/fa/products/cnt/plcnet/items/',
-    'ssc': '/fa/products/cnt/ssc/',
-    'cnc': '/fa/products/cnt/cnc/',
-    'sensor': '/fa/products/snsr/sensor/',
-    'servo': '/fa/products/drv/servo/',
-    'gear-reducer': '/fa/products/drv/gear-reducer/',
-    'slsv': '/fa/products/drv/slsv/',
-    'inv': '/fa/products/drv/inv/',
-    'i_motor': '/fa/products/drv/i_motor/',
-    'gear': '/fa/products/drv/gear/',
-    'clutch': '/fa/products/drv/clutch/',
-    'tencon': '/fa/products/drv/tencon/',
-    'got': '/fa/products/hmi/got/',
-    'got_soft': '/fa/products/hmi/got/',
-    'robot': '/fa/products/rbt/robot/',
-    'lvcb': '/fa/products/lvd/lvcb/',
-    'lvsw': '/fa/products/lvd/lvsw/',
-    'pmd': '/fa/products/pmng/pmd/',
-    'trns': '/fa/products/taca/trns/',
-    'capa': '/fa/products/taca/capa/',
-    'vcbvmc': '/fa/products/mvd/vcbvmc/',
-    'pror': '/fa/products/mvd/pror/',
-    'fuses': '/fa/products/mvd/fuses/',
-    'mvsw': '/fa/products/mvd/mvsw/',
-    'ems': '/fa/products/pmng/ems/',
-    'pms': '/fa/products/pmng/pms/',
-    'pven': '/fa/products/psup/pven/',
-    'ups': '/fa/products/psup/ups/',
-    'mcc': '/fa/products/psup/mcc/',
-    'pven': '/fa/products/psup/pven/',
-    'laser': '/fa/products/mecha/laser/',
-    'edm': '/fa/products/mecha/edm/',
-    'msc': '/fa/products/mecha/msc/',
-    'am': '/fa/products/mecha/am/',
-    'ebm': '/fa/products/mecha/ebm/',
-    'ebm': '/fa/products/mecha/ebm/',
-    'weldhead': '/fa/products/mecha/weldhead/',
-    'ecoadviser': '/fa/products/software/ems/eap/',
-    'ecomeasure': '/fa/products/software/ems/eap/',
-    'lp2': '/fa/products/lp1/lp2/'
+    '3dsim': '/id_id/products/software/simulation-tools/gemini/',
+    'melipc': '/id_id/products/edge/melipc/',
+    'plcr': '/id_id/products/cnt/plcr/items/',
+    'plcf': '/id_id/products/cnt/plcf/items/',
+    'plcq': '/id_id/products/cnt/plcq/items/',
+    'plcl': '/id_id/products/cnt/plcl/items/',
+    'plc_fx': '/id_id/products/cnt/plc_fx/items/',
+    'plcqsws': '/id_id/products/cnt/plcqsws/items/',
+    'plca': '/id_id/products/cnt/plca/items/',
+    'plcnet': '/id_id/products/cnt/plcnet/items/',
+    'ssc': '/id_id/products/cnt/ssc/',
+    'cnc': '/id_id/products/cnt/cnc/',
+    'sensor': '/id_id/products/snsr/sensor/',
+    'servo': '/id_id/products/drv/servo/',
+    'gear-reducer': '/id_id/products/drv/gear-reducer/',
+    'slsv': '/id_id/products/drv/slsv/',
+    'inv': '/id_id/products/drv/inv/',
+    'i_motor': '/id_id/products/drv/i_motor/',
+    'gear': '/id_id/products/drv/gear/',
+    'clutch': '/id_id/products/drv/clutch/',
+    'tencon': '/id_id/products/drv/tencon/',
+    'got': '/id_id/products/hmi/got/',
+    'got_soft': '/id_id/products/hmi/got/',
+    'robot': '/id_id/products/rbt/robot/',
+    'lvcb': '/id_id/products/lvd/lvcb/',
+    'lvsw': '/id_id/products/lvd/lvsw/',
+    'pmd': '/id_id/products/pmng/pmd/',
+    'trns': '/id_id/products/taca/trns/',
+    'capa': '/id_id/products/taca/capa/',
+    'vcbvmc': '/id_id/products/mvd/vcbvmc/',
+    'pror': '/id_id/products/mvd/pror/',
+    'fuses': '/id_id/products/mvd/fuses/',
+    'mvsw': '/id_id/products/mvd/mvsw/',
+    'ems': '/id_id/products/pmng/ems/',
+    'pms': '/id_id/products/pmng/pms/',
+    'pven': '/id_id/products/psup/pven/',
+    'ups': '/id_id/products/psup/ups/',
+    'mcc': '/id_id/products/psup/mcc/',
+    'pven': '/id_id/products/psup/pven/',
+    'laser': '/id_id/products/mecha/laser/',
+    'edm': '/id_id/products/mecha/edm/',
+    'msc': '/id_id/products/mecha/msc/',
+    'am': '/id_id/products/mecha/am/',
+    'ebm': '/id_id/products/mecha/ebm/',
+    'ebm': '/id_id/products/mecha/ebm/',
+    'weldhead': '/id_id/products/mecha/weldhead/',
+    'ecoadviser': '/id_id/products/software/ems/eap/',
+    'ecomeasure': '/id_id/products/software/ems/eap/',
+    'lp2': '/id_id/products/lp1/lp2/'
   }
   
   let productsFloatingMenuHTML = '';
@@ -659,12 +659,12 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       mode : '',
       ancestors: [
         {
-          "name": "Home",
-          "path": "/fa/"
+          "name": "Beranda",
+          "path": "/id_id/"
         },
         {
-          "name": "Products",
-          "path": "/fa/products/index.html"
+          "name": "Katalog Produk",
+          "path": "/id_id/products/index.html"
         }
       ],
       parent: {},
@@ -737,31 +737,31 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     // ToDo: 仕様一覧・規格適合品・生産終了品の一覧ページ制作後にname・path修正
     if(Object.keys(currentPageFamily.parent).length === 0) {
       // 仕様一覧
-      if(currentPathWithQuery.indexOf('/fa/products/faspec/search') !== -1) {
+      if(currentPathWithQuery.indexOf('/id_id/products/faspec/search') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_id/products/index.html'
         }
       }
       // 規格適合品
-      else if(currentPathWithQuery.indexOf('/fa/products/standard/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('/id_id/products/standard/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_id/products/index.html'
         }
       }
       // 生産終了品
-      else if(currentPathWithQuery.indexOf('/fa/products/dbdbsearch/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('/id_id/products/dbdbsearch/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_id/products/index.html'
         }
       }
       // その他
       else {
         currentPageFamily.parent = {
           name: productsLabels.products,
-          path: '/fa/products/index.html'
+          path: '/id_id/products/index.html'
         }
       }
     }
@@ -777,10 +777,10 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     if($productsSwitchNav.length > 0 && Object.keys(currentPageFamily.family).length > 0) {
       const switchNavHtmlTemplate = ''
       + '<ul class="c-list c-list--float">'
-      + (currentPageFamily.family.feature ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.feature}">Feature</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Feature</span></li>')
-      + (currentPageFamily.family.spec ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.spec}">Specification</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Specification</span></li>')
-      + (currentPageFamily.family.standard ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.standard}">Standards</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Standards</span></li>')
-      + (currentPageFamily.family.discon ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.discon}">Discontinued</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Discontinued</span></li>')
+      + (currentPageFamily.family.feature ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.feature}">Fitur</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Fitur</span></li>')
+      + (currentPageFamily.family.spec ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.spec}">Spesifikasi</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Spesifikasi</span></li>')
+      + (currentPageFamily.family.standard ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.standard}">Standar</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Standar</span></li>')
+      + (currentPageFamily.family.discon ? `<li class="c-list__item"><a class="c-switchNav__link" href="${currentPageFamily.family.discon}">Tidak diproduksi lagi</a></li>` : '<li class="c-list__item"><span class="c-switchNav__link disable">Tidak diproduksi lagi</span></li>')
       + '</ul><!-- /.c-list -->';
       
       $productsSwitchNav.html(switchNavHtmlTemplate);

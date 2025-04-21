@@ -4,12 +4,12 @@
 	  "specificItems": [
 			{
 				"comment": "linkは各機種のダウンロードページのURLに変更可",
-				"name": "Download",
+				"name": "Unduh",
 				"icon": "download",
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
 					},
@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -58,19 +58,19 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/melipc"
+				"link": "/id_id/products/faspec/search.page?kisyu=/melipc"
 			},
 			{
-				"name": "Products certified/compliant to standards",
+				"name": "Product bersertifikat/memenuhi standar",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/melipc"
+				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc"
 			},
 			{
-				"name": "Discontinued Products",
+				"name": "Produk tidak diproduksi lagi (model alternatif)",
 				"icon": "silver-line",
-				"link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
+				"link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
 			}
 		]
 	},
@@ -155,7 +155,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",
