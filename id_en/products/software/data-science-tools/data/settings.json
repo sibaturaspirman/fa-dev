@@ -9,12 +9,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual"
 					}
 				]
 			},
@@ -68,11 +68,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},

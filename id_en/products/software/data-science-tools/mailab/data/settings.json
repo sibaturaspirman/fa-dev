@@ -11,32 +11,32 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/?modal=catalog"
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/?modal=manual"
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/fa/download/?modal=technews"
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=technews"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/?modal=cad"
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/?modal=software"
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/fa/download/?modal=lib"
+						"link": "https://www.mitsubishielectric.com/fa/download/?modal=lib"
 					}
 				]
 			}
@@ -48,17 +48,17 @@
 		"items": [
 			{
 				"name": "Spotlight1_LP3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "https://www.mitsubishielectric.com/fa/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "https://www.mitsubishielectric.com/fa/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "https://www.mitsubishielectric.com/fa/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -74,32 +74,32 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/fa/products/spec.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/spec.html"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard.html"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/renewal.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/renewal.html"
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/fa/products/replace.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/replace.html"
 			},
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/fa/dctlg/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -138,32 +138,32 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/?modal=catalog"
+				"link": "https://www.mitsubishielectric.com//fa/download/?modal=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/?modal=manual"
+				"link": "https://www.mitsubishielectric.com//fa/download/?modal=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/fa/download/?modal=technews"
+				"link": "https://www.mitsubishielectric.com//fa/download/?modal=technews"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/?modal=cad"
+				"link": "https://www.mitsubishielectric.com//fa/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/?modal=software"
+				"link": "https://www.mitsubishielectric.com//fa/download/?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/fa/download/?modal=lib"
+				"link": "https://www.mitsubishielectric.com//fa/download/?modal=lib"
 			}
 		]
 	},
@@ -199,7 +199,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

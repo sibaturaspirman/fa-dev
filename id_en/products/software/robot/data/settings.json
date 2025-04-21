@@ -118,7 +118,7 @@
 		"items": [
 				{
 				"name": "FA SPEC Search - It is available an App.",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "https://www.mitsubishielectric.com/fa/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "/fa/mobile-apps/index.html"
 			}
 		]
