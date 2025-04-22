@@ -11,32 +11,32 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/robot&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/robot&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/index.html?modal=cad"
+						"link": "https://www.mitsubishielectric.com/fa/download/index.html?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/index.html?modal=software"
+						"link": "https://www.mitsubishielectric.com/fa/download/index.html?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/fa/download/index.html?modal=lib"
+						"link": "https://www.mitsubishielectric.com/fa/download/index.html?modal=lib"
 					}
 				]
 			}
@@ -48,23 +48,23 @@
 		"items": [
 			{
 				"name": "MELFA FR PLUS",
-				"img": "/fa/products/rbt/robot/assets/img/spotlight_frplus.png",
-				"link": "/fa/products/rbt/robot/pmerit/frplus/index.html"
+				"img": "/id_en/products/rbt/robot/assets/img/spotlight_frplus.png",
+				"link": "/id_en/products/rbt/robot/pmerit/frplus/index.html"
 			},
 			{
 				"name": "MELFA RH-10CRH/20CRH",
-				"img": "/fa/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
-				"link": "/fa/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
+				"img": "/id_en/products/rbt/robot/assets/img/spotlight_1020crh_eng.png",
+				"link": "/id_en/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
 			},
 			{
 				"name": "MELFA RV-12CRL",
-				"img": "/fa/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
-				"link": "/fa/products/rbt/robot/pmerit/vertical/crseries/index.html"
+				"img": "/id_en/products/rbt/robot/assets/img/spotlight_rv12crl_eng.png",
+				"link": "/id_en/products/rbt/robot/pmerit/vertical/crseries/index.html"
 			},
 			{
 				"name": "Collaborative robot ASSISA (Special Page)",
-				"img": "/fa/products/rbt/robot/assets/img/spotlight_assista_pr.png",
-				"link": "/fa/products/rbt/assista/pmerit/assista/index.html"
+				"img": "/id_en/products/rbt/robot/assets/img/spotlight_assista_pr.png",
+				"link": "/id_en/products/rbt/assista/pmerit/assista/index.html"
 			}
 		]
 	},
@@ -74,34 +74,34 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
 				"child": [
 					{
 						"name": "Robot",
-						"link": "/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot"
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot"
 					},
 					{
 						"name": "Controller",
-						"link": "/fa/products/faspec/search.page?kisyu=/robot&radio=Controller&search=B&word=Controller"
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Controller&search=B&word=Controller"
 					},
 					{
 						"name": "Option",
-						"link": "/fa/products/faspec/search.page?kisyu=/robot&radio=Option&search=B&word=Option"
+						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Option&search=B&word=Option"
 					}
 					]
 				},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/robot",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
 				"child": [
 					{
 						"name": "Robot",
-						"link": "/fa/products/standard/SearchServlet.page?kisyu=/robot"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot"
 					},
 					{
 						"name": "Standard certification contents",
-						"link": "/fa/products/rbt/robot/ex/stand/index.html"
+						"link": "https://www.mitsubishielectric.com/fa/products/rbt/robot/ex/stand/index.html"
 					}
 					]
 				},
@@ -113,7 +113,7 @@
 			{
 				"name": "Network",
 				"icon": "tree",
-				"link": "/fa/products/index.html#section_network"
+				"link": "/id_en/products/index.html#section_network"
 			}
 		]
 	},
@@ -122,7 +122,7 @@
 		"items": [
 			{
 				"name": "Discontinued products",
-				"link": "/fa/products/rbt/robot/items/discon/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/discon/index.html"
 			}
 		]
 	},
@@ -140,32 +140,32 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/robot&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/robot&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/index.html?modal=cad"
+				"link": "https://www.mitsubishielectric.com/fa/download/index.html?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/index.html?modal=software"
+				"link": "https://www.mitsubishielectric.com/fa/download/index.html?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/fa/download/index.html?modal=lib"
+				"link": "https://www.mitsubishielectric.com/fa/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -174,7 +174,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -183,8 +183,8 @@
 		"items": [
 				{
 				"name": "FA SPEC Search - It is available an App.",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html​"
+				"image": "https://www.mitsubishielectric.com/fa/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html​"
 			}
 		]
 	},
