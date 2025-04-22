@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/?modal=cad"
+						"link": "/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/?modal=software"
+						"link": "/id_id/download/?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/fa/download/?modal=lib"
+						"link": "/id_id/download/?modal=lib"
 					}
 				]
 			}
@@ -54,8 +54,8 @@
 		"items": [
 			{
 				"name": "New features make things even easier to use!",
-				"img": "/fa/products/assets/img/faist-202411-spotlight-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -63,147 +63,147 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/plcq",
+				"link": "/id_id/products/faspec/search.page?kisyu=/plcq",
         "child": [
           {
             "name": "CPU",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=CPU&search=B&word=CPU"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=CPU&search=B&word=CPU"
           },
           {
             "name": "Base",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Base&search=B&word=Base"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Base&search=B&word=Base"
           },
           {
             "name": "Power supply",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Power%20supply&search=B&word=Power%20supply"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Power%20supply&search=B&word=Power%20supply"
           },
           {
             "name": "I/O",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=I/O&search=B&word=I/O"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=I/O&search=B&word=I/O"
           },
           {
             "name": "Analog",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Analog&search=B&word=Analog"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Analog&search=B&word=Analog"
           },
           {
             "name": "Simple motion/positioning",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
           },
           {
             "name": "High-speed counter/pulse input",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input"
           },
           {
             "name": "Information/network",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Information/network&search=B&word=Information/network"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Information/network&search=B&word=Information/network"
           },
           {
             "name": "Energy measuring/insulation monitoring",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring"
           },
           {
             "name": "Option",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcq&radio=Option&search=B&word=Option"
+            "link": "/id_id/products/faspec/search.page?kisyu=/plcq&radio=Option&search=B&word=Option"
           }
         ]
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/plcq",
+				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/plcq",
         "child": [
           {
             "name": "CPU",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=CPU&search=B&word=CPU"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=CPU&search=B&word=CPU"
           },
           {
             "name": "Base",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Base&search=B&word=Base"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Base&search=B&word=Base"
           },
           {
             "name": "Power supply",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Power%20supply&search=B&word=Power%20supply"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Power%20supply&search=B&word=Power%20supply"
           },
           {
             "name": "I/O",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=I/O&search=B&word=I/O"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=I/O&search=B&word=I/O"
           },
           {
             "name": "Analog",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Analog&search=B&word=Analog"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Analog&search=B&word=Analog"
           },
           {
             "name": "Simple motion/positioning",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning"
           },
           {
             "name": "High-speed counter/pulse input",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input"
           },
           {
             "name": "Information/network",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Information/network&search=B&word=Information/network"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Information/network&search=B&word=Information/network"
           },
           {
             "name": "Energy measuring/insulation monitoring",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring"
           },
           {
             "name": "Option",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Option&search=B&word=Option"
+            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Option&search=B&word=Option"
           }
         ]
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon",
+				"link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon",
         "child": [
           {
             "name": "CPU",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=CPU"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=CPU"
           },
           {
             "name": "Base",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Base"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Base"
           },
           {
             "name": "Power supply",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Power%20supply"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Power%20supply"
           },
           {
             "name": "I/O",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=I/O"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=I/O"
           },
           {
             "name": "Analog",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Analog"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Analog"
           },
           {
             "name": "Simple motion/positioning",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Simple%20motion/positioning"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Simple%20motion/positioning"
           },
           {
             "name": "Information/network",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Information/network"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Information/network"
           },
           {
             "name": "Option",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Option"
+            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Option"
           }
         ]
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/fa/products/cnt/plca/pmerit/renewal/"
+				"link": "/id_id/products/cnt/plca/pmerit/renewal/"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -257,12 +257,12 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/?modal=cad"
+				"link": "/id_id/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/?modal=software"
+				"link": "/id_id/download/?modal=software"
 			}
 		]
 	},
@@ -292,13 +292,13 @@
 		"items": [
 			{
 				"name": "FA Integrated Selection Tool",
-				"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"link": "/id_id/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_id/mobile-apps/index.html"
             }
         ]
 	},
@@ -308,7 +308,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

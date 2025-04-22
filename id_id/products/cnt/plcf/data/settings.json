@@ -26,12 +26,12 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/?modal=cad"
+						"link": "/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/?modal=software"
+						"link": "/id_id/download/?modal=software"
 					}
 				]
 			}
@@ -49,8 +49,8 @@
 		"items": [
 			{
 				"name": "&lt;New features&gt; New sample configurations make things even easier!",
-				"img": "/fa/products/assets/img/faist-202411-spotlight-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
+				"link": "/id_id/products/select/index.html"
 			}
         ]
 	},
@@ -60,56 +60,56 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/fa/products/cnt/plcf/pmerit/concept/index.html"
+				"link": "/id_id/products/cnt/plcf/pmerit/concept/index.html"
 			},
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=CPU%20Module"
+				"link": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=CPU%20Module"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/plcf",
+				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/plcf",
 				"child": [
 					{
 						"name": "CPU Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module"
 					},
 					{
 						"name": "Input/Output Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module"
 					},
 					{
 						"name": "Analog I/O Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module"
 					},
 					{
 						"name": "High-speed counter Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module"
 					},
 					{
 						"name": "Motion/Positioning Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module"
 					},
 					{
 						"name": "Network/Communication Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module"
 					},
 					{
 						"name": "Safety Extension Module",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module"
 					},
 					{
 						"name": "Option",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option"
 					}
 				]
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -188,13 +188,13 @@
 		"items": [
 			{
 				"name": "FA Integrated Selection Tool",
-				"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"link": "/id_id/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_id/mobile-apps/index.html"
             }
         ]
 	},
@@ -204,7 +204,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

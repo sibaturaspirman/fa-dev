@@ -4,7 +4,7 @@
 			{
 				"name": "Download",
 				"icon": "download",
-				"link": "/fa/download/"
+				"link": "/id_id/download/"
 			}
 	  ],
 		"commonItems": [
@@ -20,7 +20,7 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -31,12 +31,12 @@
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/fa/dctlg/index.html"
+				"link": "/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -180,17 +180,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/index.html?modal=cad"
+				"link": "/id_id/download/index.html?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/index.html?modal=software"
+				"link": "/id_id/download/index.html?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/fa/download/index.html?modal=lib"
+				"link": "/id_id/download/index.html?modal=lib"
 			}
 		]
 	},
@@ -208,18 +208,18 @@
 		"items": [
 			{
 				"name": "iQ Platform-compatible PAC System Recorder",
-				"image": "/fa/products/cnt/plc/img/banner_system-recorder.jpg",
-				"link": "/fa/products/software/visualisation/system-recorder/index.html"
+				"image": "/id_id/products/cnt/plc/img/banner_system-recorder.jpg",
+				"link": "/id_id/products/software/visualisation/system-recorder/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
-				"image": "/fa/products/assets/img/banner_integrated-selection-tool.jpg",
-				"link": "/fa/products/select/index.html"
+				"image": "/id_id/products/assets/img/banner_integrated-selection-tool.jpg",
+				"link": "/id_id/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_id/mobile-apps/index.html"
 			}
         ]
 	},
@@ -229,7 +229,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

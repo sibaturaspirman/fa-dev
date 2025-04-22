@@ -9,17 +9,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?kisyu=/got&mode=catalog"
+						"link": "/id_id/download/search.page?kisyu=/got&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/got"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/got"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/got"
+						"link": "/id_id/download/software/search.page?mode=software&kisyu=/got"
 					}
 				]
 			},
@@ -51,17 +51,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?kisyu=/got&mode=catalog"
+				"link": "/id_id/download/search.page?kisyu=/got&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/got"
+				"link": "/id_id/download/search.page?mode=manual&kisyu=/got"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/got"
+				"link": "/id_id/download/software/search.page?mode=software&kisyu=/got"
 			}
 		]
 	},
@@ -69,11 +69,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_id/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -86,7 +86,7 @@
 			{
 				"name": "Contact us",
 				"icon": "estimate",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

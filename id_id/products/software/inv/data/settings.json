@@ -36,12 +36,12 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/fa/products/drv/inv/ex/watch/index.html"
+				"link": "/id_id/products/drv/inv/ex/watch/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -80,11 +80,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_id/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -93,18 +93,18 @@
 		"items": [
             {
 				"name": "The energy saving calculation system",
-				"image": "/fa/products/drv/inv/img/banner_simulation.jpg",
-				"link": "/fa/products/drv/inv/pmerit/select/index.html"
+				"image": "/id_id/products/drv/inv/img/banner_simulation.jpg",
+				"link": "/id_id/products/drv/inv/pmerit/select/index.html"
             },
             {
 				"name": "Digital Catalogs",
-				"image": "/fa/products/software/inv/img/banner_web-catalog.jpg",
-				"link": "/fa/products/drv/inv/pmerit/catalog_en.html"
+				"image": "/id_id/products/software/inv/img/banner_web-catalog.jpg",
+				"link": "/id_id/products/drv/inv/pmerit/catalog_en.html"
             },
             {
 				"name": "New features make things even easier to use!",
-				"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"link": "/id_id/products/select/index.html"
             }
 		]
 	},
@@ -114,7 +114,7 @@
 			{
 				"name": "Contact us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

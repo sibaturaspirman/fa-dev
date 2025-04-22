@@ -36,7 +36,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -45,7 +45,7 @@
 		"items": [
 			{
 				"name": "MELSERVO Others",
-				"link": "/fa/products/drv/servo/items/other/index.html"
+				"link": "/id_id/products/drv/servo/items/other/index.html"
 			}
 		]
 	},
@@ -82,7 +82,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -91,18 +91,18 @@
 		"items": [
 			{
 				"name": "New features make things even easier to use!",
-				"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"link": "/id_id/products/select/index.html"
 			},
 			{
 				"name": "FAQ",
-				"image": "/fa/products/drv/servo/img/bnr_faq.jpg",
+				"image": "/id_id/products/drv/servo/img/bnr_faq.jpg",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2127"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_id/mobile-apps/index.html"
 			}
 		]
 	},
@@ -112,7 +112,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

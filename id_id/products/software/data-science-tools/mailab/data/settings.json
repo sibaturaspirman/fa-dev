@@ -11,32 +11,32 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/?modal=catalog"
+						"link": "/id_id/download/?modal=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/?modal=manual"
+						"link": "/id_id/download/?modal=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/fa/download/?modal=technews"
+						"link": "/id_id/download/?modal=technews"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/?modal=cad"
+						"link": "/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/?modal=software"
+						"link": "/id_id/download/?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/fa/download/?modal=lib"
+						"link": "/id_id/download/?modal=lib"
 					}
 				]
 			}
@@ -48,17 +48,17 @@
 		"items": [
 			{
 				"name": "Spotlight1_LP3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -74,32 +74,32 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/fa/products/spec.html"
+				"link": "/id_id/products/spec.html"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard.html"
+				"link": "/id_id/products/standard.html"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/renewal.html"
+				"link": "/id_id/products/renewal.html"
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/fa/products/replace.html"
+				"link": "/id_id/products/replace.html"
 			},
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/fa/dctlg/index.html"
+				"link": "/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -138,32 +138,32 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/?modal=catalog"
+				"link": "/id_id/download/?modal=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/?modal=manual"
+				"link": "/id_id/download/?modal=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/fa/download/?modal=technews"
+				"link": "/id_id/download/?modal=technews"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/?modal=cad"
+				"link": "/id_id/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/?modal=software"
+				"link": "/id_id/download/?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/fa/download/?modal=lib"
+				"link": "/id_id/download/?modal=lib"
 			}
 		]
 	},
@@ -199,7 +199,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

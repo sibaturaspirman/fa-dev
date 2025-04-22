@@ -26,12 +26,12 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/?modal=cad"
+						"link": "/id_id/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/?modal=software"
+						"link": "/id_id/download/?modal=software"
 					}
 				]
 			}
@@ -49,17 +49,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -70,49 +70,49 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/fa/products/cnt/plc_fx/pmerit/contents/index.html"
+				"link": "/id_id/products/cnt/plc_fx/pmerit/contents/index.html"
 			},
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Main%20Unit"
+				"link": "/id_id/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Main%20Unit"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/plc_fx",
+				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/plc_fx",
 				"child": [
 					{
 						"name": "Main Unit",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit"
 					},
 					{
 						"name": "Input/output extension",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension"
 					},
 					{
 						"name": "Analog",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog"
 					},
 					{
 						"name": "High-Speed Counter",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter"
 					},
 					{
 						"name": "Positioning",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning"
 					},
 					{
 						"name": "Data link/Communication",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication"
 					},
 					{
 						"name": "Programming",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Programming&search=B&word=Programming"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Programming&search=B&word=Programming"
 					},
 					{
 						"name": "Option/Training",
-						"link": "/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training"
+						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training"
 					}
 				]
 			}
@@ -188,8 +188,8 @@
 		"items": [
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_id/mobile-apps/index.html"
 			}
 		]
 	},
@@ -199,7 +199,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

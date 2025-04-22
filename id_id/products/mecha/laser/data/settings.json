@@ -11,7 +11,7 @@
           {
             "name": "Technical Bulletin",
             "icon": "techinfo",
-            "link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/laser"
+            "link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/laser"
           }
         ]
       }
@@ -38,7 +38,7 @@
       {
         "name": "Technical Bulletin",
         "icon": "techinfo",
-        "link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/laser"
+        "link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/laser"
       }
     ]
   },
@@ -56,7 +56,7 @@
       {
         "name": "Contact Us",
         "icon": "contact",
-        "link": "/fa/contact-us/index.html"
+        "link": "/id_id/contact-us/index.html"
       }
     ]
   }
