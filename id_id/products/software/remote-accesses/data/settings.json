@@ -19,7 +19,7 @@
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/fa/download/software/index.html"
+						"link": "/id_id/download/software/index.html"
 					}
 				]
 			},
@@ -53,7 +53,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/fa/download/search.page?kisyu=/got&mode=catalog"
+						"link": "/id_id/download/search.page?kisyu=/got&mode=catalog"
 					},
 					{
 						"name": "SCADA",
@@ -68,7 +68,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/got"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/got"
 					},
 					{
 						"name": "SCADA",
@@ -83,7 +83,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/got"
+						"link": "/id_id/download/software/search.page?mode=software&kisyu=/got"
 					}
 				]
 			}
@@ -93,11 +93,11 @@
 		"items": [
 			{
 				"name": "e-Learning FA",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			},
 			{
 				"name": "Daftar Istilah FA",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_id/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -110,7 +110,7 @@
 			{
 				"name": "Hubungi kami",
 				"icon": "estimate",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

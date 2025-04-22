@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -60,12 +60,12 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/fa/products/drv/inv/ex/watch/index.html"
+				"link": "/id_id/products/drv/inv/ex/watch/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -119,17 +119,17 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/?modal=cad"
+				"link": "/id_id/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/?modal=software"
+				"link": "/id_id/download/?modal=software"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/fa/download/?modal=lib"
+				"link": "/id_id/download/?modal=lib"
 			}
 		]
 	},
@@ -138,11 +138,11 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_id/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -151,18 +151,18 @@
 		"items": [
             {
 				"name": "The energy saving calculation system",
-				"image": "/fa/products/drv/inv/img/banner_simulation.jpg",
-				"link": "/fa/products/drv/inv/pmerit/select/index.html"
+				"image": "/id_id/products/drv/inv/img/banner_simulation.jpg",
+				"link": "/id_id/products/drv/inv/pmerit/select/index.html"
             },
             {
 				"name": "Digital Catalogs",
-				"image": "/fa/products/drv/inv/img/banner_web-catalog.jpg",
-				"link": "/fa/products/drv/inv/pmerit/catalog_en.html"
+				"image": "/id_id/products/drv/inv/img/banner_web-catalog.jpg",
+				"link": "/id_id/products/drv/inv/pmerit/catalog_en.html"
             },
             {
 				"name": "New features make things even easier to use!",
-				"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/fa/products/select/index.html"
+				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"link": "/id_id/products/select/index.html"
             }
 		]
 	},
@@ -172,7 +172,7 @@
 			{
 				"name": "Contact us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

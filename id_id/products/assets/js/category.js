@@ -14,7 +14,7 @@ const productsLabels = {
 const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   if(docNo && docNo !== '' && kisyuNo && kisyuNo !== '') {
     const GET_DOCUMENT_LINK_INFO = "/app/fa/DocumentSearchService/GetDocumentLinkInfo.do";
-    const NEW_GET_DOCUMENT_LINK_INFO = "/fa/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
+    const NEW_GET_DOCUMENT_LINK_INFO = "/id_id/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
     let count = 0;
     let kisyuSwitchedFlag = false;
     for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -99,8 +99,8 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       Products = productsSearchSuggetJSON.Products;
       Kisyus = $.extend(true, [], productsSearchSuggetJSON.Products);
       
-      $('body').append('<script src="/fa/shared/suggest/SGSTSearch.js"><\/script>');
-      $('body').append('<script src="/fa/shared/suggest/SGSTCore.js"><\/script>');
+      $('body').append('<script src="/id_id/shared/suggest/SGSTSearch.js"><\/script>');
+      $('body').append('<script src="/id_id/shared/suggest/SGSTCore.js"><\/script>');
 
     })
     .fail(function(jqXHR, textStatus, errorThrown){
@@ -137,7 +137,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
       }
     });
     // 制限文字数を満たない状態でサブミットされた場合はアラート表示
-    $('form[action="/fa/products/typename/search.do"]').each(function() {
+    $('form[action="/id_id/products/typename/search.do"]').each(function() {
       const $this = $(this);
       const $thisTextField = $this.find('input[type="text"]');
       $this.submit(function() {

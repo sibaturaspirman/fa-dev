@@ -38,7 +38,7 @@
 			{
 				"name": "catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?kisyu=/lvcb&mode=catalog"
+				"link": "/id_id/download/search.page?kisyu=/lvcb&mode=catalog"
 			}
 		]
 	},
@@ -58,7 +58,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

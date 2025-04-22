@@ -9,17 +9,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/3dsim"
+						"link": "/id_id/download/search.page?mode=catalog&kisyu=/3dsim"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/3dsim"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/3dsim"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/3dsim"
+						"link": "/id_id/download/software/search.page?mode=software&kisyu=/3dsim"
 					}
 				]
 			},
@@ -44,17 +44,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/3dsim"
+				"link": "/id_id/download/search.page?mode=catalog&kisyu=/3dsim"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/3dsim"
+				"link": "/id_id/download/search.page?mode=manual&kisyu=/3dsim"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/3dsim"
+				"link": "/id_id/download/software/search.page?mode=software&kisyu=/3dsim"
 			}
 		]
 	}

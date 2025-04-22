@@ -11,32 +11,32 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/ems"
+						"link": "/id_id/download/search.page?mode=catalog&kisyu=/ems"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/ems"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/ems"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/ems"
+						"link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/ems"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/cad/search.page?mode=cad&kisyu=/ems"
+						"link": "/id_id/download/cad/search.page?mode=cad&kisyu=/ems"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/ems"
+						"link": "/id_id/download/software/search.page?mode=software&kisyu=/ems"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/fa/download/software/search.page?mode=lib&kisyu=/ems"
+						"link": "/id_id/download/software/search.page?mode=lib&kisyu=/ems"
 					}
 				]
 			}
@@ -63,40 +63,40 @@
 				"child": [
 					{
 						"name": "Energy Measuring Unit",
-						"link": "/fa/products/faspec/search.page?kisyu=/ems"
+						"link": "/id_id/products/faspec/search.page?kisyu=/ems"
 					},
 					{
 						"name": "Energy Saving Data Collecting Server",
-						"link": "/fa/products/faspec/search.page?kisyu=/ems&radio=Energy%20Saving%20Data%20Collecting%20Server&search=B&word=Energy%20Saving%20Data%20Collecting%20Server"
+						"link": "/id_id/products/faspec/search.page?kisyu=/ems&radio=Energy%20Saving%20Data%20Collecting%20Server&search=B&word=Energy%20Saving%20Data%20Collecting%20Server"
 					},
 					{
 						"name": "Application Software",
-						"link": "/fa/products/faspec/search.page?kisyu=/ems&radio=Application%20Software&search=B&word=Application%20Software"
+						"link": "/id_id/products/faspec/search.page?kisyu=/ems&radio=Application%20Software&search=B&word=Application%20Software"
 					},
 					{
 						"name": "MELSEC iQ-R Series",
-						"link": "/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC%20iQ-R%20Series&search=B&word=MELSEC%20iQ-R%20Series"
+						"link": "/id_id/products/faspec/search.page?kisyu=/ems&radio=MELSEC%20iQ-R%20Series&search=B&word=MELSEC%20iQ-R%20Series"
 					},
 					{
 						"name": "MELSEC-Q Series",
-						"link": "/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC-Q%20Series&search=B&word=MELSEC-Q%20Series"
+						"link": "/id_id/products/faspec/search.page?kisyu=/ems&radio=MELSEC-Q%20Series&search=B&word=MELSEC-Q%20Series"
 					}
 				]
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/ems"
+				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/ems"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon"
+				"link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -118,32 +118,32 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/ems"
+				"link": "/id_id/download/search.page?mode=catalog&kisyu=/ems"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/ems"
+				"link": "/id_id/download/search.page?mode=manual&kisyu=/ems"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/ems"
+				"link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/ems"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/cad/search.page?mode=cad&kisyu=/ems"
+				"link": "/id_id/download/cad/search.page?mode=cad&kisyu=/ems"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/ems"
+				"link": "/id_id/download/software/search.page?mode=software&kisyu=/ems"
 			},
 			{
 				"name": "Sample Library",
 				"icon": "library",
-				"link": "/fa/download/software/search.page?mode=lib&kisyu=/ems"
+				"link": "/id_id/download/software/search.page?mode=lib&kisyu=/ems"
 			}
 		]
 	},
@@ -152,7 +152,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -166,7 +166,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

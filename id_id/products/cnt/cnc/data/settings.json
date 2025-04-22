@@ -11,27 +11,27 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/cnc"
+						"link": "/id_id/download/search.page?mode=catalog&kisyu=/cnc"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/cnc"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/cnc"
 					},
 					{
 						"name": "Technical Bulletin",
 						"icon": "technews",
-						"link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/cnc"
+						"link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/cnc"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/cad/search.page?mode=cad&kisyu=/cnc"
+						"link": "/id_id/download/cad/search.page?mode=cad&kisyu=/cnc"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/cnc"
+						"link": "/id_id/download/software/search.page?mode=software&kisyu=/cnc"
 					}
 				]
 			}
@@ -43,18 +43,18 @@
 		"items": [
 			{
 				"name": "Future of Mitsubishi Electric CNC",
-				"img": "/fa/products/cnt/cnc/img/spotlight_difference.jpg",
-				"link": "/fa/products/cnt/cnc/pr/difference/index.html"
+				"img": "/id_id/products/cnt/cnc/img/spotlight_difference.jpg",
+				"link": "/id_id/products/cnt/cnc/pr/difference/index.html"
 			},
 			{
 				"name": "M800V/M80V Series",
-				"img": "/fa/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
-				"link": "/fa/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
+				"img": "/id_id/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
+				"link": "/id_id/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
 			},
 			{
 				"name": "NC Virtual Simulator",
-				"img": "/fa/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
-				"link": "/fa/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
+				"img": "/id_id/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
+				"link": "/id_id/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
 			}
 		]
 	},
@@ -64,7 +64,7 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/cnc"
+				"link": "/id_id/products/faspec/search.page?kisyu=/cnc"
 			}
 		]
 	},
@@ -73,19 +73,19 @@
 		"items": [
 			{
 				"name": "Digital Catalogs",
-				"link": "/fa/products/cnt/cnc/pmerit/web_catalog/catalog_en.html"
+				"link": "/id_id/products/cnt/cnc/pmerit/web_catalog/catalog_en.html"
 			},
 			{
 				"name": "Movie",
-				"link": "/fa/products/cnt/cnc/pmerit/movie/index.html"
+				"link": "/id_id/products/cnt/cnc/pmerit/movie/index.html"
 			},
 			{
 				"name": "Events",
-				"link": "/fa/products/cnt/cnc/evt/index.html"
+				"link": "/id_id/products/cnt/cnc/evt/index.html"
 			},
 			{
 				"name": "CNC NEWS",
-				"link": "/fa/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
+				"link": "/id_id/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
 			}
 		]
 	},
@@ -103,27 +103,27 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/cnc"
+				"link": "/id_id/download/search.page?mode=catalog&kisyu=/cnc"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/cnc"
+				"link": "/id_id/download/search.page?mode=manual&kisyu=/cnc"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/cnc"
+				"link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/cnc"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/cad/search.page?mode=cad&kisyu=/cnc"
+				"link": "/id_id/download/cad/search.page?mode=cad&kisyu=/cnc"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/cnc"
+				"link": "/id_id/download/software/search.page?mode=software&kisyu=/cnc"
 			}
 		]
 	},
@@ -136,13 +136,13 @@
 		"items": [
 			{
 				"name": "YouTube MECHATRO PLUS",
-				"image": "/fa/products/cnt/cnc/img/banner_youtube_mecha.jpg",
+				"image": "/id_id/products/cnt/cnc/img/banner_youtube_mecha.jpg",
 				"link": "https://www.youtube.com/c/MITSUBISHIELECTRICMECHATRONICS"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_id/mobile-apps/index.html"
 			}
 		]
 	},
@@ -152,7 +152,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

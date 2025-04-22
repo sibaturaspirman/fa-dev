@@ -34,17 +34,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -60,32 +60,32 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/fa/products/spec.html"
+				"link": "/id_id/products/spec.html"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard.html"
+				"link": "/id_id/products/standard.html"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/renewal.html"
+				"link": "/id_id/products/renewal.html"
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/fa/products/replace.html"
+				"link": "/id_id/products/replace.html"
 			},
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/fa/dctlg/index.html"
+				"link": "/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -165,7 +165,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/support/index.html"
+				"link": "/id_id/support/index.html"
 			},
 			{
 				"name": "FAQs",

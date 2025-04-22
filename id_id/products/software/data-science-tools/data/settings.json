@@ -68,11 +68,11 @@
 		"items": [
 			{
 				"name": "e-Learning FA",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			},
 			{
 				"name": "Daftar Istilah FA",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_id/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -85,7 +85,7 @@
 			{
 				"name": "Hubungi kami",
 				"icon": "estimate",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

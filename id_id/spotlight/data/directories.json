@@ -1,11 +1,11 @@
 {
   "directories": {
     "name": "FAトップ",
-    "path": "/fa/",
+    "path": "/id_id/",
     "child": [
       {
         "name": "Spotlight",
-        "path": "/fa/spotlight/"
+        "path": "/id_id/spotlight/"
       }
     ]
   }

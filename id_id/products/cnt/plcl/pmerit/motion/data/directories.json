@@ -1,15 +1,15 @@
 {
 	"layerNav": {
 		"name": "Simple Motion/Positioning",
-		"path": "/fa/products/cnt/plcl/pmerit/motion/index.html",
+		"path": "/id_id/products/cnt/plcl/pmerit/motion/index.html",
 		"firstLayer": [
 			{
 				"name": "Lineup",
-				"path": "/fa/products/cnt/plcl/pmerit/motion/index.html"
+				"path": "/id_id/products/cnt/plcl/pmerit/motion/index.html"
 			},
 			{
 				"name": "Features",
-				"path": "/fa/products/cnt/plcl/pmerit/motion/point.html"
+				"path": "/id_id/products/cnt/plcl/pmerit/motion/point.html"
 			}
 		]
 	}

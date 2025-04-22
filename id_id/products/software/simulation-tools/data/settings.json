@@ -9,17 +9,17 @@
 					{
 						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/fa/download/index.html?modal=catalog"
+						"link": "/id_id/download/index.html?modal=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/index.html?modal=manual"
+						"link": "/id_id/download/index.html?modal=manual"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/fa/download/index.html?modal=software"
+						"link": "/id_id/download/index.html?modal=software"
 					}
 				]
 			},
@@ -36,17 +36,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -56,12 +56,12 @@
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/fa/dctlg/index.html"
+				"link": "/id_id/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_id/products/select/index.html"
 			}
 		]
 	},
@@ -91,7 +91,7 @@
 				"child": [
 					{
 						"name": "MELSOFT Gemini",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/3dsim"
+						"link": "/id_id/download/search.page?mode=catalog&kisyu=/3dsim"
 					}
 				]				
 			},
@@ -102,14 +102,14 @@
 				"child": [
 					{
 						"name": "MELSOFT Gemini",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/3dsim"
+						"link": "/id_id/download/search.page?mode=manual&kisyu=/3dsim"
 					}
 				]				
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/fa/download/index.html?modal=software"
+				"link": "/id_id/download/index.html?modal=software"
 			}
 		]
 	},
@@ -117,11 +117,11 @@
 		"items": [
 			{
 				"name": "e-Learning FA",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_id/assist/e-learning/index.html"
 			},
 			{
 				"name": "Daftar Istilah FA",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_id/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -134,7 +134,7 @@
 			{
 				"name": "Hubungki kami",
 				"icon": "estimate",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQ",

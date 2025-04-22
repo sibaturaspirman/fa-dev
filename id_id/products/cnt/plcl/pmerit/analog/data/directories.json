@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "Analog/Temperature Control",
-		"path": "/fa/products/cnt/plcl/pmerit/analog/index.html",
+		"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html",
 		"firstLayer": [
 			{
 				"name": "Lineup",
-				"path": "/fa/products/cnt/plcl/pmerit/analog/index.html"
+				"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html"
 			},
 			{
 				"name": "Analog Module Features",
-				"path": "/fa/products/cnt/plcl/pmerit/analog/point.html"
+				"path": "/id_id/products/cnt/plcl/pmerit/analog/point.html"
 			},
 			{
 				"name": "Temperature Control Module Features",
-				"path": "/fa/products/cnt/plcl/pmerit/analog/tc_point.html"
+				"path": "/id_id/products/cnt/plcl/pmerit/analog/tc_point.html"
 			}
 		]
 	}

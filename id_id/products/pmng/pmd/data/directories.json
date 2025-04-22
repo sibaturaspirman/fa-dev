@@ -1,27 +1,27 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/fa/index.html",
+    "path": "/id_id/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/fa/products/index.html",
+        "path": "/id_id/products/index.html",
         "child": [
           {
             "name": "Low-voltage Circuit Breakers",
-            "path": "/fa/products/lvd/lvcb/index.html"
+            "path": "/id_id/products/lvd/lvcb/index.html"
           },
           {
             "name": "Contactors and Motor Starters",
-            "path": "/fa/products/lvd/lvsw/index.html"
+            "path": "/id_id/products/lvd/lvsw/index.html"
           },
           {
             "name": "Power Management Meters",
-            "path": "/fa/products/pmng/pmd/index.html",
+            "path": "/id_id/products/pmng/pmd/index.html",
             "child": [
 				{
 					"name": "Electrical Indicators",
-					"path": "/fa/products/pmng/pmd/items/eim/index.html"
+					"path": "/id_id/products/pmng/pmd/items/eim/index.html"
 				}
             ]
           }
@@ -31,18 +31,18 @@
   },
 "switchNav": {
 	"name": "Power Management Meters",
-	"path": "/fa/products/pmng/pmd/index.html",
+	"path": "/id_id/products/pmng/pmd/index.html",
 	"child": [
 		{
         "group": "Electrical Indicators",
         "name": "Electronic Multi Measuring Instruments (ME96 Series)",
-        "feature": "/fa/products/pmng/pmd/pmerit/eim/index.html",
-        "spec": "/fa/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
-        "standard": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
-        "discon": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
+        "feature": "/id_id/products/pmng/pmd/pmerit/eim/index.html",
+        "spec": "/id_id/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
+        "standard": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
+        "discon": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
 		"return": {
 			"name": "Electrical Indicators",
-			"path": "/fa/products/pmng/pmd/items/eim/index.html"
+			"path": "/id_id/products/pmng/pmd/items/eim/index.html"
 		}
 		}
 	]
