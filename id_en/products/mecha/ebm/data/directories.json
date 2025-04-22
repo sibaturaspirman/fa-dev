@@ -1,15 +1,15 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/fa/index.html",
+    "path": "/id_en/index.html",
     "child": [
       {
         "name": "Products",
-        "path": "/fa/products/index.html",
+        "path": "/id_en/products/index.html",
         "child": [
           {
             "name": "Electron Beam Machines",
-            "path": "/fa/products/mecha/ebm/index.html"
+            "path": "/id_en/products/mecha/ebm/index.html"
           }
         ]
       }

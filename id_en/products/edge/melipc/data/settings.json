@@ -11,17 +11,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/melipc&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
 					}
 				]
 			}
@@ -39,17 +39,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "https://www.mitsubishielectric.com/fa/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "https://www.mitsubishielectric.com/fa/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "https://www.mitsubishielectric.com/fa/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -60,17 +60,17 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
 			}
 		]
 	},
@@ -109,17 +109,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/melipc&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
 			}
 		]
 	},
