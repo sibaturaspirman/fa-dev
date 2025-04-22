@@ -1,15 +1,15 @@
 {
   "directories": {
     "name": "FAトップ",
-    "path": "/fa/",
+    "path": "/id_id/",
     "child": [
       {
         "name": "サービス・サポート",
-        "path": "/fa/service-support/",
+        "path": "/id_id/service-support/",
         "child": [
           {
             "name": "修理・アフターサービス",
-            "path": "/fa/service-support/service/repair/"
+            "path": "/id_id/service-support/service/repair/"
           }
         ]
       }
