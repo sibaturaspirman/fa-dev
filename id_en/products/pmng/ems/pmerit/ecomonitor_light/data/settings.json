@@ -39,7 +39,7 @@
 			{
 				"name": "catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/ems"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ems"
 			}
 		]
 	},

@@ -1,18 +1,18 @@
 {
   "listLinkLabel": "Update information",
-  "listLink": "/fa/products/pmng/ems/update_index.html",
+  "listLink": "/id_en/products/pmng/ems/update_index.html",
   "items": [
     {
       "pubDate": "Jul 11, 2024",
       "title": "Energy Saving Supporting Devices：Sales and Service is added.",
       "category": "Technical bulletin",
-      "description": "<a href=\"/fa/download/techinfo/search.page?mode=sales&kisyu=/ems#YAMA486\">Compliance with EU Battery Regulations for Power Management Meters and Energy Saving Supporting Devices</a>"
+      "description": "<a href=\"/id_en/download/techinfo/search.page?mode=sales&kisyu=/ems#YAMA486\">Compliance with EU Battery Regulations for Power Management Meters and Energy Saving Supporting Devices</a>"
     },
     {
       "pubDate": "Jul 5, 2024",
       "title": "Energy Saving Supporting Devices：Sales and Service is added.",
       "category": "Technical bulletin",
-      "description": "<a href=\"/fa/download/techinfo/search.page?mode=sales&kisyu=/ems#YAMA484\">Specification change of packaging box for EMU</a>"
+      "description": "<a href=\"/id_en/download/techinfo/search.page?mode=sales&kisyu=/ems#YAMA484\">Specification change of packaging box for EMU</a>"
     },
     {
       "pubDate": "Jul 1, 2024",
@@ -30,7 +30,7 @@
       "pubDate": "May 15, 2024",
       "title": "Energy Saving Supporting Devices：Software is updated.",
       "category": "Software",
-      "description": "・<a href=\"/fa/download/software/detailsearch.page?mode=software&kisyu=/ems&shiryoid=1000000112\">Data Acquisition Software for EcoMonitorLight/EcoMonitorPlus</a>"
+      "description": "・<a href=\"/id_en/download/software/detailsearch.page?mode=software&kisyu=/ems&shiryoid=1000000112\">Data Acquisition Software for EcoMonitorLight/EcoMonitorPlus</a>"
     }
   ]
 }
