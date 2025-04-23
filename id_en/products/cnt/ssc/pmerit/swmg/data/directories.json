@@ -1,15 +1,15 @@
 {
   "layerNav": {
     "name": "Motion Control Software",
-    "path": "/fa/products/cnt/ssc/items/swmg/index.html",
+    "path": "/id_en/products/cnt/ssc/items/swmg/index.html",
     "firstLayer": [
         {
           "name": "Features",
-          "path": "/fa/products/cnt/ssc/pmerit/swmg/index.html"
+          "path": "/id_en/products/cnt/ssc/pmerit/swmg/index.html"
         },
         {
           "name": "System Configuration",
-          "path": "/fa/products/cnt/ssc/pmerit/swmg/system.html"
+          "path": "/id_en/products/cnt/ssc/pmerit/swmg/system.html"
         }
     ]
   }

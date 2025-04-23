@@ -1,19 +1,19 @@
 {
   "layerNav": {
     "name": "FREQROL-CS series",
-    "path": "/fa/products/drv/inv/items/fr_cs/index.html",
+    "path": "/id_en/products/drv/inv/items/fr_cs/index.html",
     "firstLayer": [
       {
         "name": "Feature",
-        "path": "/fa/products/drv/inv/pmerit/fr_cs/index.html"
+        "path": "/id_en/products/drv/inv/pmerit/fr_cs/index.html"
       },
       {
         "name": "Application examples",
-        "path": "/fa/products/drv/inv/pmerit/fr_cs/app.html"
+        "path": "/id_en/products/drv/inv/pmerit/fr_cs/app.html"
       },
       {
         "name": "Model Configuration",
-        "path": "/fa/products/drv/inv/pmerit/fr_cs/lup.html"
+        "path": "/id_en/products/drv/inv/pmerit/fr_cs/lup.html"
       }
     ]
   }

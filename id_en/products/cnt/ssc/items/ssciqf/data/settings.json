@@ -11,27 +11,27 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/fa/download/search.page?mode=catalog&kisyu=/ssc"
+						"link": "/id_en/download/search.page?mode=catalog&kisyu=/ssc"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/ssc"
+						"link": "/id_en/download/search.page?mode=manual&kisyu=/ssc"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
+						"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/cad/search.page?mode=cad&kisyu=/ssc"
+						"link": "/id_en/download/cad/search.page?mode=cad&kisyu=/ssc"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/ssc"
+						"link": "/id_en/download/software/search.page?mode=software&kisyu=/ssc"
 					}
 				
 				]
@@ -54,11 +54,11 @@
 				"child":[
 					{
 						"name":"Motion module",                                
-					    "link":"/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series"
+					    "link":"/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series"
 					},
 					{
 						"name":"Simple Motion module",
-					    "link":"/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series"
+					    "link":"/id_en/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series"
 					}
 				]
 			},
@@ -69,18 +69,18 @@
 				"child":[
 					{
 						"name":"Motion module",
-					    "link":"/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series"
+					    "link":"/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series"
 					},
 					{
 						"name":"Simple Motion module",
-					    "link":"/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series"
+					    "link":"/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series"
 					}					
 				]
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_en/products/select/index.html"
 			}
 		]
 	},
@@ -103,27 +103,27 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/fa/download/search.page?mode=catalog&kisyu=/ssc"
+				"link": "/id_en/download/search.page?mode=catalog&kisyu=/ssc"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/fa/download/search.page?mode=manual&kisyu=/ssc"
+				"link": "/id_en/download/search.page?mode=manual&kisyu=/ssc"
 			},
 			{
 				"name": "Technical<br>Bulletin",
 				"icon": "techinfo",
-				"link": "/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
+				"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/cad/search.page?mode=cad&kisyu=/ssc"
+				"link": "/id_en/download/cad/search.page?mode=cad&kisyu=/ssc"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/software/search.page?mode=software&kisyu=/ssc"
+				"link": "/id_en/download/software/search.page?mode=software&kisyu=/ssc"
 			}
 				
 		]
@@ -133,7 +133,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_en/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -142,18 +142,18 @@
 		"items": [
 				{
 					"name": "New features make things even easier to use!",
-					"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
-					"link": "/fa/products/select/index.html"
+					"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
+					"link": "/id_en/products/select/index.html"
 				},
 				{
 					"name": "FAQ",
-					"image": "/fa/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
+					"image": "/id_en/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
 					"link": "https://fa-faq.mitsubishielectric.com/category/show/1997"
 				},
 				{
 					"name": "FA SPEC Search",
-					"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-					"link": "/fa/mobile-apps/index.html"
+					"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+					"link": "/id_en/mobile-apps/index.html"
 				}
 		]
 	},
@@ -163,7 +163,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

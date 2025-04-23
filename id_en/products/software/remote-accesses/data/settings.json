@@ -19,7 +19,7 @@
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/software/index.html"
+						"link": "/id_en/download/software/index.html"
 					}
 				]
 			},
@@ -53,7 +53,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/fa/download/search.page?kisyu=/got&mode=catalog"
+						"link": "/id_en/download/search.page?kisyu=/got&mode=catalog"
 					},
 					{
 						"name": "SCADA",
@@ -68,7 +68,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/fa/download/search.page?mode=manual&kisyu=/got"
+						"link": "/id_en/download/search.page?mode=manual&kisyu=/got"
 					},
 					{
 						"name": "SCADA",
@@ -83,7 +83,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/fa/download/software/search.page?mode=software&kisyu=/got"
+						"link": "/id_en/download/software/search.page?mode=software&kisyu=/got"
 					}
 				]
 			}
@@ -93,11 +93,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_en/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/fa/assist/fa_dictionary/index.html"
+				"link": "/id_en/assist/fa_dictionary/index.html"
 			}
 		]
 	},
@@ -110,7 +110,7 @@
 			{
 				"name": "Contact us",
 				"icon": "estimate",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

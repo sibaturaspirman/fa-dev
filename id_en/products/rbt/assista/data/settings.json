@@ -155,7 +155,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_en/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -175,7 +175,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

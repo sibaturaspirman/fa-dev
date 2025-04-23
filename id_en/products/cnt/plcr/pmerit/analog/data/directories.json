@@ -1,19 +1,19 @@
 {
 	"layerNav": {
 		"name": "Analog",
-		"path": "/fa/products/cnt/plcr/pmerit/analog/index.html",
+		"path": "/id_en/products/cnt/plcr/pmerit/analog/index.html",
 		"firstLayer": [
 			{
 				"name": "Lineup",
-				"path": "/fa/products/cnt/plcr/pmerit/analog/index.html"
+				"path": "/id_en/products/cnt/plcr/pmerit/analog/index.html"
 			},
 			{
 				"name": "Features",
-				"path": "/fa/products/cnt/plcr/pmerit/analog/merit.html"
+				"path": "/id_en/products/cnt/plcr/pmerit/analog/merit.html"
 			},
 			{
 				"name": "Specifications",
-				"path": "/fa/products/cnt/plcr/pmerit/analog/spec.html"
+				"path": "/id_en/products/cnt/plcr/pmerit/analog/spec.html"
 			}
 		]
 	}

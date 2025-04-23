@@ -82,7 +82,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/fa/assist/e-learning/index.html"
+				"link": "/id_en/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -91,17 +91,17 @@
 		"items": [
 			{
 				"name": "New features make things even easier to use!",
-				"image": "/fa/products/assets/img/faist-202411-relatedlink-en.jpg",
+				"image": "/id_en/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FAQ",
-				"image": "/fa/products/drv/servo/img/bnr_faq.jpg",
+				"image": "/id_en/products/drv/servo/img/bnr_faq.jpg",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2127"
 			},
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
+				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
@@ -112,7 +112,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",
