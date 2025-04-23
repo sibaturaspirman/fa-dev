@@ -1,11 +1,11 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/fa/",
+    "path": "/id_en/",
     "child": [
       {
         "name": "Download",
-        "path": "/fa/download/index.html"   
+        "path": "/id_en/download/index.html"   
       }
     ]
   }

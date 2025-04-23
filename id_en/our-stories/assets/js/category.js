@@ -127,7 +127,7 @@
     if(articleID) {
       cardElement = `<div class="l-tile__item">
       <div class="c-card ${newFlag}">
-      <a class="c-card__link" href="/fa/our-stories/${articleID}/index.html">
+      <a class="c-card__link" href="/id_en/our-stories/${articleID}/index.html">
       <div class="c-card__head">
       <div class="c-card__img">
       <img src="${allArticleObject[articleID]['image']}" alt="" decoding="async">

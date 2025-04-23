@@ -1,27 +1,27 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/fa/",
+    "path": "/id_en/",
     "child": [
       {
         "name": "Products",
-        "path": "/fa/products/index.html",
+        "path": "/id_en/products/index.html",
         "child": [
           {
             "name": "Visualization software",
-            "path": "/fa/products/software/visualisation/index.html",
+            "path": "/id_en/products/software/visualisation/index.html",
             "child": [
               {
                 "name": "SCADA software GENESIS64&trade;",
-                "path": "/fa/products/software/visualisation/genesis64/index.html"
+                "path": "/id_en/products/software/visualisation/genesis64/index.html"
               },
               {
                 "name": "HMI software (GOT)",
-                "path": "/fa/products/software/visualisation/got/index.html"
+                "path": "/id_en/products/software/visualisation/got/index.html"
               },
               {
                 "name": "System recorder related software",
-                "path": "/fa/products/software/visualisation/system-recorder/index.html"
+                "path": "/id_en/products/software/visualisation/system-recorder/index.html"
               },
               {
                 "name": "e-F@ctory Support Module",
@@ -35,12 +35,12 @@
   },
   "switchNav": {
     "name": "Vidualization software",
-    "path": "/fa/products/software/visualisation/index.html",
+    "path": "/id_en/products/software/visualisation/index.html",
     "child": [
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/fa/products/software/visualisation/genesis64/index.html",
+        "feature": "/id_en/products/software/visualisation/genesis64/index.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -48,7 +48,7 @@
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/fa/products/software/visualisation/genesis64/our-stories.html",
+        "feature": "/id_en/products/software/visualisation/genesis64/our-stories.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -56,7 +56,7 @@
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/fa/products/software/visualisation/genesis64/lineup.html",
+        "feature": "/id_en/products/software/visualisation/genesis64/lineup.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -64,7 +64,7 @@
       {
         "group": "Vidualization software",
         "name": "SCADA software GENESIS64&trade;",
-        "feature": "/fa/products/software/visualisation/genesis64/download.html",
+        "feature": "/id_en/products/software/visualisation/genesis64/download.html",
         "spec": "",
         "standard": "",
         "discon": ""
@@ -73,23 +73,23 @@
   },
   "layerNav": {
     "name": "Vidualization software",
-    "path": "/fa/products/software/visualisation/genesis64/index.html",
+    "path": "/id_en/products/software/visualisation/genesis64/index.html",
     "firstLayer": [
       {
         "name": "Concept",
-        "path": "/fa/products/software/visualisation/genesis64/index.html"
+        "path": "/id_en/products/software/visualisation/genesis64/index.html"
       },
       {
         "name": "Introduction example",
-        "path": "/fa/products/software/visualisation/genesis64/our-stories.html"
+        "path": "/id_en/products/software/visualisation/genesis64/our-stories.html"
       },
       {
         "name": "Lineup",
-        "path": "/fa/products/software/visualisation/genesis64/lineup.html"
+        "path": "/id_en/products/software/visualisation/genesis64/lineup.html"
       },
       {
         "name": "Download",
-        "path": "/fa/products/software/visualisation/genesis64/download.html"
+        "path": "/id_en/products/software/visualisation/genesis64/download.html"
       }
     ]
   }

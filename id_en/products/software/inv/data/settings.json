@@ -36,12 +36,12 @@
 			{
 				"name": "Featured Products",
 				"icon": "announce",
-				"link": "/fa/products/drv/inv/ex/watch/index.html"
+				"link": "/id_en/products/drv/inv/ex/watch/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/fa/products/select/index.html"
+				"link": "/id_en/products/select/index.html"
 			}
 		]
 	},
@@ -114,7 +114,7 @@
 			{
 				"name": "Contact us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

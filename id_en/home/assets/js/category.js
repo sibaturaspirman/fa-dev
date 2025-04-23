@@ -72,7 +72,7 @@
       return `
         <div class="l-tile__item">
         <div class="c-card ${newFlag}">
-        <a class="c-card__link" href="/fa/our-stories/${data.articleID}/index.html">
+        <a class="c-card__link" href="/id_en/our-stories/${data.articleID}/index.html">
         <div class="c-card__head">
         <div class="c-card__img">
         <img src="${data.image}" alt="" decoding="async">
@@ -156,7 +156,7 @@
       return `
         <div class="l-tile__item">
         <div class="c-card c-card--movie">
-        <a class="c-card__link" href="/fa/media-library/index.html?movie=${data.movieID}">
+        <a class="c-card__link" href="/id_en/media-library/index.html?movie=${data.movieID}">
         <div class="c-card__head">
         <div class="c-card__img">
         <img src="http://img.youtube.com/vi/${data.movieID}/sddefault.jpg" alt="" decoding="async">

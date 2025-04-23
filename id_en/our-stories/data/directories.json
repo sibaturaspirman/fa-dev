@@ -1,11 +1,11 @@
 {
   "directories": {
     "name": "Home",
-    "path": "/fa/",
+    "path": "/id_en/",
     "child": [
       {
         "name": "Our Stories",
-        "path": "/fa/our-stories/"
+        "path": "/id_en/our-stories/"
       }
     ]
   }

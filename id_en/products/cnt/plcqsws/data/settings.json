@@ -26,17 +26,17 @@
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/fa/download/?modal=cad"
+						"link": "/id_en/download/?modal=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/fa/download/?modal=software"
+						"link": "/id_en/download/?modal=software"
 					},
 					{
 						"name": "Sample<br>Library",
 						"icon": "library",
-						"link": "/fa/download/?modal=lib"
+						"link": "/id_en/download/?modal=lib"
 					}
 				]
 			}
@@ -48,17 +48,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/fa/shared/gws0001/img/dummy_index.png",
+				"img": "/id_en/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -69,64 +69,64 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/fa/products/faspec/search.page?kisyu=/plcqsws",
+				"link": "/id_en/products/faspec/search.page?kisyu=/plcqsws",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+            "link": "/id_en/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+            "link": "/id_en/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+            "link": "/id_en/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
           }
         ]
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/fa/products/standard/SearchServlet.page?kisyu=/plcqsws",
+				"link": "/id_en/products/standard/SearchServlet.page?kisyu=/plcqsws",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+            "link": "/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+            "link": "/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+            "link": "/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
           }
         ]
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
+				"link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
+            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
+            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
+            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
           }
         ]
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/fa/products/cnt/plca/ex/renew/renewal/index.html"
+				"link": "/id_en/products/cnt/plca/ex/renew/renewal/index.html"
 			}
 		]
 	},
@@ -180,12 +180,12 @@
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/fa/download/?modal=cad"
+				"link": "/id_en/download/?modal=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/fa/download/?modal=software"
+				"link": "/id_en/download/?modal=software"
 			}
 		]
 	},
@@ -215,8 +215,8 @@
 		"items": [
 			{
 				"name": "FA SPEC Search",
-				"image": "/fa/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/fa/mobile-apps/index.html"
+				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
+				"link": "/id_en/mobile-apps/index.html"
             }
 		]
 	},
@@ -226,7 +226,7 @@
 			{
 				"name": "Contact Us",
 				"icon": "contact",
-				"link": "/fa/contact-us/index.html"
+				"link": "/id_en/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",
