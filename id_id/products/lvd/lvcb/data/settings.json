@@ -11,27 +11,27 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/id_id/download/search.page?mode=catalog&kisyu=/lvcb"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/lvcb"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_id/download/search.page?mode=manual&kisyu=/lvcb"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/lvcb"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/lvcb"
+						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/lvcb"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/cad/search.page?mode=cad&kisyu=/lvcb"
+						"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?mode=cad&kisyu=/lvcb"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_id/download/software/search.page?mode=software&kisyu=/lvcb"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/lvcb"
 					}
 				]
 			}
@@ -91,27 +91,27 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/id_id/download/search.page?mode=catalog&kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/lvcb"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/id_id/download/search.page?mode=manual&kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/lvcb"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/lvcb"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/cad/search.page?mode=cad&kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?mode=cad&kisyu=/lvcb"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_id/download/software/search.page?mode=software&kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/lvcb"
 			}
 		]
 	},

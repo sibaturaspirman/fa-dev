@@ -61,7 +61,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -91,7 +91,7 @@
 				"child": [
 					{
 						"name": "MELSOFT Gemini",
-						"link": "/id_id/download/search.page?mode=catalog&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/3dsim"
 					}
 				]				
 			},
@@ -102,7 +102,7 @@
 				"child": [
 					{
 						"name": "MELSOFT Gemini",
-						"link": "/id_id/download/search.page?mode=manual&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/3dsim"
 					}
 				]				
 			},
@@ -117,11 +117,11 @@
 		"items": [
 			{
 				"name": "e-Learning FA",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "Daftar Istilah FA",
-				"link": "/id_id/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},

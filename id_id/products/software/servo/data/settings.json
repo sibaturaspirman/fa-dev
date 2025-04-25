@@ -11,17 +11,17 @@
 					{
 					    "name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/servo&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/servo&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
 					}
 				]
 			}
@@ -69,7 +69,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -96,17 +96,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/servo&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/servo&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
 			}
 		]
 	},
@@ -115,7 +115,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -125,7 +125,7 @@
 			{
 				"name": "New features make things even easier to use!",
 				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FAQ",
@@ -135,7 +135,7 @@
 			{
 				"name": "FA SPEC Search",
 				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_id/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
 	},

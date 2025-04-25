@@ -11,17 +11,17 @@
 					{
 						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/servo&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/servo&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
 					}
 				]
 			}
@@ -34,7 +34,7 @@
 			{
 				"name": "New features make things even easier to use!",
 				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},

@@ -11,12 +11,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/gear&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/gear&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=manual"
 					}
 				]
 			}
@@ -85,7 +85,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -124,12 +124,12 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/gear&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/gear&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=manual"
 			}
 		]
 	},

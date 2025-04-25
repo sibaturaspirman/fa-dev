@@ -49,8 +49,8 @@
 			"group": "Circuit Breakers for Distribution Panel and Control Panel",
 			"name": "KC Series",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
-			"spec": "/id_id/products/faspec/search.page?kisyu=/lvcb&current=PBCB_KC",
-			"standard": "/id_id/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB_KC",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=PBCB_KC",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB_KC",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Distribution Panel and Control Panel",

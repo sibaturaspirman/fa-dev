@@ -11,17 +11,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/sensor&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/sensor&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/sensor&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/sensor&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/sensor&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/sensor&mode=techinfo"
 					}
 				]
 			}
@@ -84,7 +84,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -117,17 +117,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/sensor&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/sensor&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/sensor&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/sensor&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?kisyu=/sensor&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/sensor&mode=techinfo"
 			}
 		]
 	},

@@ -43,8 +43,8 @@
 			"group": "Molded Case Circuit Breakers with MDU",
 			"name": "Molded Case Circuit Breakers with MDU",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/mdu/index.html",
-			"spec": "/id_id/products/faspec/search.page?kisyu=/lvcb&current=MDU",
-			"standard": "/id_id/products/standard/SearchServlet.page?kisyu=/lvcb&current=MDU",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MDU",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MDU",
 			"discon": "",
             "return": {
                 "name": "Molded Case Circuit Breakers with MDU",

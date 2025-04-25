@@ -11,17 +11,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/robot&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/robot&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
 					},
 					{
 						"name": "CAD Data",
@@ -80,17 +80,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/robot&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/robot&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/robot&mode=techinfo"
 			},
 			{
 				"name": "Software",
@@ -109,7 +109,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -119,7 +119,7 @@
 				{
 				"name": "FA SPEC Search - It is available an App.",
 				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_id/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
 	},

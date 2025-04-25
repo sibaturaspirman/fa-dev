@@ -11,17 +11,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
 					},
 					{
 						"name": "CAD Data",
@@ -69,57 +69,57 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/plcqsws",
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
           }
         ]
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/plcqsws",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcqsws",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay"
           }
         ]
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon",
         "child": [
           {
             "name": "Safety programmable controller",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20programmable%20controller"
           },
           {
             "name": "Safety controller",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20controller"
           },
           {
             "name": "Safety relay",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcqsws&category=discon&bunrui1=Safety%20relay"
           }
         ]
 			},
@@ -165,17 +165,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
 			},
 			{
 				"name": "CAD Data",
@@ -216,7 +216,7 @@
 			{
 				"name": "FA SPEC Search",
 				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_id/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
             }
 		]
 	},

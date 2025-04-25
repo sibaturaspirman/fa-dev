@@ -84,7 +84,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -147,11 +147,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/id_id/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},

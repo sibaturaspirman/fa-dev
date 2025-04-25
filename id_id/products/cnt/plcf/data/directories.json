@@ -65,64 +65,64 @@
 				"group": "iQ-F",
 				"name": "CPU module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/cpu/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=CPU%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=CPU%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "I/O module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/io/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=Input/Output%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Input/Output%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "Analog Control module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/analog/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=Analog%20I/O%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Analog%20I/O%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "High-Speed Counting module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/hc/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=High-speed%20counter%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=High-speed%20counter%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "Motion/Positioning Control module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/positioning/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=Motion/Positioning%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Motion/Positioning%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "Network/Communication module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/communication/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=Network/Communication%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Network/Communication%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "Safety extension module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/safety/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=Safety%20Extension%20Module",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Safety%20Extension%20Module",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module",
 				"discon": ""
 			},
 			{
 				"group": "iQ-F",
 				"name": "Option",
 				"feature": "/id_id/products/cnt/plcf/pmerit/option/index.html",
-				"spec": "/id_id/products/faspec/search.page?kisyu=/plcf&search=B&word=Option",
-				"standard": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option",
+				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Option",
+				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option",
 				"discon": ""
 			},
 			{
