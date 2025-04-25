@@ -13,8 +13,8 @@ const productsLabels = {
 // おすすめカタログ用ドキュメントリンク機能追加
 const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   if(docNo && docNo !== '' && kisyuNo && kisyuNo !== '') {
-    const GET_DOCUMENT_LINK_INFO = "/app/fa/DocumentSearchService/GetDocumentLinkInfo.do";
-    const NEW_GET_DOCUMENT_LINK_INFO = "/id_id/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
+    const GET_DOCUMENT_LINK_INFO = "https://www.mitsubishielectric.com/app/fa/DocumentSearchService/GetDocumentLinkInfo.do";
+    const NEW_GET_DOCUMENT_LINK_INFO = "https://www.mitsubishielectric.com/fa/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
     let count = 0;
     let kisyuSwitchedFlag = false;
     for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -75,7 +75,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
 (function($) {
   'use strict';
   // ドキュメントリンク 新システム移行機種定義ファイル読み込み
-  $("<script src='/fa/shared/js/ikouKisyu.js'></script>").appendTo("body");
+  $("<script src='https://www.mitsubishielectric.com/fa/shared/js/ikouKisyu.js'></script>").appendTo("body");
 
   const queryParametersObject = MEL_SETTINGS.helper.getCurrentQueries();
   
@@ -88,7 +88,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   // 製品検索初期化
   if($radioSearchType.length > 0) {
     $.ajax({
-      url: '/fa/shared/suggest/jn/sdata.json',
+      url: '/id_id/shared/suggest/jn/sdata.json',
       dataType: 'text'
     })
     .done(function(data) {
@@ -636,14 +636,14 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
         `);        
       } else {
         productsNewsListHtml = `
-          <li><p class="c-text l-separator-x1_5-imp">There are no update information at this time.</p></li>
+          <li><p class="c-text l-separator-x1_5-imp">Tidak ada informasi pembaruan saat ini.</p></li>
         `;    
         $productsUpdatedInformation.html(productsNewsListHtml);
       }
     })
     .fail(function() {
       let productsNewsListHtml = `
-        <li><p class="c-text l-separator-x1_5-imp">There are no update information at this time.</p></li>
+        <li><p class="c-text l-separator-x1_5-imp">Tidak ada informasi pembaruan saat ini.</p></li>
       `;
       $productsUpdatedInformation.html(productsNewsListHtml); 
       console.log('更新情報の読み込みエラーです');

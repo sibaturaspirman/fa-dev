@@ -54,17 +54,17 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb"
 			},
 			{
 				"name": "Products certified/compliant to various standards",
 				"icon": "standard",
-				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/lvcb"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -120,7 +120,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]
 	},

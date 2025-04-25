@@ -12,9 +12,9 @@
     wopen.focus();
   }
   
-  const aomSearchPath = '/fa/the-art-of-manufacturing/search.html';
+  const aomSearchPath = '/id_id/the-art-of-manufacturing/search.html';
   const $aomFooter = $('[data-js-aom-footer]');
-  const aomFooterPath = '/fa/the-art-of-manufacturing/assets/include/aom_footer.html'
+  const aomFooterPath = '/id_id/the-art-of-manufacturing/assets/include/aom_footer.html'
     
   /* 変数 */
   const allArticleObject = {};
