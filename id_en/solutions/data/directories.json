@@ -571,11 +571,11 @@
           },
           {
             "name": "IoT-based Solution Examples",
-            "path": "/id_en/solutions/iot-case-study/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/solutions/iot-case-study/index.html"
           },
           {
             "name": "Solution Guidebook",
-            "path": "/id_en/solutions/tips/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/solutions/tips/index.html"
           },
           {
             "name": "e-F@ctory Alliance",
@@ -583,7 +583,7 @@
           },
           {
             "name": "Digital Manufacturing",
-            "path": "/id_en/sols/digital-manufacturing/en/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/sols/digital-manufacturing/en/index.html"
           }
         ]
       }
