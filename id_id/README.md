@@ -9,3 +9,4 @@
 ### 2025-04-25
 
 - new html page for services & support
+- fix feedback [here](https://docs.google.com/presentation/d/1y5mgBKhpU5Mq4CJcO82IZj9VD7gSPhTI/edit?usp=sharing&ouid=117066034689056932051&rtpof=true&sd=true)
