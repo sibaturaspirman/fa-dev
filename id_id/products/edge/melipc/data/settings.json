@@ -60,17 +60,17 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc"
 			},
 			{
 				"name": "Product bersertifikat/memenuhi standar",
 				"icon": "standard",
-				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc"
 			},
 			{
 				"name": "Produk tidak diproduksi lagi (model alternatif)",
 				"icon": "silver-line",
-				"link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon"
 			}
 		]
 	},
@@ -107,19 +107,19 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/melipc&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
 			}
 		]
 	},
@@ -153,12 +153,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2486"
 			}
