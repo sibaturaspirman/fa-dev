@@ -5,7 +5,7 @@
 (function($) {
   'use strict';
   
-  const ourStoriesPath = '/fa/our-stories/';
+  const ourStoriesPath = '/id_id/our-stories/';
   
   // 記事ポップアップを開くグローバル関数定義
   window.MM_openBrWindow = function(targetURL, windowName, features) {

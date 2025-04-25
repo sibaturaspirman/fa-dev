@@ -88,7 +88,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   // 製品検索初期化
   if($radioSearchType.length > 0) {
     $.ajax({
-      url: '/fa/shared/suggest/jn/sdata.json',
+      url: '/id_id/shared/suggest/jn/sdata.json',
       dataType: 'text'
     })
     .done(function(data) {

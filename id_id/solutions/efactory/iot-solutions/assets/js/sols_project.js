@@ -22,7 +22,7 @@ function generateHtmlFromJson(jsonData, number) {
 
 
 // JSONファイルのURL
-const jsonUrl = '/fa/solutions/efactory/iot-solutions/assets/data/project.json';
+const jsonUrl = '/id_id/solutions/efactory/iot-solutions/assets/data/project.json';
 
 // HTML要素のクラス名
 const elementClass = 'sols_project';

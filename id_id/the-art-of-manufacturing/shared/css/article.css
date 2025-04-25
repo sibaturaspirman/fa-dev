@@ -245,8 +245,8 @@ lectures
 .commentSection.mn02_cmt { background-color:#fbf0e7 !important; }
 
 /* manners03 */
-.text_box { margin-right:10px!important;width:38%!important;background:url('/fa/members/compass/lectures/manners03/img/arrow.gif') no-repeat right 60%!important; }
-.text_box p { background:url('/fa/members/compass/lectures/manners03/img/s_paper05.png') #efefef!important; padding:10px!important; font-size:110%!important;margin-top:30px!important;position:relative!important;width:80%!important; }
+.text_box { margin-right:10px!important;width:38%!important;background:url('/id_id/members/compass/lectures/manners03/img/arrow.gif') no-repeat right 60%!important; }
+.text_box p { background:url('/id_id/members/compass/lectures/manners03/img/s_paper05.png') #efefef!important; padding:10px!important; font-size:110%!important;margin-top:30px!important;position:relative!important;width:80%!important; }
 .text_box img.ng { position:absolute;top:-30px;left:10px;width:60px!important; }
 .section.img_box.mn03_sec { width:60%!important;float:right!important;margin-top:30px!important;margin-left:0!important; }
 .mn03_photo1 { width:221px!important; }
@@ -258,7 +258,7 @@ lectures
 /* manners05 */
 .text_box_m05 p.mn03_photo1,
 .text_box_m05b p.mn03_photo1 { width:221px!important; margin:0!important; }
-.text_box_m05 { background:url('/fa/members/compass/lectures/manners05/img/bg.gif') no-repeat;}
+.text_box_m05 { background:url('/id_id/members/compass/lectures/manners05/img/bg.gif') no-repeat;}
 .text_box_m05 .title_m05 { font-size: 107.1429% !important; margin-bottom: 5px!important; padding-left:5px;}
 .text_box_m05 .title_m05 img { padding:0; margin-right:5px !important; max-width:35px !important; vertical-align:middle; }
 .text_box_m05 .title_m05 span.more { font-size: 120% !important; margin-left:1em; padding-left: 2em; background: url(/fa/members/compass/lectures/manners05/img/arw.png) no-repeat; background-size: 20px; background-position:left center; font-weight:bold; display:inline-block !important;}
