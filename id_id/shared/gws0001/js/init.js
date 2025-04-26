@@ -544,37 +544,42 @@
 							"specificItems": settingsLocalJson.floatingMenu.specificItems.length > 0 ? settingsLocalJson.floatingMenu.specificItems : settingsJson.floatingMenu.specificItems,
 							"commonItems": [
 								{
-									"name": "Inquiries",
+									"name": "Contact Us",
 									"icon": "contact",
-									"link": "/id_id/contact-us/index.html"
+									"link": "/id_en/contact-us/index.html"
 								},
 								{
-									"name": "Share",
-									"icon": "share",
-									"link": "#",
-									"child": [
-										{
-											"name": "Twitter",
-											"icon": "twitter",
-											"link": "JavaScript: MEL_FUNCTIONS.sharePage('twitter');"
-										},
-										{
-											"name": "Facebook",
-											"icon": "facebook",
-											"link": "JavaScript: MEL_FUNCTIONS.sharePage('facebook');"
-										},
-										{
-											"name": "LinkedIn",
-											"icon": "linkedin",
-											"link": "JavaScript: MEL_FUNCTIONS.sharePage('linkedin');"
-										},
-										{
-											"name": "e-mail",
-											"icon": "mail",
-											"link": "JavaScript: MEL_FUNCTIONS.sharePage('email');"
-										}
-									]
-								}
+									"name": "Whatsapp",
+									"icon": "chat",
+									"link": "https://wa.me/628123456789"
+								},
+								// {
+								// 	"name": "Share",
+								// 	"icon": "share",
+								// 	"link": "#",
+								// 	"child": [
+								// 		{
+								// 			"name": "Twitter",
+								// 			"icon": "twitter",
+								// 			"link": "JavaScript: MEL_FUNCTIONS.sharePage('twitter');"
+								// 		},
+								// 		{
+								// 			"name": "Facebook",
+								// 			"icon": "facebook",
+								// 			"link": "JavaScript: MEL_FUNCTIONS.sharePage('facebook');"
+								// 		},
+								// 		{
+								// 			"name": "LinkedIn",
+								// 			"icon": "linkedin",
+								// 			"link": "JavaScript: MEL_FUNCTIONS.sharePage('linkedin');"
+								// 		},
+								// 		{
+								// 			"name": "e-mail",
+								// 			"icon": "mail",
+								// 			"link": "JavaScript: MEL_FUNCTIONS.sharePage('email');"
+								// 		}
+								// 	]
+								// }
 							]
 						}
 					}
