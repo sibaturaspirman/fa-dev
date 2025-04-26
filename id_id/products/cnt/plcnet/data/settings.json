@@ -11,17 +11,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
 					},
 					{
 						"name": "CAD Data",
@@ -55,7 +55,7 @@
 			{
 				"name": "New features make things even easier to use!",
 				"img": "/id_id/products/assets/img/faist-202411-spotlight-en.jpg",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -65,249 +65,249 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/plcnet",
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet",
         "child": [
           {
             "name": "CC-Link IE TSN",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN"
           },
           {
             "name": "CC-Link IE Control",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control"
           },
           {
             "name": "CC-Link IE Field",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20Field&search=B&word=CC-Link%20IE%20Field"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20Field&search=B&word=CC-Link%20IE%20Field"
           },
           {
             "name": "CC-Link IE Field Basic",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic"
           },
           {
             "name": "CC-Link",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link&search=B&word=CC-Link"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link&search=B&word=CC-Link"
           },
           {
             "name": "CC-Link Safety",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20Safety&search=B&word=CC-Link%20Safety"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link%20Safety&search=B&word=CC-Link%20Safety"
           },
           {
             "name": "CC-Link/LT",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link/LT&search=B&word=CC-Link/LT"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CC-Link/LT&search=B&word=CC-Link/LT"
           },
           {
             "name": "Ethernet",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=Ethernet&search=B&word=Ethernet"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=Ethernet&search=B&word=Ethernet"
           },
           {
             "name": "AnyWire",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=AnyWire&search=B&word=AnyWire"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=AnyWire&search=B&word=AnyWire"
           },
           {
             "name": "SSCNET",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=SSCNET&search=B&word=SSCNET"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=SSCNET&search=B&word=SSCNET"
           },
           {
             "name": "MELSECNET/H",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=MELSECNET/H&search=B&word=MELSECNET/H"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=MELSECNET/H&search=B&word=MELSECNET/H"
           },
           {
             "name": "MELSECNET/10",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=MELSECNET/10&search=B&word=MELSECNET/10"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=MELSECNET/10&search=B&word=MELSECNET/10"
           },
           {
             "name": "MELSECNET(II)/B",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=MELSECNET(II)/B&search=B&word=MELSECNET(II)/B"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=MELSECNET(II)/B&search=B&word=MELSECNET(II)/B"
           },
           {
             "name": "BACnet",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=BACnet&search=B&word=BACnet"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=BACnet&search=B&word=BACnet"
           },
           {
             "name": "MODBUS",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=MODBUS&search=B&word=MODBUS"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=MODBUS&search=B&word=MODBUS"
           },
           {
             "name": "Serial communication",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=Serial%20communication&search=B&word=Serial%20communication"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=Serial%20communication&search=B&word=Serial%20communication"
           },
           {
             "name": "FL-net(OPCN-2)",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=FL-net%20(OPCN-2)&search=B&word=FL-net%20(OPCN-2)"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=FL-net%20(OPCN-2)&search=B&word=FL-net%20(OPCN-2)"
           },
           {
             "name": "CANopen",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=CANopen&search=B&word=CANopen"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=CANopen&search=B&word=CANopen"
           },
           {
             "name": "PROFINET",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=PROFINET&search=B&word=PROFINET"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=PROFINET&search=B&word=PROFINET"
           },
           {
             "name": "EtherNet/IP",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=EtherNet/IP&search=B&word=EtherNet/IP"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=EtherNet/IP&search=B&word=EtherNet/IP"
           },
           {
             "name": "PROFIBUS-DP",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=PROFIBUS-DP&search=B&word=PROFIBUS-DP"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=PROFIBUS-DP&search=B&word=PROFIBUS-DP"
           },
           {
             "name": "DeviceNet",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=DeviceNet&search=B&word=DeviceNet"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=DeviceNet&search=B&word=DeviceNet"
           },
           {
             "name": "AS-i",
-            "link": "/id_id/products/faspec/search.page?kisyu=/plcnet&radio=AS-i&search=B&word=AS-i"
+            "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=AS-i&search=B&word=AS-i"
           }
         ]
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/plcnet",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcnet",
         "child": [
           {
             "name": "CC-Link IE TSN",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20TSN&search=B&word=CC-Link%20IE%20TSN"
           },
           {
             "name": "CC-Link IE Control",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control"
           },
           {
             "name": "CC-Link IE Field",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Field&search=B&word=CC-Link%20IE%20Field"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Field&search=B&word=CC-Link%20IE%20Field"
           },
           {
             "name": "CC-Link IE Field Basic",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic"
           },
           {
             "name": "CC-Link",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link&search=B&word=CC-Link"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link&search=B&word=CC-Link"
           },
           {
             "name": "CC-Link Safety",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20Safety&search=B&word=CC-Link%20Safety"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20Safety&search=B&word=CC-Link%20Safety"
           },
           {
             "name": "CC-Link/LT",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link/LT&search=B&word=CC-Link/LT"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link/LT&search=B&word=CC-Link/LT"
           },
           {
             "name": "Ethernet",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=Ethernet&search=B&word=Ethernet"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=Ethernet&search=B&word=Ethernet"
           },
           {
             "name": "AnyWire",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=AnyWire&search=B&word=AnyWire"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=AnyWire&search=B&word=AnyWire"
           },
           {
             "name": "SSCNET",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=SSCNET&search=B&word=SSCNET"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=SSCNET&search=B&word=SSCNET"
           },
           {
             "name": "MELSECNET/H",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MELSECNET/H&search=B&word=MELSECNET/H"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MELSECNET/H&search=B&word=MELSECNET/H"
           },
           {
             "name": "MELSECNET/10",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MELSECNET/10&search=B&word=MELSECNET/10"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MELSECNET/10&search=B&word=MELSECNET/10"
           },
           {
             "name": "BACnet",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=BACnet&search=B&word=BACnet"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=BACnet&search=B&word=BACnet"
           },
           {
             "name": "MODBUS",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MODBUS&search=B&word=MODBUS"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MODBUS&search=B&word=MODBUS"
           },
           {
             "name": "Serial communication",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=Serial%20communication&search=B&word=Serial%20communication"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=Serial%20communication&search=B&word=Serial%20communication"
           },
           {
             "name": "FL-net(OPCN-2)",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=FL-net%20(OPCN-2)&search=B&word=FL-net%20(OPCN-2)"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=FL-net%20(OPCN-2)&search=B&word=FL-net%20(OPCN-2)"
           },
           {
             "name": "CANopen",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CANopen&search=B&word=CANopen"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CANopen&search=B&word=CANopen"
           },
           {
             "name": "EtherNet/IP",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=EtherNet/IP&search=B&word=EtherNet/IP"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=EtherNet/IP&search=B&word=EtherNet/IP"
           },
           {
             "name": "PROFIBUS-DP",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=PROFIBUS-DP&search=B&word=PROFIBUS-DP"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=PROFIBUS-DP&search=B&word=PROFIBUS-DP"
           },
           {
             "name": "DeviceNet",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=DeviceNet&search=B&word=DeviceNet"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=DeviceNet&search=B&word=DeviceNet"
           },
           {
             "name": "AS-i",
-            "link": "/id_id/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=AS-i&search=B&word=AS-i"
+            "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=AS-i&search=B&word=AS-i"
           }
         ]
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon",
         "child": [
           {
             "name": "CC-Link IE Field",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
           },
           {
             "name": "CC-Link IE Field Basic",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
           },
           {
             "name": "CC-Link",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link"
           },
           {
             "name": "CC-Link Safety",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20Safety"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20Safety"
           },
           {
             "name": "CC-Link/LT",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link/LT"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link/LT"
           },
           {
             "name": "Ethernet",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Ethernet"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Ethernet"
           },
           {
             "name": "AnyWire",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=AnyWire"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=AnyWire"
           },
           {
             "name": "SSCNET",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=SSCNET"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=SSCNET"
           },
           {
             "name": "MELSECNET/H",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/H"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/H"
           },
           {
             "name": "MELSECNET/10",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/10"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/10"
           },
           {
             "name": "MELSECNET(II)/B",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET(II)/B"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET(II)/B"
           },
           {
             "name": "Serial communication",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Serial%20communication"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Serial%20communication"
           },
           {
             "name": "FL-net(OPCN-2)",
-            "link": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=FL-net%20(OPCN-2)"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=FL-net%20(OPCN-2)"
           }
         ]
 			},
@@ -319,7 +319,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -358,17 +358,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
 			},
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
 			},
 			{
 				"name": "CAD Data",
@@ -409,12 +409,12 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
 			{
 				"name": "FA SPEC Search",
 				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_id/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
             }
 		]
 	},

@@ -11,22 +11,22 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/id_id/download/search.page?kisyu=/cnc&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/cnc&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_id/download/search.page?kisyu=/cnc&mode=manual"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/cnc&mode=manual"
 					},
 					{
 						"name": "CAD Data",
 						"icon": "cad",
-						"link": "/id_id/download/cad/search.page?kisyu=/cnc&mode=cad"
+						"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?kisyu=/cnc&mode=cad"
 					},
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_id/download/software/search.page?kisyu=/cnc&mode=software"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?kisyu=/cnc&mode=software"
 					}
 				]
 			}
@@ -44,7 +44,7 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/cnc"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/cnc"
 			}
 		]
 	},
@@ -61,7 +61,7 @@
 			},
 			{
 				"name": "CNC NEWS",
-				"link": "/id_id/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
 			}
 		]
 	},
@@ -79,22 +79,22 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/id_id/download/search.page?kisyu=/cnc&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/cnc&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/id_id/download/search.page?kisyu=/cnc&mode=manual"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/cnc&mode=manual"
 			},
 			{
 				"name": "CAD Data",
 				"icon": "cad",
-				"link": "/id_id/download/cad/search.page?kisyu=/cnc&mode=cad"
+				"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?kisyu=/cnc&mode=cad"
 			},
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_id/download/software/search.page?kisyu=/cnc&mode=software"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?kisyu=/cnc&mode=software"
 			}
 
 		]
@@ -131,7 +131,7 @@
 			{
 				"name": "FA SPEC Search",
 				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_id/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
 	},

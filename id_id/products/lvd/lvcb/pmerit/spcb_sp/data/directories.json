@@ -57,8 +57,8 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "Corrosion Resistant Enhanced Type for Special Environments",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_sp/index.html",
-			"spec": "/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_SP",
-			"standard": "/id_id/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_SP",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_SP",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_SP",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Use in Particular Applications",

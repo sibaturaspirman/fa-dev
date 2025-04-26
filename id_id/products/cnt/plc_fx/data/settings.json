@@ -11,17 +11,17 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
 					},
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
 					},
 					{
 						"name": "CAD Data",
@@ -75,44 +75,44 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Main%20Unit"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plc_fx&search=B&word=Main%20Unit"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/plc_fx",
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plc_fx",
 				"child": [
 					{
 						"name": "Main Unit",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Main%20Unit&search=B&word=Main%20Unit"
 					},
 					{
 						"name": "Input/output extension",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Input/output%20extension&search=B&word=Input/output%20extension"
 					},
 					{
 						"name": "Analog",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Analog&search=B&word=Analog"
 					},
 					{
 						"name": "High-Speed Counter",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=High-Speed%20Counter&search=B&word=High-Speed%20Counter"
 					},
 					{
 						"name": "Positioning",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Positioning&search=B&word=Positioning"
 					},
 					{
 						"name": "Data link/Communication",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Data%20link/Communication&search=B&word=Data%20link/Communication"
 					},
 					{
 						"name": "Programming",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Programming&search=B&word=Programming"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Programming&search=B&word=Programming"
 					},
 					{
 						"name": "Option/Training",
-						"link": "/id_id/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training"
+						"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plc_fx&radio=Option/Training&search=B&word=Option/Training"
 					}
 				]
 			}
@@ -148,17 +148,17 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
 			},
 			{
 				"name": "Technical<br>Bulletin",
 				"icon": "techinfo",
-				"link": "/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
 			}
 		]
 	},
@@ -189,7 +189,7 @@
 			{
 				"name": "FA SPEC Search",
 				"image": "/id_id/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_id/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
 	},

@@ -4,22 +4,22 @@
 			{
 				"name": "Unduh",
 				"icon": "download",
-				"link": "/id_id/download/search.page?kisyu=/ems&mode=catalog",
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/ems&mode=catalog",
 				"child":[
 					{
 						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/id_id/download/search.page?mode=catalog&kisyu=/ecoadviser"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_id/download/search.page?mode=manual&kisyu=/ecoadviser"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
 					},
 					{
 						"name": "Perangkat Lunak",
 						"icon": "software",
-						"link": "/id_id/download/software/search.page?mode=software&kisyu=/ecoadviser"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
 					}
 				]
 			},
@@ -40,12 +40,12 @@
 			{
 				"name": "Spesifikasi Produk",
 				"icon": "settings",
-				"link": "/id_id/products/faspec/search.page?kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ecoadviser"
 			},
 			{
 				"name": "Product bersertifikat/memenuhi standar",
 				"icon": "standard",
-				"link": "/id_id/products/standard/SearchServlet.page?kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser"
 			}
 		]
 	},
@@ -65,17 +65,17 @@
 			{
 				"name": "Katalog",
 				"icon": "catalog",
-				"link": "/id_id/download/search.page?mode=catalog&kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ecoadviser"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/id_id/download/search.page?mode=manual&kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ecoadviser"
 			},
 			{
 				"name": "Perangkat Lunak",
 				"icon": "software",
-				"link": "/id_id/download/software/search.page?mode=software&kisyu=/ecoadviser"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ecoadviser"
 			}
 		]
 	},

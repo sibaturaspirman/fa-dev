@@ -57,8 +57,8 @@
 			"group": "Circuit Breakers for Use in Particular Applications",
 			"name": "For DC Special Voltages",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html",
-			"spec": "/id_id/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
-			"standard": "/id_id/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
 			"discon": "",
             "return": {
                 "name": "Circuit Breakers for Use in Particular Applications",

@@ -9,12 +9,12 @@
 					{
 						"name": "Katalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual"
 					},
 					{
 						"name": "Perangkat Lunak",
@@ -53,11 +53,11 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/id_id/download/search.page?kisyu=/got&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/got&mode=catalog"
 					},
 					{
 						"name": "SCADA",
-						"link": "/app/fa/download/search.do?kisyu=/scada&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=catalog"
 					}
 				]
 			},
@@ -68,11 +68,11 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/id_id/download/search.page?mode=manual&kisyu=/got"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/got"
 					},
 					{
 						"name": "SCADA",
-						"link": "/app/fa/download/search.do?kisyu=/scada&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=manual"
 					}
 				]
 			},
@@ -83,7 +83,7 @@
 				"child": [
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/id_id/download/software/search.page?mode=software&kisyu=/got"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/got"
 					}
 				]
 			}
@@ -93,11 +93,11 @@
 		"items": [
 			{
 				"name": "e-Learning FA",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "Daftar Istilah FA",
-				"link": "/id_id/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},

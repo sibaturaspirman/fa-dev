@@ -41,41 +41,41 @@
         "group": "MELIPC",
         "name": "Outline",
         "feature": "/id_id/products/edge/melipc/pmerit/",
-        "spec": "/id_id/products/faspec/search.page?kisyu=/melipc&current=Outline",
-        "standard": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc&current=Outline",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=Outline",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=Outline",
         "discon": ""
       },
       {
         "group": "MELIPC",
         "name": "MELIPC MI5000",
         "feature": "/id_id/products/edge/melipc/pmerit/mi5000/",
-        "spec": "/id_id/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI5000",
-        "standard": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI5000",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI5000",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI5000",
         "discon": ""
       },
       {
         "group": "MELIPC",
         "name": "MELIPC MI3000",
         "feature": "/id_id/products/edge/melipc/pmerit/mi3000/",
-        "spec": "/id_id/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI3000",
-        "standard": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI3000",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI3000",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI3000",
         "discon": ""
       },
       {
         "group": "MELIPC",
         "name": "MELIPC MI2000",
         "feature": "/id_id/products/edge/melipc/pmerit/mi2000/",
-        "spec": "/id_id/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI2000",
-        "standard": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI2000",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI2000",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI2000",
         "discon": ""
       },
       {
         "group": "MELIPC",
         "name": "MELIPC MI1000",
         "feature": "/id_id/products/edge/melipc/pmerit/mi1000/",
-        "spec": "/id_id/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI1000",
-        "standard": "/id_id/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI1000",
-        "discon": "/id_id/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon&current=MELIPC MI1000"
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI1000",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI1000",
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon&current=MELIPC MI1000"
       },
       {
         "group": "MELIPC",

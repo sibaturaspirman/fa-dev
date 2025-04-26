@@ -11,7 +11,7 @@
           {
             "name": "Technical Bulletin",
             "icon": "techinfo",
-            "link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/laser"
+            "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/laser"
           }
         ]
       }
@@ -38,7 +38,7 @@
       {
         "name": "Technical Bulletin",
         "icon": "techinfo",
-        "link": "/id_id/download/techinfo/search.page?mode=technews&kisyu=/laser"
+        "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/laser"
       }
     ]
   },

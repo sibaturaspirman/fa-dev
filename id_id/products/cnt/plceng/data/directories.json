@@ -55,7 +55,7 @@
                 "group": "ENG_SOFT",
                 "name": "iQ Works",
                 "feature": "/id_id/products/sft/melsoft/smerit/iq_works/",
-                "spec": "/id_id/products/faspec/search.page?kisyu=/melsoft",
+                "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melsoft",
                 "standard": "",
                 "discon": ""
             },

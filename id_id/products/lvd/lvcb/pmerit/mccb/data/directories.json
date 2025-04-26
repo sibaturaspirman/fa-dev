@@ -39,8 +39,8 @@
 			"group": "Molded Case Circuit Breakers",
 			"name": "Molded Case Circuit Breakers",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
-			"spec": "/id_id/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
-			"standard": "/id_id/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCCB",
+			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
+			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCCB",
 			"discon": "",
             "return": {
                 "name": "Molded Case Circuit Breakers",

@@ -9,12 +9,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual"
 					},
 					{
 						"name": "Software",
@@ -61,7 +61,7 @@
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_id/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -91,11 +91,11 @@
 				"child": [
 					{
 						"name": "SCADA",
-						"link": "/app/fa/download/search.do?kisyu=/scada&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=catalog"
 					},
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/id_id/download/search.page?mode=catalog&kisyu=/got"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/got"
 					}
 				]
 			},
@@ -106,11 +106,11 @@
 				"child": [
 					{
 						"name": "SCADA",
-						"link": "/app/fa/download/search.do?kisyu=/scada&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=manual"
 					},
 					{
 						"name": "Human-Machine Interfaces(HMIs)-GOT",
-						"link": "/id_id/download/search.page?mode=manual&kisyu=/got"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/got"
 					}
 				]
 			}
@@ -120,11 +120,11 @@
 		"items": [
 			{
 				"name": "e-Learning FA",
-				"link": "/id_id/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "Daftar Istilah FA",
-				"link": "/id_id/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},
