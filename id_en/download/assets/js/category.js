@@ -14,7 +14,7 @@
   const $modalOpenTrigger = $('[data-js-modal-open]');  
   const $modalSelectProducts = $('#modal_select_products');
   const $modalSelectProductsBody = $modalSelectProducts.find('.c-modal__body');
-  $modalSelectProductsBody.load('/fa/download/assets/include/modal_select_products.html #contents');
+  $modalSelectProductsBody.load('/id_en/download/assets/include/modal_select_products.html #contents');
   
   const $downloadFilter = $('[data-js-downloadfilter]');
   const $downloadFilterTabTrigger = $downloadFilter.find('[data-js-tab-trigger]');
@@ -41,7 +41,7 @@
   
   const locationNoQuery = location.origin + location.pathname;
   const isDotPage = location.href.indexOf('.page') > 0;
-  let targetLocation = '/fa/download/search.do';
+  let targetLocation = '/id_en/download/search.do';
   let locationSearchObject = {};
   
   const jsonRequestUrlObject = {
@@ -98,22 +98,22 @@
           locationSearchObject.mode = 'key' + locationSearchObject.mode;
           delete locationSearchObject['kisyu'];
         };
-        targetLocation = '/fa/download/search.do'; break;
+        targetLocation = '/id_en/download/search.do'; break;
       case 'technews':
         if(!currentKisyu) {
           locationSearchObject.mode = 'key' + locationSearchObject.mode;
           delete locationSearchObject['kisyu'];
         };
-        targetLocation = '/fa/download/techinfo/search.do'; break;
+        targetLocation = '/id_en/download/techinfo/search.do'; break;
       case 'cad':
         locationSearchObject.categoryb1 = '';
         locationSearchObject.categoryb2 = '';
         locationSearchObject.categoryb3 = '';
         locationSearchObject.categoryb4 = '';
-        targetLocation = '/fa/download/cad/search.do'; break;
+        targetLocation = '/id_en/download/cad/search.do'; break;
       case 'software': ;
       case 'lib':
-        targetLocation = '/fa/download/software/search.do'; break;
+        targetLocation = '/id_en/download/software/search.do'; break;
     }
     
     // 新システムのページを閲覧中の場合は、遷移先ページの拡張子を変更
@@ -391,14 +391,14 @@
       switch(targetMode) {
         case 'catalog': ;
         case 'manual': 
-          targetLocation = '/fa/download/search.do'; break;
+          targetLocation = '/id_en/download/search.do'; break;
         case 'technews':
-          targetLocation = '/fa/download/techinfo/search.do'; break;
+          targetLocation = '/id_en/download/techinfo/search.do'; break;
         case 'cad':
-          targetLocation = '/fa/download/cad/search.do'; break;
+          targetLocation = '/id_en/download/cad/search.do'; break;
         case 'software': ;
         case 'lib':
-          targetLocation = '/fa/download/software/search.do'; break;
+          targetLocation = '/id_en/download/software/search.do'; break;
       }
       
       // 新システムのページを閲覧中の場合は、遷移先ページの拡張子を変更
@@ -426,7 +426,7 @@
         // 国・地域の選択なし
         // ダウンロードトップHTMLを取得し、国・地域選択するモーダルを表示
         $.ajax({
-          url: '/fa/download/index.html',
+          url: '/id_en/download/index.html',
           dataType: 'html'
         })
         .done(function(data) {
@@ -475,7 +475,7 @@
       })
       .done(function(data) {})
       .fail(function(jqXHR, textStatus, errorThrown) {
-        jsonRequestUrlObject[modeValue] = '/fa/download/data/noconditions.json';
+        jsonRequestUrlObject[modeValue] = '/id_en/download/data/noconditions.json';
       });
     });
     
