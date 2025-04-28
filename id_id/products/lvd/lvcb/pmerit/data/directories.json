@@ -1,0 +1,32 @@
+{
+  "directories": {
+    "name": "Home",
+    "path": "/id_id/index.html",
+    "child": [
+      {
+        "name": "Products",
+        "path": "/id_id/products/index.html",
+        "child": [
+          {
+            "name": "Low-voltage Circuit Breakers",
+            "path": "/id_id/products/lvd/lvcb/index.html"
+          }
+        ]
+      }
+    ]
+  },
+"switchNav": {
+	"name": "Low-voltage Circuit Breakers",
+	"path": "/id_id/products/lvd/lvcb/index.html",
+	"child": [
+		{
+			"group": "Approved Certification",
+			"name": "Approved Certification",
+			"feature": "/id_id/products/lvd/lvcb/pmerit/certification.html",
+			"spec": "",
+			"standard": "",
+			"discon": ""
+		}
+	]
+}
+}
