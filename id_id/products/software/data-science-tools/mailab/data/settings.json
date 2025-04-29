@@ -9,7 +9,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "/id_id/download/?modal=catalog"
 					},
@@ -19,7 +19,7 @@
 						"link": "/id_id/download/?modal=manual"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "/id_id/download/?modal=technews"
 					},
@@ -29,7 +29,7 @@
 						"link": "/id_id/download/?modal=cad"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
 						"link": "/id_id/download/?modal=software"
 					},
@@ -136,7 +136,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "/id_id/download/?modal=catalog"
 			},
@@ -146,7 +146,7 @@
 				"link": "/id_id/download/?modal=manual"
 			},
 			{
-				"name": "Technical Bulletin",
+				"name": "Buletin Teknis",
 				"icon": "technews",
 				"link": "/id_id/download/?modal=technews"
 			},
@@ -156,7 +156,7 @@
 				"link": "/id_id/download/?modal=cad"
 			},
 			{
-				"name": "Software",
+				"name": "Perangkat Lunak",
 				"icon": "software",
 				"link": "/id_id/download/?modal=software"
 			},
@@ -197,12 +197,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/"
 			}

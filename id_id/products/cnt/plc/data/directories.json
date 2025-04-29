@@ -4,7 +4,7 @@
     "path": "/id_id/",
     "child": [
       {
-        "name": "Programmable Controllers MELSEC",
+        "name": "Kontroler yang Dapat Diprogram MELSEC",
         "path": "/id_id/products/cnt/plc/index.html",
         "child": [
           {
@@ -36,7 +36,7 @@
             "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
           },
           {
-            "name": "Network-related products",
+            "name": "Produk terkait jaringan",
             "path": "/id_id/products/cnt/plcnet/items/index.html"
           }
             ]
@@ -44,12 +44,12 @@
     ]
   },
   "switchNav": {
-    "name": "Programmable Controllers MELSEC",
+    "name": "Kontroler yang Dapat Diprogram MELSEC",
     "path": "/id_id/products/cnt/plc/index.html",
     "child": [
       {
         "group": "LP3",
-        "name": "Line up",
+        "name": "Daftar Produk",
         "path": "/id_id/products/cnt/plc/pmerit/",
         "spec": "",
         "standard": "",

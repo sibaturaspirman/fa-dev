@@ -9,7 +9,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/cnc&mode=catalog"
 					},
@@ -24,7 +24,7 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?kisyu=/cnc&mode=cad"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
 						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?kisyu=/cnc&mode=software"
 					}
@@ -77,7 +77,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/cnc&mode=catalog"
 			},
@@ -92,7 +92,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?kisyu=/cnc&mode=cad"
 			},
 			{
-				"name": "Software",
+				"name": "Perangkat Lunak",
 				"icon": "software",
 				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?kisyu=/cnc&mode=software"
 			}
@@ -139,12 +139,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/"
 			}

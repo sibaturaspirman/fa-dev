@@ -19,7 +19,7 @@
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=manual"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
 					}
@@ -117,7 +117,7 @@
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/melipc&mode=manual"
 			},
 			{
-				"name": "Technical Bulletin",
+				"name": "Buletin Teknis",
 				"icon": "technews",
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&kisyu=/melipc"
 			}

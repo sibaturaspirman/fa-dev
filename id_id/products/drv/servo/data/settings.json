@@ -19,7 +19,7 @@
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=manual"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
 					}
@@ -69,7 +69,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=catalog"
 			},
@@ -79,7 +79,7 @@
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=manual"
 			},
 			{
-				"name": "Technical Bulletin",
+				"name": "Buletin Teknis",
 				"icon": "technews",
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/servo&mode=techinfo"
 			}
@@ -119,12 +119,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2127"
 			}

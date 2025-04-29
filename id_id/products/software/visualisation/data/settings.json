@@ -7,7 +7,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog"
 					},
@@ -17,7 +17,7 @@
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "techinfo",
 						"link": "/id_id/download/software/index.html"
 					}

@@ -544,7 +544,7 @@
 							"specificItems": settingsLocalJson.floatingMenu.specificItems.length > 0 ? settingsLocalJson.floatingMenu.specificItems : settingsJson.floatingMenu.specificItems,
 							"commonItems": [
 								{
-									"name": "Contact Us",
+									"name": "Hubungi Kami",
 									"icon": "contact",
 									"link": "/id_en/contact-us/index.html"
 								},

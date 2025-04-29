@@ -12,7 +12,7 @@
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html"
           },
            {
-            "name": "Features",
+            "name": "Fitur",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/features.html"
           },
            {
@@ -20,11 +20,11 @@
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/option.html"
           },
           {
-            "name": "System configuration",
+            "name": "Konfigurasi Sistem",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/config.html"
           },
           {
-            "name": "Specifications",
+            "name": "Spesifikasi",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/spec.html"
           }
         ]
@@ -34,16 +34,16 @@
         "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html",
          "secondLayer": [
            {
-            "name": "Features",
+            "name": "Fitur",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html"
           },
 
           {
-            "name": "System configuration",
+            "name": "Konfigurasi Sistem",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/config.html"
           },
           {
-            "name": "Specifications",
+            "name": "Spesifikasi",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/spec.html"
           }
         ]
