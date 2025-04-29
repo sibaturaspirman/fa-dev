@@ -7,7 +7,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/vixio"
 					},
@@ -17,12 +17,12 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/vixio"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/vixio"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
 						"link": "/id_id/download/?modal=software"
 					},

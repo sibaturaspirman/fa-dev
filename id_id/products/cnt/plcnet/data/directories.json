@@ -36,7 +36,7 @@
             "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
           },
           {
-            "name": "Network-related products",
+            "name": "Produk terkait jaringan",
             "path": "/id_id/products/cnt/plcnet/items/index.html"
           }
         ]
@@ -44,12 +44,12 @@
     ]
   },
   "switchNav": {
-    "name": "Network-related products",
+    "name": "Produk terkait jaringan",
     "path": "/id_id/products/cnt/plcnet/items/index.html",
     "child": [
         {
         "group": "LP3-1",
-        "name": "Line up",
+        "name": "Daftar Produk",
         "feature": "/id_id/products/cnt/plcnet/pmerit/concept/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcnet",

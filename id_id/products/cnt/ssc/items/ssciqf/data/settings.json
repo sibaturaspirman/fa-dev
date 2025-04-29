@@ -9,7 +9,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ssc"
 					},
@@ -19,7 +19,7 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ssc"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 					},
@@ -29,7 +29,7 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?mode=cad&kisyu=/ssc"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
 						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ssc"
 					}
@@ -101,7 +101,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ssc"
 			},
@@ -111,7 +111,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/ssc"
 			},
 			{
-				"name": "Technical<br>Bulletin",
+				"name": "Buletin<br>Teknis",
 				"icon": "techinfo",
 				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 			},
@@ -121,7 +121,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/download/cad/search.page?mode=cad&kisyu=/ssc"
 			},
 			{
-				"name": "Software",
+				"name": "Perangkat Lunak",
 				"icon": "software",
 				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ssc"
 			}
@@ -161,12 +161,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/1997"
 			}

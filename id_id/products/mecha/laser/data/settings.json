@@ -9,7 +9,7 @@
         "link": "#",
         "child": [
           {
-            "name": "Technical Bulletin",
+            "name": "Buletin Teknis",
             "icon": "techinfo",
             "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/laser"
           }
@@ -36,7 +36,7 @@
     "comment": "linkは各機種のダウンロードページのURLに変更可",
     "items": [
       {
-        "name": "Technical Bulletin",
+        "name": "Buletin Teknis",
         "icon": "techinfo",
         "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/laser"
       }
@@ -54,7 +54,7 @@
     "comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
     "items": [
       {
-        "name": "Contact Us",
+        "name": "Hubungi Kami",
         "icon": "contact",
         "link": "/id_id/contact-us/index.html"
       }

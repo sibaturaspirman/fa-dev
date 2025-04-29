@@ -7,7 +7,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=catalog"
 					},
@@ -80,7 +80,7 @@
 		"recommended": [],
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/scada&mode=catalog"
 			},
@@ -115,7 +115,7 @@
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/"
 			}

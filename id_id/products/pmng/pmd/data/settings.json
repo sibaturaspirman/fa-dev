@@ -9,7 +9,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/pmd&mode=catalog"
 					},
@@ -19,7 +19,7 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/pmd"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/pmd"
 					},
@@ -104,7 +104,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/pmd&mode=catalog"
 			},
@@ -114,7 +114,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/pmd"
 			},
 			{
-				"name": "Technical Bulletin",
+				"name": "Buletin Teknis",
 				"icon": "techinfo",
 				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/pmd"
 			},
@@ -142,12 +142,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2300"
 			}

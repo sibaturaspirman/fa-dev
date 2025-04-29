@@ -9,7 +9,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
 					},
@@ -19,7 +19,7 @@
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
 					},
 					{
-						"name": "Technical<br>Bulletin",
+						"name": "Buletin<br>Teknis",
 						"icon": "techinfo",
 						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
 					},
@@ -29,7 +29,7 @@
 						"link": "/id_id/download/?modal=cad"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
 						"link": "/id_id/download/?modal=software"
 					},
@@ -43,7 +43,7 @@
 	  ],
 		"commonItems": [
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2007"
 			}
@@ -356,7 +356,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
 			},
@@ -366,7 +366,7 @@
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
 			},
 			{
-				"name": "Technical Bulletin",
+				"name": "Buletin Teknis",
 				"icon": "technews",
 				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
 			},
@@ -376,7 +376,7 @@
 				"link": "/id_id/download/?modal=cad"
 			},
 			{
-				"name": "Software",
+				"name": "Perangkat Lunak",
 				"icon": "software",
 				"link": "/id_id/download/?modal=software"
 			}
@@ -422,12 +422,12 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},
 			{
-				"name": "FAQs",
+				"name": "FAQ",
 				"icon": "faq",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2007"
 			}

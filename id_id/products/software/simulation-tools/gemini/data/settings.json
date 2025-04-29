@@ -7,7 +7,7 @@
 				"link": "#",
 				"child": [
 					{
-						"name": "Catalog",
+						"name": "Katalog",
 						"icon": "catalog",
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/3dsim"
 					},
@@ -17,7 +17,7 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/3dsim"
 					},
 					{
-						"name": "Software",
+						"name": "Perangkat Lunak",
 						"icon": "software",
 						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/3dsim"
 					}
@@ -42,7 +42,7 @@
 		],
 		"items": [
 			{
-				"name": "Catalog",
+				"name": "Katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/3dsim"
 			},
@@ -52,7 +52,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/3dsim"
 			},
 			{
-				"name": "Software",
+				"name": "Perangkat Lunak",
 				"icon": "software",
 				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/3dsim"
 			}
