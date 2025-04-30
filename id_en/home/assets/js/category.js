@@ -72,7 +72,7 @@
       return `
         <div class="l-tile__item">
         <div class="c-card ${newFlag}">
-        <a class="c-card__link" href="/id_en/our-stories/${data.articleID}/index.html">
+        <a class="c-card__link" href="${data.url}" target="_blank">
         <div class="c-card__head">
         <div class="c-card__img">
         <img src="${data.image}" alt="" decoding="async">
