@@ -3,7 +3,7 @@
 	  "specificItems": [
 			{
 				"comment": "linkは各機種のダウンロードページのURLに変更可",
-				"name": "Download",
+				"name": "Unduh",
 				"icon": "download",
 				"link": "#",
 				"child": [
@@ -112,7 +112,7 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
 				"link": "/id_id/contact-us/index.html"
 			},

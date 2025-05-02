@@ -2,7 +2,7 @@
 	"floatingMenu": {
 	  "specificItems": [
 			{
-				"name": "Download",
+				"name": "Unduh",
 				"icon": "download",
 				"link": "/id_id/download/"
 			}

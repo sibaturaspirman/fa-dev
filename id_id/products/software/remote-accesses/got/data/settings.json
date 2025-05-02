@@ -2,7 +2,7 @@
 	"floatingMenu": {
 	  "specificItems": [
 			{
-				"name": "Download",
+				"name": "Unduh",
 				"icon": "download",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?kisyu=/got&mode=catalog",
 				"child": [
@@ -83,7 +83,7 @@
 	"contact": {
 		"items": [
 			{
-				"name": "Contact us",
+				"name": "Hubungi Kami",
 				"icon": "estimate",
 				"link": "/id_id/contact-us/index.html"
 			},
