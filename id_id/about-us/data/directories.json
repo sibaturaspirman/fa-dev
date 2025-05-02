@@ -31,19 +31,19 @@
         "child": [
           {
             "name": "Our Commitment to Sustainability",
-            "path": "/id_id/about-us/sustainability/",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/",
             "child": [
               {
                 "name": "Contribution through improved efficiency and productivity",
-                "path": "/id_id/about-us/sustainability/increase-efficiency.html"
+                "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/increase-efficiency.html"
               },
               {
                 "name": "Contribution through visual insights",
-                "path": "/id_id/about-us/sustainability/visualization.html"
+                "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/visualization.html"
               },
               {
                 "name": "Contribution through automation technology",
-                "path": "/id_id/about-us/sustainability/automation.html"
+                "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/automation.html"
               }
             ]
           }
