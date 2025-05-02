@@ -546,7 +546,7 @@
 								{
 									"name": "Hubungi Kami",
 									"icon": "contact",
-									"link": "/id_en/contact-us/index.html"
+									"link": "/id_id/contact-us/index.html"
 								},
 								{
 									"name": "Whatsapp",

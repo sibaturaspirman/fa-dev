@@ -1,10 +1,10 @@
 {
   "directories": {
-    "name": "Home",
+    "name": "Beranda",
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Solutions",
+        "name": "Solusi",
         "path": "/id_id/solutions/index.html",
         "child": [
           {
@@ -94,53 +94,53 @@
             ]
           },
           {
-            "name": "Industries",
+            "name": "Industri",
             "path": "/id_id/solutions/index.html#section01",
             "child": [
               {
-                "name": "Automotive Manufacturing",
+                "name": "Manufaktur Otomotif",
                 "path": "/id_id/solutions/industries/automotive/index.html",
                 "child": [
                   {
-                    "name": "Press",
+                    "name": "Pengepresan",
                     "path": "/id_id/solutions/industries/automotive/press/index.html"
                   },
                   {
-                    "name": "Resin Molding",
+                    "name": "Pencetakan Resin",
                     "path": "/id_id/solutions/industries/automotive/resin-molding/index.html"
                   },
                   {
-                    "name": "Welding",
+                    "name": "Pengelasan",
                     "path": "/id_id/solutions/industries/automotive/welding/index.html"
                   },
                   {
-                    "name": "Painting",
+                    "name": "Pengecatan",
                     "path": "/id_id/solutions/industries/automotive/painting/index.html"
                   },
                   {
-                    "name": "Vehicle Assembly",
+                    "name": "Perakitan Kendaraan",
                     "path": "/id_id/solutions/industries/automotive/vehicle-assembly/index.html"
                   },
                   {
-                    "name": "Casting",
+                    "name": "Pengecoran",
                     "path": "/id_id/solutions/industries/automotive/casting/index.html"
                   },
                   {
-                    "name": "Engine Machining",
+                    "name": "Pemesinan Mesin",
                     "path": "/id_id/solutions/industries/automotive/engine-machining/index.html"
                   },
                   {
-                    "name": "Engine Assembly",
+                    "name": "Perakitan Mesin",
                     "path": "/id_id/solutions/industries/automotive/engine-assembly/index.html"
                   },
                   {
-                    "name": "HV Motor Assembly",
+                    "name": "Perakitan Motor HV",
                     "path": "/id_id/solutions/industries/automotive/hv-motor-assembly/index.html"
                   }
                 ]
               },
               {
-                "name": "Electrical & Electronic",
+                "name": "Elektrikal & Elektronik",
                 "path": "/id_id/solutions/industries/electronics/index.html",
                 "child": [
                   {
@@ -158,7 +158,7 @@
                 ]
               },
               {
-                "name": "Lithium-Ion Battery",
+                "name": "Baterai Lithium-Ion",
                 "path": "/id_id/solutions/industries/lithiumion/index.html",
                 "child": [
                   {
@@ -192,7 +192,7 @@
                 ]
               },
               {
-                "name": "Logistics",
+                "name": "Logistik",
                 "path": "/id_id/solutions/industries/logistics/index.html",
                 "child": [
                   {
@@ -222,7 +222,7 @@
                 ]
               },
               {
-                "name": "Data Center",
+                "name": "Pusat Data",
                 "path": "/id_id/solutions/industries/datacenter/index.html",
                 "child": [
                   {
@@ -244,19 +244,19 @@
                 ]
               },
               {
-                "name": "Water",
+                "name": "Air",
                 "path": "/id_id/solutions/industries/water/index.html"
               },
               {
-                "name": "Oil and Gas",
+                "name": "Minyak dan Gas",
                 "path": "/id_id/solutions/industries/oilandgas/index.html"
               },
               {
-                "name": "HVAC (Heating, Ventilation and Air-Conditioning)",
+                "name": "HVAC (Pemanas, Ventilasi dan Pendingin Udara)",
                 "path": "/id_id/solutions/industries/hvac/index.html"
               },
               {
-                "name": "Food & Beverage",
+                "name": "Makanan & Minuman",
                 "path": "/id_id/solutions/industries/food-beverage/index.html",
                 "child": [
                   {
