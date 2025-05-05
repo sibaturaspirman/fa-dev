@@ -2,7 +2,7 @@
 	"floatingMenu": {
 	  "specificItems": [
 			{
-				"name": "Download",
+				"name": "Unduh",
 				"icon": "download",
 				"link": "#",
 				"child": [
@@ -84,7 +84,7 @@
 	"contact": {
 		"items": [
 			{
-				"name": "Contact us",
+				"name": "Hubungi Kami",
 				"icon": "estimate",
 				"link": "/id_id/contact-us/index.html"
 			},

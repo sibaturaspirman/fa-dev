@@ -1,6 +1,6 @@
 {
   "directories": {
-    "name": "Home",
+    "name": "Beranda",
     "path": "/id_id/",
     "child": [
       {
@@ -88,7 +88,7 @@
         "path": "/id_id/products/software/visualisation/genesis64/lineup.html"
       },
       {
-        "name": "Download",
+        "name": "Unduh",
         "path": "/id_id/products/software/visualisation/genesis64/download.html"
       }
     ]
