@@ -260,19 +260,19 @@
                 "path": "/id_id/solutions/industries/food-beverage/index.html",
                 "child": [
                   {
-                    "name": "Complex Production Processes",
+                    "name": "Proses Produksi yang Kompleks",
                     "path": "/id_id/solutions/industries/food-beverage/production-processes/index.html"
                   },
                   {
-                    "name": "Customization and Product Variation",
+                    "name": "Kustomisasi dan Variasi Produk",
                     "path": "/id_id/solutions/industries/food-beverage/variation/index.html"
                   },
                   {
-                    "name": "Ensuring Return on Investment",
+                    "name": "Memastikan Pengembalian Investasi",
                     "path": "/id_id/solutions/industries/food-beverage/ensuring-return/index.html"
                   },
                   {
-                    "name": "Skilled Workforce Shortage",
+                    "name": "Kekurangan Tenaga Kerja Terampil",
                     "path": "/id_id/solutions/industries/food-beverage/shortage/index.html"
                   }
                 ]
@@ -280,7 +280,7 @@
             ]
           },
           {
-            "name": "Competencies",
+            "name": "Kompetensi",
             "path": "/id_id/solutions/index.html#section02",
             "child": [
               {
