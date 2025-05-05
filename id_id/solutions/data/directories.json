@@ -144,15 +144,15 @@
                 "path": "/id_id/solutions/industries/electronics/index.html",
                 "child": [
                   {
-                    "name": "Precise screw tightening",
+                    "name": "Pengencangan sekrup presisi",
                     "path": "/id_id/solutions/industries/electronics/screw/index.html"
                   },
                   {
-                    "name": "Precision assembly of parts (memory) through",
+                    "name": "Perakitan presisi komponen (memori)",
                     "path": "/id_id/solutions/industries/electronics/memory/index.html"
                   },
                   {
-                    "name": "Precision assembly of parts (HDD) through",
+                    "name": "Perakitan presisi komponen (HDD)",
                     "path": "/id_id/solutions/industries/electronics/server/index.html"
                   }
                 ]
@@ -162,31 +162,31 @@
                 "path": "/id_id/solutions/industries/lithiumion/index.html",
                 "child": [
                   {
-                    "name": "Coating",
+                    "name": "Pelapisan",
                     "path": "/id_id/solutions/industries/lithiumion/coating/index.html"
                   },
                   {
-                    "name": "Roll press",
+                    "name": "Pengepresan rol",
                     "path": "/id_id/solutions/industries/lithiumion/roll-press/index.html"
                   },
                   {
-                    "name": "Slitter, Trimming",
+                    "name": "Slitter, Pemangkasan",
                     "path": "/id_id/solutions/industries/lithiumion/slitter-trimming/index.html"
                   },
                   {
-                    "name": "Winding machine",
+                    "name": "Mesin penggulung",
                     "path": "/id_id/solutions/industries/lithiumion/winding-machine/index.html"
                   },
                   {
-                    "name": "Stacking machine",
+                    "name": "Mesin penumpuk",
                     "path": "/id_id/solutions/industries/lithiumion/stacking-machine/index.html"
                   },
                   {
-                    "name": "Formation, cell testing",
+                    "name": "Pembentukan, pengujian sel",
                     "path": "/id_id/solutions/industries/lithiumion/formation-cell-testing/index.html"
                   },
                   {
-                    "name": "Module, PACK line",
+                    "name": "Modul, lini PACK",
                     "path": "/id_id/solutions/industries/lithiumion/module-pack-line/index.html"
                   }
                 ]
@@ -196,15 +196,15 @@
                 "path": "/id_id/solutions/industries/logistics/index.html",
                 "child": [
                   {
-                    "name": "Distribution warehouse",
+                    "name": "Gudang distribusi",
                     "path": "/id_id/solutions/industries/logistics/distribution-warehouse/index.html"
                   },
                   {
-                    "name": "Stacker crane",
+                    "name": "Crane penumpuk",
                     "path": "/id_id/solutions/industries/logistics/stacker-crane/index.html"
                   },
                   {
-                    "name": "Conveyor",
+                    "name": "Konveyor",
                     "path": "/id_id/solutions/industries/logistics/conveyor/index.html"
                   },
                   {
@@ -226,19 +226,19 @@
                 "path": "/id_id/solutions/industries/datacenter/index.html",
                 "child": [
                   {
-                    "name": "Monitoring systems",
+                    "name": "Sistem pemantauan",
                     "path": "/id_id/solutions/industries/datacenter/monitoring/index.html"
                   },
                   {
-                    "name": "Air conditioning systems",
+                    "name": "Sistem pendingin udara",
                     "path": "/id_id/solutions/industries/datacenter/air-conditioning/index.html"
                   },
                   {
-                    "name": "Energysaving support and countermeasures",
+                    "name": "Dukungan hemat energi dan penanggulangan",
                     "path": "/id_id/solutions/industries/datacenter/saving/index.html"
                   },
                   {
-                    "name": "Power distribution and server room power supply",
+                    "name": "Distribusi daya dan pasokan daya ruang server",
                     "path": "/id_id/solutions/industries/datacenter/electric-power/index.html"
                   }
                 ]
