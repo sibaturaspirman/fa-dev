@@ -55,7 +55,7 @@
     "child": [
       {
         "group": "LP3-1",
-        "name": "Concept",
+        "name": "Konsep",
         "feature": "/id_id/products/cnt/plcq/pmerit/concept/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcq",

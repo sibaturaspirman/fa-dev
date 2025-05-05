@@ -4,35 +4,35 @@
 		"path": "/id_id/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
-				"name": "Concept",
+				"name": "Konsep",
 				"path": "/id_id/solutions/competencies/process/index.html"
 			},
 			{
-				"name": "Lineup",
+				"name": "Rangkaian Produk",
 				"path": "/id_id/solutions/competencies/process/lineup/index.html"
 			},
 			{
-				"name": "Supported products",
+				"name": "Produk yang Didukung",
 				"path": "/id_id/solutions/competencies/process/features/index.html"
 			},
 			{
-				"name": "Monitoring solution",
+				"name": "Solusi Pemantauan",
 				"path": "/id_id/solutions/competencies/process/monitoring/index.html"
 			},
 			{
-				"name": "Engineering",
+				"name": "Rekayasa",
 				"path": "/id_id/solutions/competencies/process/development/index.html"
 			},
 			{
-				"name": "Partner products",
+				"name": "Produk Mitra",
 				"path": "/id_id/solutions/competencies/process/partners/index.html"
 			},
 			{
-				"name": "Application examples",
+				"name": "Contoh Aplikasi",
 				"path": "/id_id/solutions/competencies/process/application/index.html"
 			},
 			{
-				"name": "Support/Download",
+				"name": "Dukungan/Unduhan",
 				"path": "/id_id/solutions/competencies/process/support/index.html"
 			}
 		]
