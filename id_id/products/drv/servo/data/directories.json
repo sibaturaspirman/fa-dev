@@ -48,7 +48,7 @@
 		"child": [
 			{
 				"group": "MELSERVO-J5-00",
-				"name": "Concept",
+				"name": "Konsep",
 				"feature": "/id_id/products/drv/servo/pmerit/mr_j5/amp/concept.html",
 				"return": {
 					"name": "MELSERVO-J5",
@@ -105,7 +105,7 @@
 			},
 			{
 				"group": "MELSERVO-JET-00",
-				"name": "Concept",
+				"name": "Konsep",
 				"feature": "/id_id/products/drv/servo/pmerit/mr_jet/amp/index.html",
 				"spec": "",
 				"standard": "",

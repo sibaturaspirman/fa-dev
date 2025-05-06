@@ -74,7 +74,7 @@
       },
         {
         "group": "LP3-1",
-        "name": "Concept",
+        "name": "Konsep",
         "feature": "/id_id/products/cnt/plcr/pmerit/concept/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "standard": "",
@@ -106,7 +106,7 @@
         },
         {
         "group": "LP3-1",
-        "name": "Lineup",
+        "name": "Rangkaian Produk",
         "feature": "/id_id/products/cnt/plcr/pmerit/lup/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
