@@ -4,11 +4,11 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Events &amp; Seminars",
+        "name": "Acara &amp; Seminar",
         "path": "/id_id/events-seminars/index.html",
         "child": [
           {
-            "name": "Virtual Exhibition Hall",
+            "name": "Ruang Pameran Virtual",
             "path": "/id_id/events-seminars/virtual-space/index.html"
           },
           {
@@ -16,7 +16,7 @@
             "path": "/id_id/events-seminars/index.html#section03",
             "child": [
               {
-                "name": "Nagoya Works Shinshiro Factory",
+                "name": "Pabrik Shinshiro Nagoya Works",
                 "path": "/id_id/events-seminars/factories/nagoya_shinshiro/index.html"
               }
             ]
@@ -29,11 +29,11 @@
         ]
       },
       {
-        "name": "Events &amp; Seminars",
+        "name": "Acara &amp; Seminar",
         "path": "/id_id/events-seminars/index.html",
         "child": [
           {
-            "name": "Events &amp; Seminars",
+            "name": "Acara &amp; Seminar",
             "path": "/id_id/events-seminars/index.html#section01",
             "child": [
               {

@@ -1,38 +1,38 @@
 {
 	"layerNav": {
-		"name": "MELSEC Process Control/Redundant System",
+		"name": "Sistem Kontrol Proses/Redundan MELSEC",
 		"path": "/id_id/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
-				"name": "Fine chemicals",
+				"name": "Bahan kimia halus",
 				"path": "/id_id/solutions/competencies/process/application/index.html"
 			},
 			{
-				"name": "Waste treatment plant",
+				"name": "Pabrik pengolahan limbah",
 				"path": "/id_id/solutions/competencies/process/application/app02.html"
 			},
 			{
-				"name": "Steel industry",
+				"name": "Industri baja",
 				"path": "/id_id/solutions/competencies/process/application/app03.html"
 			},
 			{
-				"name": "Material handling",
+				"name": "Penanganan material",
 				"path": "/id_id/solutions/competencies/process/application/app04.html"
 			},
 			{
-				"name": "Data Center",
+				"name": "Pusat Data",
 				"path": "/id_id/solutions/industries/datacenter/index.html"
 			},
 			{
-				"name": "Water",
+				"name": "Air",
 				"path": "/id_id/solutions/industries/water/index.html"
 			},
 			{
-				"name": "Oil and Gas",
+				"name": "Minyak dan Gas",
 				"path": "/id_id/solutions/industries/oilandgas/index.html"
 			},
 			{
-				"name": "HVAC (Heating, Ventilation and Air-Conditioning)",
+				"name": "HVAC (Pemanas, Ventilasi, dan Pendingin Udara)",
 				"path": "/id_id/solutions/industries/hvac/index.html"
 			}
 		]
