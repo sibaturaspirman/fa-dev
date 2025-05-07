@@ -24,7 +24,7 @@
 						"link": "/id_id/download/?modal=software"
 					},
 					{
-						"name": "Sample<br>Library",
+						"name": "Contoh<br>Library",
 						"icon": "library",
 						"link": "/id_id/download/?modal=lib"
 					}
@@ -62,17 +62,17 @@
 				"link": "#"
 			},
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
 				"link": "/id_id/products/spec.html"
 			},
 			{
-				"name": "Products certified/compliant to standards",
+				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
 				"link": "/id_id/products/standard.html"
 			},
 			{
-				"name": "Discontinued Products",
+				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
 				"link": "/id_id/products/renewal.html"
 			},
@@ -136,7 +136,7 @@
 				"link": "/id_id/download/?modal=software"
 			},
 			{
-				"name": "Sample Library",
+				"name": "Contoh Library",
 				"icon": "library",
 				"link": "/id_id/download/?modal=lib"
 			}

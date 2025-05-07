@@ -7,12 +7,12 @@
     "comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
     "items": [
       {
-        "name": "Product Specifications",
+        "name": "Spesifikasi Produk",
         "icon": "settings",
         "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Die-sinker%20Electrical%20Discharge%20Machines&search=B&word=Die-sinker%20Electrical%20Discharge%20Machines"
       },
       {
-        "name": "Discontinued Products",
+        "name": "Produk yang Dihentikan",
         "icon": "silver-line",
         "link": "/id_id/products/mecha/edm/pmerit/die_sinking/close/index.html"
       }

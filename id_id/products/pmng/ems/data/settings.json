@@ -34,7 +34,7 @@
 						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ems"
 					},
 					{
-						"name": "Sample<br>Library",
+						"name": "Contoh<br>Library",
 						"icon": "library",
 						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=lib&kisyu=/ems"
 					}
@@ -57,7 +57,7 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
 				"link": "#",
 				"child": [
@@ -74,22 +74,22 @@
 						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Application%20Software&search=B&word=Application%20Software"
 					},
 					{
-						"name": "MELSEC iQ-R Series",
+						"name": "Seri MELSEC iQ-R",
 						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC%20iQ-R%20Series&search=B&word=MELSEC%20iQ-R%20Series"
 					},
 					{
-						"name": "MELSEC-Q Series",
+						"name": "Seri MELSEC-Q",
 						"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=MELSEC-Q%20Series&search=B&word=MELSEC-Q%20Series"
 					}
 				]
 			},
 			{
-				"name": "Products certified/compliant to standards",
+				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
 				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems"
 			},
 			{
-				"name": "Discontinued Products",
+				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
 				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon"
 			},
@@ -141,7 +141,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ems"
 			},
 			{
-				"name": "Sample Library",
+				"name": "Contoh Library",
 				"icon": "library",
 				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=lib&kisyu=/ems"
 			}
@@ -151,7 +151,7 @@
 		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "FA e-learning",
+				"name": "e-learning FA",
 				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]

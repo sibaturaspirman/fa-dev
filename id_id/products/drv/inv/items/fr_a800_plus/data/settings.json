@@ -127,7 +127,7 @@
 				"link": "/id_id/download/?modal=software"
 			},
 			{
-				"name": "Sample Library",
+				"name": "Contoh Library",
 				"icon": "library",
 				"link": "/id_id/download/?modal=lib"
 			}
@@ -137,7 +137,7 @@
 		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "FA e-learning",
+				"name": "e-learning FA",
 				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
