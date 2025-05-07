@@ -4,11 +4,11 @@
     "path": "/id_id/products/edge/melipc/index.html",
     "firstLayer": [
       {
-        "name": "Setting/programming software",
+        "name": "Pengaturan/Pemograman Perangkat lunak",
         "path": "/id_id/products/edge/melipc/smerit/index.html"
       },
       {
-        "name": "MI Configurator",
+        "name": "MI Konfigurator",
         "path": "/id_id/products/edge/melipc/smerit/mic.html"
       },
       {
@@ -16,7 +16,7 @@
         "path": "/id_id/products/edge/melipc/smerit/cww.html"
       },
       {
-        "name": "Solution template",
+        "name": "Template solusi",
         "path": "/id_id/products/edge/melipc/smerit/soltemp.html"
       }
     ]

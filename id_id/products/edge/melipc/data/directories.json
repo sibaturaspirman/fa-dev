@@ -39,7 +39,7 @@
     "child": [
       {
         "group": "MELIPC",
-        "name": "Outline",
+        "name": "Gambaran Umum",
         "feature": "/id_id/products/edge/melipc/pmerit/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=Outline",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=Outline",

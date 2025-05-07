@@ -317,7 +317,7 @@
 				"link": "/id_id/products/cnt/plca/ex/renew/renewal/index.html"
 			},
 			{
-				"name": "FA Integrated Selection Tool",
+				"name": "Instrumen Seleksi Terintegrasi FA",
 				"icon": "tree",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
@@ -407,7 +407,7 @@
 		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
 		"items": [
 			{
-				"name": "FA Integrated Selection Tool",
+				"name": "Instrumen Seleksi Terintegrasi FA",
 				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},

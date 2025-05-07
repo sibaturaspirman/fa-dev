@@ -29,12 +29,12 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "General Product Catalog",
+				"name": "Katalog Produk Umum",
 				"icon": "catalog",
 				"link": "/id_id/dctlg/index.html"
 			},
 			{
-				"name": "FA Integrated Selection Tool",
+				"name": "Instrumen Seleksi Terintegrasi FA",
 				"icon": "tree",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
@@ -212,7 +212,7 @@
 				"link": "/id_id/products/software/visualisation/system-recorder/index.html"
 			},
 			{
-				"name": "FA Integrated Selection Tool",
+				"name": "Instrumen Seleksi Terintegrasi FA",
 				"image": "/id_id/products/assets/img/banner_integrated-selection-tool.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},

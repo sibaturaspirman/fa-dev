@@ -75,7 +75,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
 (function($) {
   'use strict';
   // ドキュメントリンク 新システム移行機種定義ファイル読み込み
-  $("<script src='https://www.mitsubishielectric.com/fa/shared/js/ikouKisyu.js'></script>").appendTo("body");
+  $("<script src='/id_id/shared/js/ikouKisyu.js'></script>").appendTo("body");
 
   const queryParametersObject = MEL_SETTINGS.helper.getCurrentQueries();
   
