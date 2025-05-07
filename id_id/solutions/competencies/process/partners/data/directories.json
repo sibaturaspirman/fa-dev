@@ -1,14 +1,14 @@
 {
 	"layerNav": {
-		"name": "MELSEC Process Control/Redundant System",
+		"name": "Sistem Kontrol Proses/Redundan MELSEC",
 		"path": "/id_id/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
-				"name": "MITSUBISHI ELECTRIC ENGINEERING COMPANY LIMITED",
+				"name": "PERUSAHAAN TEKNIK LISTRIK MITSUBISHI TERBATAS",
 				"path": "/id_id/solutions/competencies/process/partners/index.html"
 			},
 			{
-				"name": "Mitsubishi Electric System & Service",
+				"name": "Sistem & Layanan Mitsubishi Electric",
 				"path": "/id_id/solutions/competencies/process/partners/melsc.html"
 			}
 		]
