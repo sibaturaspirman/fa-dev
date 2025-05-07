@@ -34,7 +34,7 @@
 						"link": "/id_id/download/index.html?modal=software"
 					},
 					{
-						"name": "Sample<br>Library",
+						"name": "Contoh<br>Library",
 						"icon": "library",
 						"link": "/id_id/download/index.html?modal=lib"
 					}
@@ -57,7 +57,7 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
 				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
 				"child": [
@@ -76,7 +76,7 @@
 					]
 				},
 			{
-				"name": "Products certified/compliant to standards",
+				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
 				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
 				"child": [
@@ -144,7 +144,7 @@
 				"link": "/id_id/download/index.html?modal=software"
 			},
 			{
-				"name": "Sample Library",
+				"name": "Contoh Library",
 				"icon": "library",
 				"link": "/id_id/download/index.html?modal=lib"
 			}
@@ -154,7 +154,7 @@
 		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "FA e-learning",
+				"name": "e-learning FA",
 				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]

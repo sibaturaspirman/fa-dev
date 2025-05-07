@@ -47,7 +47,7 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
 				"link": "#",
 				"child": [
@@ -77,7 +77,7 @@
 				]
 			},
 			{
-				"name": "Discontinued Products",
+				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
 				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon"
 			},
@@ -129,7 +129,7 @@
 		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "FA e-learning",
+				"name": "e-learning FA",
 				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]

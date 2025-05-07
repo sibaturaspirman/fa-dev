@@ -1,12 +1,12 @@
 [
 	{
-		"name": "MELSEC iQ-R Series",
+		"name": "Seri MELSEC iQ-R",
 		"url": "/id_id/products/cnt/plcr/items/index.html",
 		"number": "01",
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-F Series",
+		"name": "Seri MELSEC iQ-F",
 		"url": "/id_id/products/cnt/plcf/items/index.html",
 		"number": "02",
 		"target": "_self"
@@ -102,7 +102,7 @@
 		"target": "_self"
 	},
 	{
-		"name": "System Recorder",
+		"name": "Sistem Perekam",
 		"url": "/id_id/products/cnt/plcr/pmerit/sysrecorder/index.html",
 		"number": "18",
 		"target": "_self"

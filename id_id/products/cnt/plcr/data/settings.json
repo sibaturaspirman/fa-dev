@@ -34,7 +34,7 @@
 						"link": "/id_id/download/?modal=software"
 					},
 					{
-						"name": "Sample<br>Library",
+						"name": "Contoh<br>Library",
 						"icon": "library",
 						"link": "/id_id/download/?modal=lib"
 					}
@@ -100,7 +100,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network"
           },
           {
-            "name": "Energy measuring",
+            "name": "Pengukuran energi",
             "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring"
           },
           {
@@ -110,7 +110,7 @@
         ]
 			},
 			{
-				"name": "Products certified/compliant to standards",
+				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
 				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "child": [
@@ -147,7 +147,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network"
           },
           {
-            "name": "Energy measuring",
+            "name": "Pengukuran energi",
             "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Energy%20measuring&search=B&word=Energy%20measuring"
           },
           {
@@ -157,7 +157,7 @@
         ]
 			},
 			{
-				"name": "Discontinued Products",
+				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
 				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon",
         "child": [

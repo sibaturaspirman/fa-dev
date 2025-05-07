@@ -78,27 +78,27 @@
 				"link": "#",
                 "child": [
                 {
-				    "name": "MELSEC iQ-R Series",
+				    "name": "Seri MELSEC iQ-R",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
                 },
                 {
-				    "name": "MELSEC iQ-F Series",
+				    "name": "Seri MELSEC iQ-F",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=catalog"
                 },
                 {
-				    "name": "MELSEC-Q Series",
+				    "name": "Seri MELSEC-Q",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=catalog"
                 },
                 {
-				    "name": "MELSEC-L Series",
+				    "name": "Seri MELSEC-L",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=catalog"
                 },
                 {
-				    "name": "MELSEC-F Series",
+				    "name": "Seri MELSEC-F",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
                 },
                 {
-				    "name": "MELSEC-QS/WS Series",
+				    "name": "Seri MELSEC-QS/WS",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
                 },
                 {
@@ -113,27 +113,27 @@
 				"link": "#",
                 "child": [
                 {
-				    "name": "MELSEC iQ-R Series",
+				    "name": "Seri MELSEC iQ-R",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
                 },
                 {
-				    "name": "MELSEC iQ-F Series",
+				    "name": "Seri MELSEC iQ-F",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=manual"
                 },
                 {
-				    "name": "MELSEC-Q Series",
+				    "name": "Seri MELSEC-Q",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=manual"
                 },
                 {
-				    "name": "MELSEC-L Series",
+				    "name": "Seri MELSEC-L",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=manual"
                 },
                 {
-				    "name": "MELSEC-F Series",
+				    "name": "Seri MELSEC-F",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
                 },
                 {
-				    "name": "MELSEC-QS/WS Series",
+				    "name": "Seri MELSEC-QS/WS",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
                 },
                 {
@@ -148,27 +148,27 @@
 				"link": "#",
                 "child": [
                 {
-                    "name": "MELSEC iQ-R Series",
+                    "name": "Seri MELSEC iQ-R",
                     "link":"https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=techinfo"
                 },
                 {
-                    "name": "MELSEC iQ-F Series",
+                    "name": "Seri MELSEC iQ-F",
                     "link":"https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=techinfo"
                 },
                 {
-				    "name": "MELSEC-Q Series",
+				    "name": "Seri MELSEC-Q",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=techinfo"
                 },
                 {
-				    "name": "MELSEC-L Series",
+				    "name": "Seri MELSEC-L",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=techinfo"
                 },
                 {
-				    "name": "MELSEC-F Series",
+				    "name": "Seri MELSEC-F",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
                 },
                 {
-				    "name": "MELSEC-QS/WS Series",
+				    "name": "Seri MELSEC-QS/WS",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
                 },
                 {
@@ -188,7 +188,7 @@
 				"link": "/id_id/download/index.html?modal=software"
 			},
 			{
-				"name": "Sample Library",
+				"name": "Contoh Library",
 				"icon": "library",
 				"link": "/id_id/download/index.html?modal=lib"
 			}

@@ -42,17 +42,17 @@
 				"link": "#"
 			},
 			{
-				"name": "Product Specifications",
+				"name": "Spesifikasi Produk",
 				"icon": "settings",
 				"link": "/id_id/products/spec.html"
 			},
 			{
-				"name": "Products certified/compliant to standards",
+				"name": "Produk bersertifikat/mematuhi standar",
 				"icon": "standard",
 				"link": "/id_id/products/standard.html"
 			},
 			{
-				"name": "Discontinued Products",
+				"name": "Produk yang Dihentikan",
 				"icon": "silver-line",
 				"link": "/id_id/products/renewal.html"
 			},
@@ -114,7 +114,7 @@
 		"comment": "関連リンクに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "FA e-learning",
+				"name": "e-learning FA",
 				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]
