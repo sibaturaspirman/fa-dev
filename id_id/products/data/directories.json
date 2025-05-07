@@ -94,11 +94,11 @@
             ]
           },
           {
-            "name": "Simple Application Controllers",
-            "path": "/id_id/products/cnt/sac/index.html"
+            "name": "Pengontrol Aplikasi Sederhana",
+            "path": "https://www.mitsubishielectric.com/fa/id_id/products/cnt/sac/index.html"
           },
           {
-            "name": "Motion Controllers",
+            "name": "Pengontrol Motion",
             "path": "/id_id/products/cnt/ssc/index.html"
           }
         ]
@@ -370,7 +370,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "FA Integrated Selection Tool",
+            "name": "Instrumen Seleksi Terintegrasi FA",
             "path": "https://www.mitsubishielectric.com/fa/products/select/index.html"
           }
         ]

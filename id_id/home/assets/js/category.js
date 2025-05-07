@@ -31,7 +31,7 @@
   const $AoMList = $('[data-js-aom-result-latest]');
   const AoMListMaxNumber = 4;
   
-  const locationsWorldwideHTML = '/id_id/worldwide/index.html';
+  const locationsWorldwideHTML = 'https://www.mitsubishielectric.com/fa/worldwide/index.html';
   const $locationsWordwideList = $('[data-js-locations-worldwide]');
   
   // サイト・製品検索初期化

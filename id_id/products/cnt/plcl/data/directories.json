@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Programmable<br>Controllers<br>MELSEC",
+            "name": "Kontroler<br>yang dapat Diprogram<br>MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
@@ -40,7 +40,7 @@
                 "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
               },
               {
-                "name": "Network-related products",
+                "name": "Produk terkait jaringan",
                 "path": "/id_id/products/cnt/plcnet/items/index.html"
               }
             ]
@@ -103,7 +103,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Network",
+        "name": "Jaringan",
         "feature": "/id_id/products/cnt/plcl/pmerit/network/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Network&search=B&word=Network",

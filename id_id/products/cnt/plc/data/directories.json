@@ -57,7 +57,7 @@
       },
       {
         "group": "LP3",
-        "name": "Application Examples",
+        "name": "Contoh Aplikasi",
         "path": "/id_id/products/cnt/plc/pmerit/case.html",
         "spec": "",
         "standard": "",
@@ -65,7 +65,7 @@
       },
       {
         "group": "LP3",
-        "name": "Selection Guide",
+        "name": "Panduan Pemilihan",
         "path": "/id_id/products/cnt/plc/pmerit/guide.html",
         "spec": "",
         "standard": "",
@@ -73,7 +73,7 @@
       },
       {
         "group": "LP3",
-        "name": "MELSEC History",
+        "name": "Sejarah MELSEC",
         "path": "/id_id/products/cnt/plc/pmerit/history.html",
         "spec": "",
         "standard": "",

@@ -96,7 +96,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O"
           },
           {
-            "name": "Network",
+            "name": "Jaringan",
             "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network"
           },
           {
@@ -139,7 +139,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O"
           },
           {
-            "name": "Network",
+            "name": "Jaringan",
             "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Network&search=B&word=Network"
           },
           {
@@ -174,7 +174,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Simple%20motion/positioning"
           },
           {
-            "name": "Network",
+            "name": "Jaringan",
             "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Network"
           },
           {
@@ -189,7 +189,7 @@
 				"link": "/id_id/products/cnt/plca/pmerit/renewal/"
 			},
 			{
-				"name": "FA Integrated Selection Tool",
+				"name": "Instrumen Seleksi Terintegrasi FA",
 				"icon": "tree",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
@@ -279,7 +279,7 @@
 		"comment": "関連リンクバナーに掲載したいページタイトル・画像・リンクを追加可",
 		"items": [
 			{
-				"name": "FA Integrated Selection Tool",
+				"name": "Instrumen Seleksi Terintegrasi FA",
 				"image": "/id_id/products/assets/img/faist-202411-relatedlink-en.jpg",
 				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			},
