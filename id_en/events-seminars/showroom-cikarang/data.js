@@ -37,12 +37,12 @@ let datas = [
     {
       "URL": "/id_en/events-seminars/showroom-cikarang/B-8.html",
       "Image": "/id_en/events-seminars/assets/img/showroom/B-8.jpg",
-      "Title": "PICK AND PLACE ROBOT CANDY"
+      "Title": "Pick and Place Robot Candy"
     },
     {
       "URL": "/id_en/events-seminars/showroom-cikarang/B-9.html",
       "Image": "/id_en/events-seminars/assets/img/showroom/B-9.jpg",
-      "Title": "HVAC APPLICATION FOR CLEAN ROOM AND CONTROL ROOM WITH SCADA SYSTEM"
+      "Title": "HVAC Application for Clean Room and Control Room with SCADA System"
     },
     {
       "URL": "/id_en/events-seminars/showroom-cikarang/B-10.html",
