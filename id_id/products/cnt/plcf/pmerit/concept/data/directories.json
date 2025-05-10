@@ -4,19 +4,19 @@
     "path": "/id_id/products/cnt/plcf/items/index.html",
     "firstLayer": [
       {
-        "name": "Concept TOP",
+        "name": "Konsep TOP",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/index.html"
       },
       {
-        "name": "iQ Platform",
+        "name": "Platform iQ",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/iq_platform.html"
       },
       {
-        "name": "Built-in Functions",
+        "name": "Fungsi bawaan",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/built_in_function.html"
       },
       {
-        "name": "Positioning function",
+        "name": "Fungsi pemosisian",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/positioning.html"
       },
       {
@@ -24,23 +24,23 @@
         "path": "/id_id/products/cnt/plcf/pmerit/concept/gx_works3.html"
       },
       {
-        "name": "Advanced MELSEC iQ-F Series",
+        "name": "Seri MELSEC iQ-F Lanjutan",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/melsec_iqf.html"
       },
       {
-        "name": "Application examples (videos)",
+        "name": "Contoh aplikasi (video)",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/movie.html"
       },
       {
-        "name": "Quick Start Guide [Ladder language edition] (video)",
+        "name": "Panduan Memulai Cepat [edisi bahasa Ladder] (video)",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/movie_quickguide_ladder.html"
       },
       {
-        "name": "Quick Start Guide [FBD/LD language edition] (video)",
+        "name": "Panduan Memulai Cepat [edisi bahasa FBD/LD] (video)",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/movie_quickguide_fbd.html"
       },
       {
-        "name": "Technical Video [Logging Section] (video)",
+        "name": "Video Teknis [Bagian Pencatatan] (video)",
         "path": "/id_id/products/cnt/plcf/pmerit/concept/movie_tech_logging.html"
       }
     ]

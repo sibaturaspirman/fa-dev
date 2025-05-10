@@ -8,23 +8,23 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Visualization software",
+            "name": "Perangkat Lunak Visualisasi",
             "path": "/id_id/products/software/visualisation/index.html",
             "child": [
               {
-                "name": "SCADA software GENESIS64&trade;",
+                "name": "Perangkat Lunak SCADA GENESIS64&trade;",
                 "path": "/id_id/products/software/visualisation/genesis64/index.html"
               },
               {
-                "name": "HMI software (GOT)",
+                "name": "Perangkat Lunak HMI (GOT)",
                 "path": "/id_id/products/software/visualisation/got/index.html"
               },
               {
-                "name": "System recorder related software",
+                "name": "Perangkat lunak terkait sistem perekam",
                 "path": "/id_id/products/software/visualisation/system-recorder/index.html"
               },
               {
-                "name": "e-F@ctory Support Module",
+                "name": "Modul Dukungan e-F@ctory",
                 "path": "https://dl.mitsubishielectric.com/dl/fa/document/catalog/sol/efactory/e001eng/e001engc.pdf"
               }
             ]
@@ -34,12 +34,12 @@
     ]
   },
   "switchNav": {
-    "name": "Vidualization software",
+    "name": "Perangkat Lunak  Visualisasi",
     "path": "/id_id/products/software/visualisation/index.html",
     "child": [
       {
         "group": "Vidualization software",
-        "name": "SCADA software GENESIS64&trade;",
+        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/index.html",
         "spec": "",
         "standard": "",
@@ -47,7 +47,7 @@
       },
       {
         "group": "Vidualization software",
-        "name": "SCADA software GENESIS64&trade;",
+        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/our-stories.html",
         "spec": "",
         "standard": "",
@@ -55,7 +55,7 @@
       },
       {
         "group": "Vidualization software",
-        "name": "SCADA software GENESIS64&trade;",
+        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/lineup.html",
         "spec": "",
         "standard": "",
@@ -63,7 +63,7 @@
       },
       {
         "group": "Vidualization software",
-        "name": "SCADA software GENESIS64&trade;",
+        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/download.html",
         "spec": "",
         "standard": "",
@@ -72,7 +72,7 @@
     ]
   },
   "layerNav": {
-    "name": "Vidualization software",
+    "name": "Perangkat Lunak  Visualisasi",
     "path": "/id_id/products/software/visualisation/genesis64/index.html",
     "firstLayer": [
       {
@@ -80,7 +80,7 @@
         "path": "/id_id/products/software/visualisation/genesis64/index.html"
       },
       {
-        "name": "Introduction example",
+        "name": "Contoh Pengenalan",
         "path": "/id_id/products/software/visualisation/genesis64/our-stories.html"
       },
       {

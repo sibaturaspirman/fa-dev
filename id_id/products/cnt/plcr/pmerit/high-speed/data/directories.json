@@ -4,15 +4,15 @@
 		"path": "/id_id/products/cnt/plcr/pmerit/high-speed/index.html",
 		"firstLayer": [
 			{
-				"name": "High-speed counter",
+				"name": "Penghitung kecepatan tinggi",
 				"path": "/id_id/products/cnt/plcr/pmerit/high-speed/index.html"
 			},
 			{
-				"name": "Channel isolated pulse input",
+				"name": "Saluran masukan pulsa terisolasi",
 				"path": "/id_id/products/cnt/plcr/pmerit/high-speed/isolated.html"
 			},
 			{
-				"name": "Flexible high-speed I/O control",
+				"name": "Kontrol I/O kecepatan tinggi yang fleksibel",
 				"path": "/id_id/products/cnt/plcr/pmerit/high-speed/flexi.html"
 			}
 		]

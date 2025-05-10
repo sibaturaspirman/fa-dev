@@ -8,23 +8,23 @@
 				"path": "/id_id/products/cnt/plcq/pmerit/analog/index.html"
 			},
 			{
-				"name": "Temperature I/O",
+				"name": "Suhu I/O",
 				"path": "/id_id/products/cnt/plcq/pmerit/analog/ti.html"
 			},
 			{
-				"name": "Temperature control",
+				"name": "Kontrol suhu",
 				"path": "/id_id/products/cnt/plcq/pmerit/analog/tc.html"
 			},
 			{
-				"name": "Loop control",
+				"name": "Kontrol loop",
 				"path": "/id_id/products/cnt/plcq/pmerit/analog/lc.html"
 			},
 			{
-				"name": "Load cell",
+				"name": "Sel beban",
 				"path": "/id_id/products/cnt/plcq/pmerit/analog/loadcell.html"
 			},
 			{
-				"name": "CT Input",
+				"name": "Masukan CT",
 				"path": "/id_id/products/cnt/plcq/pmerit/analog/ct.html"
 			}
 		]

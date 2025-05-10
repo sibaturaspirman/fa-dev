@@ -36,11 +36,11 @@
 				"path": "/id_id/products/cnt/plcr/pmerit/network/ethernet.html"
 			},
 			{
-				"name": "Serial communication",
+				"name": "Komunikasi serial",
 				"path": "/id_id/products/cnt/plcr/pmerit/network/serial.html"
 			},
 			{
-				"name": "Other open networks",
+				"name": "Jaringan terbuka lainnya",
 				"path": "/id_id/products/cnt/plcr/pmerit/network/others.html"
 			}
 		]

@@ -4,11 +4,11 @@
     "path": "/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
-        "name": "Analog Control",
+        "name": "Kontrol Analog",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/analog/index.html"
       },
       {
-        "name": "Input device for temperature sensor",
+        "name": "Perangkat input untuk sensor suhu",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/analog/temperature.html"
       }
     ]
