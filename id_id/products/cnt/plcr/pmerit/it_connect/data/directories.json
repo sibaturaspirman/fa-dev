@@ -8,19 +8,19 @@
 				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/index.html"
 			},
 			{
-				"name": "Recorder, Camera recorder",
+				"name": "Perekam, Kamera perekam",
 				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/recorder.html"
 			},
 			{
-				"name": "MES interface",
+				"name": "Antarmuka MES",
 				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/mes.html"
 			},
 			{
-				"name": "OPC UA server",
+				"name": "Server OPC UA",
 				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/opc.html"
 			},
 			{
-				"name": "High-speed data logger, High-speed data communication",
+				"name": "Perekam data berkecepatan tinggi, Komunikasi data berkecepatan tinggi",
 				"path": "/id_id/products/cnt/plcr/pmerit/it_connect/log.html"
 			}
 		]

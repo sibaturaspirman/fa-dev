@@ -8,23 +8,23 @@
 				"path": "/id_id/products/cnt/plcr/pmerit/sysrecorder/index.html"
 			},
 			{
-				"name": "System-wide recording",
+				"name": "Perekaman seluruh sistem",
 				"path": "/id_id/products/cnt/plcr/pmerit/sysrecorder/recording.html"
 			},
 			{
-				"name": "Simplified analysis",
+				"name": "Analisis yang disederhanakan",
 				"path": "/id_id/products/cnt/plcr/pmerit/sysrecorder/analysis.html"
 			},
 			{
-				"name": "Related products",
+				"name": "Produk terkait",
 				"path": "/id_id/products/cnt/plcr/pmerit/sysrecorder/related_prod.html"
 			},
 			{
-				"name": "Related software",
+				"name": "Perangkat lunak terkait",
 				"path": "/id_id/products/cnt/plcr/pmerit/sysrecorder/related_soft.html"
 			},
 			{
-				"name": "Device configuration",
+				"name": "Konfigurasi perangkat",
 				"path": "/id_id/products/cnt/plcr/pmerit/sysrecorder/config.html"
 			}
 		]
