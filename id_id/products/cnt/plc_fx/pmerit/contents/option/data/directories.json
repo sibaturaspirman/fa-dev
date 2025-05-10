@@ -4,11 +4,11 @@
     "path": "/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
      {
-        "name": "Option",
+        "name": "Pilihan",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/option/index.html"
       },
       {
-        "name": "Training",
+        "name": "Pelatihan",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/option/training.html"
       }
     ]
