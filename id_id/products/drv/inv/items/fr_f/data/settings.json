@@ -58,7 +58,7 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Featured Products",
+				"name": "Produk Unggulan",
 				"icon": "announce",
 				"link": "/id_id/products/drv/inv/ex/watch/index.html"
 			},
