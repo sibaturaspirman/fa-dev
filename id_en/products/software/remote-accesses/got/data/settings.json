@@ -1,0 +1,97 @@
+{
+	"floatingMenu": {
+	  "specificItems": [
+			{
+				"name": "Download",
+				"icon": "download",
+				"link": "/id_en/download/search.page?kisyu=/got&mode=catalog",
+				"child": [
+					{
+					"name": "Catalog",
+					"icon": "catalog",
+					"link": "/id_en/download/search.page?kisyu=/got&mode=catalog"
+					},
+					{
+						"name": "Manual",
+						"icon": "manual",
+						"link": "/id_en/download/search.page?mode=manual&kisyu=/got"
+					},
+					{
+						"name": "Software",
+						"icon": "software",
+						"link": "/id_en/download/software/search.page?mode=software&kisyu=/got"
+					}
+				]
+			},
+			{
+				"name": "FAQ",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2167"
+			}
+	  ],
+		"commonItems": [
+		]
+	},
+	"spotlight": {
+		"items": [
+		]
+	},
+	"productsMenu": {
+		"items": [
+		]
+	},
+	"optionItems": {
+		"items": [
+		]
+	},
+	"download": {
+		"recommended": [
+		],
+		"items": [
+			{
+				"name": "Catalog",
+				"icon": "catalog",
+				"link": "/id_en/download/search.page?kisyu=/got&mode=catalog"
+			},
+			{
+				"name": "Manual",
+				"icon": "manual",
+				"link": "/id_en/download/search.page?mode=manual&kisyu=/got"
+			},
+			{
+				"name": "Software",
+				"icon": "software",
+				"link": "/id_en/download/software/search.page?mode=software&kisyu=/got"
+			}
+		]
+	},
+	"relatedLink": {
+		"items": [{
+			"name": "FA e-Learning",
+			"link": "/id_en/assist/e-learning/index.html"
+		},
+		{
+			"name": "FA Terminology Dictionary",
+			"link": "/id_en/assist/fa_dictionary/index.html"
+		}
+		]
+	},
+	"banner": {
+		"items": [
+		]
+	},
+	"contact": {
+		"items": [
+			{
+				"name": "Contact us",
+				"icon": "estimate",
+				"link": "/id_en/contact-us/index.html"
+			},
+			{
+				"name": "FAQs",
+				"icon": "faq",
+				"link": "https://fa-faq.mitsubishielectric.com/category/show/2167"
+			}
+		]
+	}
+}
