@@ -4,7 +4,7 @@
 		"path": "/id_id/products/cnt/plcq/pmerit/network/index.html",
 		"firstLayer": [
 			{
-				"name": "Network Configurations",
+				"name": "Konfigurasi Jaringan",
 				"path": "/id_id/products/cnt/plcq/pmerit/network/index.html"
 			},
 			{
@@ -40,15 +40,15 @@
 				"path": "/id_id/products/cnt/plcq/pmerit/network/serial_com.html"
 			},
 			{
-				"name": "MES interface",
+				"name": "Antarmuka MES",
 				"path": "/id_id/products/cnt/plcq/pmerit/network/mes.html"
 			},
 			{
-				"name": "High speed data logger",
+				"name": "Pencatat data berkecepatan tinggi",
 				"path": "/id_id/products/cnt/plcq/pmerit/network/data_log.html"
 			},
 			{
-				"name": "High speed data communication",
+				"name": "Komunikasi data berkecepatan tinggi",
 				"path": "/id_id/products/cnt/plcq/pmerit/network/data_com.html"
 			}
 		]
