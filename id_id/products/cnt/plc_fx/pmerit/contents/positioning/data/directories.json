@@ -4,11 +4,11 @@
     "path": "/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
      {
-        "name": "Positioning Control",
+        "name": "Kontrol Posisi",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/positioning/index.html"
       },
       {
-        "name": "PLC built-in pulse output functions and positioning functions",
+        "name": "Fungsi keluaran pulsa internal PLC dan fungsi pemosisian",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/positioning/plc01.html"
       }
     ]

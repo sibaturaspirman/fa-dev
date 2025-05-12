@@ -52,7 +52,7 @@
 		"comment": "機種共通メニューのlinkは各機種のページのURLに変更可",
 		"items": [
 			{
-				"name": "Featured Products",
+				"name": "Produk Unggulan",
 				"icon": "announce",
 				"link": "#"
 			},
@@ -72,7 +72,7 @@
 				"link": "/id_id/products/renewal.html"
 			},
 			{
-				"name": "Replace Products",
+				"name": "Ganti Produk",
 				"icon": "replace",
 				"link": "/id_id/products/replace.html"
 			},

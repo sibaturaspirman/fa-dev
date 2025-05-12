@@ -4,11 +4,11 @@
     "path": "/id_id/products/drv/inv/pmerit/index.html",
     "firstLayer": [
 	     {
-        "name": "Main features",
+        "name": "Fitur utama",
         "path": "/id_id/products/drv/inv/pmerit/index.html"
       },
       {
-        "name": "Recommended products",
+        "name": "Produk yang direkomendasikan",
         "path": "/id_id/products/drv/inv/pmerit/new_products/index.html",
         "secondLayer": [
           {
@@ -44,11 +44,11 @@
         ]
       },
       {
-        "name": "Equipment maintenance",
+        "name": "Perawatan peralatan",
         "path": "/id_id/products/drv/inv/pmerit/prevention/index.html"
       },
       {
-        "name": "Digital Catalogs",
+        "name": "Katalog Digital",
         "path": "/id_id/products/drv/inv/pmerit/catalog_jp.html"
       }
     ]

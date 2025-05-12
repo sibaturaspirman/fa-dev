@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Visualization software",
+            "name": "Perangkat lunak visualisasi",
             "path": "/id_id/products/software/visualisation/index.html",
             "child": [
               {
@@ -16,15 +16,15 @@
                 "path": "/id_id/products/software/visualisation/scada/index.html"
               },
               {
-                "name": "HMI software (GOT)",
+                "name": "Perangkat Lunak HMI (GOT)",
                 "path": "/id_id/products/software/visualisation/got/index.html"
               },
               {
-                "name": "System recorder related software",
+                "name": "Perangkat lunak terkait sistem perekam",
                 "path": "/id_id/products/software/visualisation/system-recorder/index.html"
               },
               {
-                "name": "e-F@ctory Support Module",
+                "name": "Modul Dukungan e-F@ctory",
                 "path": "https://dl.mitsubishielectric.com/dl/fa/document/catalog/sol/efactory/e001eng/e001engc.pdf"
               }
             ]

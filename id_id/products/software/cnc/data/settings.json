@@ -52,15 +52,15 @@
 		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "Digital Catalogs",
+				"name": "Katalog Digital",
 				"link": "/id_id/products/cnt/cnc/pmerit/catalog_en.html"
 			},
 			{
-				"name": "Events",
+				"name": "Acara",
 				"link": "/id_id/products/cnt/cnc/evt/index.html"
 			},
 			{
-				"name": "CNC NEWS",
+				"name": "Berita CNC",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
 			}
 		]

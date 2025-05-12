@@ -37,7 +37,7 @@
 		"comment": "linkは各機種のダウンロードページのURLに変更可",
 		"items": [
 			{
-				"name": "catalog",
+				"name": "katalog",
 				"icon": "catalog",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/ems"
 			}

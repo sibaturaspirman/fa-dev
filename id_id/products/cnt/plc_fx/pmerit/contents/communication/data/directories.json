@@ -4,7 +4,7 @@
     "path": "/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
-        "name": "Network/Communication",
+        "name": "Jaringan/Komunikasi",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/index.html"
       },
       {
@@ -12,27 +12,27 @@
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/cclink_cclinklt.html"
       },
       {
-        "name": "N:N Network",
+        "name": "Jaringan N:N",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/function03.html"
       },
       {
-        "name": "Parallel Link",
+        "name": "Tautan Paralel",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/function04.html"
       },
       {
-        "name": "Computer Link",
+        "name": "Tautan Komputer",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/function05.html"
       },
       {
-        "name": "Non-protocol communication",
+        "name": "Komunikasi non-protokol",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/function06.html"
       },
       {
-        "name": "Peripheral equipment communication",
+        "name": "Komunikasi peralatan periferal",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/function07.html"
       },
       {
-        "name": "Inverter communication",
+        "name": "Komunikasi inverter",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/function08.html"
       }
     ]

@@ -55,7 +55,7 @@
     "child": [
       {
         "group": "Standard",
-        "name": "Safety standards",
+        "name": "Standar keselamatan",
         "feature": "/id_id/products/cnt/plcqsws/ex/stand/description.html",
         "return":{
           "name": "Return to standard compatibility list",
@@ -64,12 +64,12 @@
       },
       {
         "group": "Standard",
-        "name": "Various certification systems",
+        "name": "Berbagai sistem sertifikasi",
         "feature": "/id_id/products/standard.html#anc_05"
       },
       {
         "group": "Standard",
-        "name": "Amendment China RoHS Support",
+        "name": "Amandemen Dukungan RoHS Tiongkok",
         "feature": "/id_id/document/technews/plc/fa-a-0211/faa0211.pdf"
       },
       {
@@ -91,7 +91,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Safety Programmable Controllers",
+        "name": "Kontroler Terprogram Keamanan",
         "feature": "/id_id/products/cnt/plcqsws/pmerit/concept/safetyplc.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller",
@@ -99,7 +99,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Safety Controllers",
+        "name": "Pengendali Keamanan",
         "feature": "/id_id/products/cnt/plcqsws/pmerit/concept/safetycontroller.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller",
@@ -107,7 +107,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Safety Relay Modules",
+        "name": "Modul Relai Keamanan",
         "feature": "/id_id/products/cnt/plcqsws/pmerit/concept/safetyrelay.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay",

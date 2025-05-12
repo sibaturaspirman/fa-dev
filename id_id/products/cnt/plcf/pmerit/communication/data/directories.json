@@ -32,11 +32,11 @@
 		"path":"modbus.html"
 		},
 		{
-		"name":"Serial communication",
+		"name":"Komunikasi serial",
 		"path":"serial_communication.html"
 		},
 		{
-		"name":"Sensor Solution",
+		"name":"Solusi Sensor",
 		"path":"sensor_solution.html"
 		},
 		{
@@ -48,7 +48,7 @@
 		"path":"profibus_dp.html"
 		},
 		{
-		"name":"MQTT communication",
+		"name":"Komunikasi MQTT",
 		"path":"mqtt.html"
 		}
     ]

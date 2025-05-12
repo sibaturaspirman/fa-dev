@@ -4,11 +4,11 @@
     "path": "/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
      {
-        "name": "FX PLC Main Unit",
+        "name": "Unit Utama PLC FX",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/plc/index.html"
       },
       {
-        "name": "Application instructions",
+        "name": "Petunjuk penggunaan",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/plc/instruction.html"
       }
     ]
