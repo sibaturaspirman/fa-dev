@@ -49,7 +49,7 @@
     "child": [
       {
         "group": "LP3",
-        "name": "MELSEC-A Series features",
+        "name": "Fitur Seri MELSEC-A",
         "path": "/id_id/products/cnt/plca/pmerit/concept/",
         "spec": "",
         "standard": "",
@@ -57,7 +57,7 @@
       },
       {
         "group": "LP3",
-        "name": "MELSEC-A Series renewal",
+        "name": "Pembaruan Seri MELSEC-A",
         "path": "/id_id/products/cnt/plca/pmerit/renewal/",
         "spec": "",
         "standard": "",
