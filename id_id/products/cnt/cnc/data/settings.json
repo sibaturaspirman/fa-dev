@@ -42,17 +42,17 @@
 		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
 		"items": [
 			{
-				"name": "Future of Mitsubishi Electric CNC",
+				"name": "Masa Depan Mitsubishi Electric CNC",
 				"img": "/id_id/products/cnt/cnc/img/spotlight_difference.jpg",
 				"link": "/id_id/products/cnt/cnc/pr/difference/index.html"
 			},
 			{
-				"name": "M800V/M80V Series",
+				"name": "Seri M800V/M80V",
 				"img": "/id_id/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
 				"link": "/id_id/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
 			},
 			{
-				"name": "NC Virtual Simulator",
+				"name": "Simulator Virtual NC",
 				"img": "/id_id/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
 				"link": "/id_id/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
 			}
@@ -72,19 +72,19 @@
 		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "Digital Catalogs",
+				"name": "Katalog Digital",
 				"link": "/id_id/products/cnt/cnc/pmerit/web_catalog/catalog_en.html"
 			},
 			{
-				"name": "Movie",
-				"link": "/id_id/products/cnt/cnc/pmerit/movie/index.html"
+				"name": "Film",
+				"link": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/movie/index.html"
 			},
 			{
-				"name": "Events",
+				"name": "Acara",
 				"link": "/id_id/products/cnt/cnc/evt/index.html"
 			},
 			{
-				"name": "CNC NEWS",
+				"name": "Berita CNC",
 				"link": "https://www.mitsubishielectric.com/fa/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
 			}
 		]
