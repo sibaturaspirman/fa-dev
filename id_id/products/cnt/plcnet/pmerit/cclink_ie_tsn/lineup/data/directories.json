@@ -42,11 +42,11 @@
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/drv_hmi.html"
 					},
 					{
-						"name": "Block-type remote modules",
+						"name": "Modul jarak jauh tipe blok",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/block_type_rio.html"
 					},
 					{
-						"name": "Managed Ethernet switches/bridge modules",
+						"name": "Modul jembatan/switch Ethernet yang dikelola",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/hub_bridge.html"
 					},
 					{
@@ -54,7 +54,7 @@
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/partner.html"
 					},
 					{
-						"name": "Development kits/communication software",
+						"name": "Kit pengembangan/perangkat lunak komunikasi",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie_tsn/lineup/dev_tool.html"
 					}
 				]
@@ -65,7 +65,7 @@
 			},
 			{
 				"name": "Temukan Selengkapnya",
-				"path": "/id_id/sols/sol/network/pr/cclink_ie_tsn/index.html"
+				"path": "https://www.mitsubishielectric.com/fa/sols/sol/network/pr/cclink_ie_tsn/index.html"
 			}
 		]
 	}

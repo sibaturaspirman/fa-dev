@@ -12,41 +12,41 @@
 				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/index.html",
 				"secondLayer": [
 					{
-						"name": "Combining with TCP/IP communications",
+						"name": "Menggabungkan dengan komunikasi TCP/IP",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/index.html"
 					},
 					{
-						"name": "Wider range of connectable products",
+						"name": "Berbagai macam produk yang dapat dihubungkan",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/feat02.html"
 					},
 					{
-						"name": "Small-scale network system configuration",
+						"name": "Konfigurasi sistem jaringan skala kecil",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/feat03.html"
 					},
 					{
-						"name": "Simple setup and easy troubleshooting",
+						"name": "Pengaturan sederhana dan pemecahan masalah yang mudah",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/feature/feat04.html"
 					}
 				]
 			},
 			{
-				"name": "CC-Link IE Field Basic Applications",
+				"name": "Aplikasi Dasar CC-Link IE Field",
 				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/case/index.html"
 			},
 			{
-				"name": "CC-Link IE Field Basic Products",
+				"name": "Produk Dasar CC-Link IE Field",
 				"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/index.html",
 				"secondLayer": [
 					{
-						"name": "Programmable Controllers",
+						"name": "Pengontrol yang Dapat Diprogram",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/index.html"
 					},
 					{
-						"name": "Drive Products",
+						"name": "Produk Penggerak",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/drv.html"
 					},
 					{
-						"name": "Robot Products",
+						"name": "Produk Robot",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/robot.html"
 					},
 					{
@@ -54,15 +54,15 @@
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/hmi.html"
 					},
 					{
-						"name": "FA Sensors",
+						"name": "Sensor FA",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/sensor.html"
 					},
 					{
-						"name": "Energy Measuring Units",
+						"name": "Unit Pengukuran Energi",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/emu.html"
 					},
 					{
-						"name": "Block Type Remote Modules",
+						"name": "Modul Jarak Jauh Tipe Blok",
 						"path": "/id_id/products/cnt/plcnet/pmerit/cclink_ie/basic/lineup/block_type.html"
 					}
 				]

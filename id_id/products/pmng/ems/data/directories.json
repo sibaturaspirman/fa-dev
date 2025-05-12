@@ -12,7 +12,7 @@
             "path": "/id_id/products/pmng/ems/index.html",
 			"child": [
 				{
-					"name": "Energy Measuring Units",
+					"name": "Unit Pengukuran Energi",
 					"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 				},
 				{
@@ -45,7 +45,7 @@
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorPlus",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorPlus",
 		"return": {
-			"name": "Energy Measuring Units",
+			"name": "Unit Pengukuran Energi",
 			"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 		}
       },
@@ -57,7 +57,7 @@
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorLight",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorLight",
 		"return": {
-			"name": "Energy Measuring Units",
+			"name": "Unit Pengukuran Energi",
 			"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 		}
       },
