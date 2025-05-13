@@ -4,19 +4,19 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Industrial Robot MELFA",
+            "name": "Robot industri MELFA",
             "path": "/id_id/products/rbt/robot/index.html",
             "child": [
               {
-                "name": "Vertical articulated robot",
+                "name": "Robot artikulasi vertikal",
                 "path": "/id_id/products/rbt/robot/items/vertical/index.html"
               },
               {
-                "name": "Horizontal articulated robot",
+                "name": "Robot artikulasi horizontal",
                 "path": "/id_id/products/rbt/robot/items/horizontal/index.html"
               },
               {
@@ -56,30 +56,30 @@
     ]
   },
   "switchNav": {
-    "name": "Industrial Robot MELFA",
+    "name": "Robot industri MELFA",
     "path": "/id_id/products/rbt/robot/index.html",
     "child": [
       {
         "group": "Industrial Robot MELFA",
-        "name": "Vertical articulated robot",
+        "name": "Robot artikulasi vertikal",
         "feature": "/id_id/products/rbt/robot/pmerit/vertical/frseries/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
-         	"name": "Vertical articulated robot",
+         	"name": "Robot artikulasi vertikal",
          	"path": "/id_id/products/rbt/robot/items/vertical/index.html"
         	}
       },
       {
         "group": "Industrial Robot MELFA",
-        "name": "Horizontal articulated robot",
+        "name": "Robot artikulasi horizontal",
         "feature": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
-         	"name": "Horizontal articulated robot",
+         	"name": "Robot artikulasi horizontal",
          	"path": "/id_id/products/rbt/robot/items/horizontal/index.html"
         	}
       },
@@ -151,7 +151,7 @@
         "standard": "",
         "discon": "",
         	"return": {
-         	"name": "Industrial Robot MELFA",
+         	"name": "Robot industri MELFA",
          	"path": "/id_id/products/rbt/robot/index.html"
         	}
       }

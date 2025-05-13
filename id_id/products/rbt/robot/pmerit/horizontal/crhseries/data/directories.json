@@ -1,6 +1,6 @@
 {
   "layerNav": {
-    "name": "Industrial Robot MELFA",
+    "name": "Robot industri MELFA",
     "path": "/id_id/products/rbt/robot/items/horizontal/index.html",
     "firstLayer": [
       {
@@ -16,7 +16,7 @@
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/features.html"
           },
            {
-            "name": "Robot arm options",
+            "name": "Opsi lengan robot",
             "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/option.html"
           },
           {
