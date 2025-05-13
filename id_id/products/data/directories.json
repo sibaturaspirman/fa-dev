@@ -133,10 +133,10 @@
           },
           {
             "name": "Inverters-FREQROL",
-            "path": "/id_id/products/drv/inv/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/drv/inv/index.html"
           },
           {
-            "name": "Geared Motors",
+            "name": "Gear Motor",
             "path": "/id_id/products/drv/gear/index.html"
           }
         ]

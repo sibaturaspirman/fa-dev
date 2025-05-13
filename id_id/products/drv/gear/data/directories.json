@@ -8,23 +8,23 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Geared Motors",
+            "name": "Gear Motor",
             "path": "/id_id/products/drv/gear/index.html",
             "child": [
               {
-                "name": "Geared Motors Parallel shaft type",
+                "name": "Motor Roda Gigi Tipe poros paralel",
                 "path": "/id_id/products/drv/gear/items/gm_parallel/index.html"
               },
               {
-                "name": "Geared Motors Right angle shaft type",
+                "name": "Motor Roda Gigi Tipe poros siku-siku",
                 "path": "/id_id/products/drv/gear/items/gm_right_angle/index.html"
               },
               {
-                "name": "S-PM Geared Motors Parallel shaft type",
+                "name": "Motor Roda Gigi S-PM Tipe poros paralel",
                 "path": "/id_id/products/drv/gear/items/spm_parallel/index.html"
               },
               {
-                "name": "S-PM Geared Motors Right angle shaft type",
+                "name": "Motor Roda Gigi S-PM Tipe poros siku-siku",
                 "path": "/id_id/products/drv/gear/items/spm_right_angle/index.html"
               }
             ]
@@ -34,12 +34,12 @@
     ]
   },
   "switchNav": {
-    "name": "Geared Motors",
+    "name": "Gear Motor",
     "path": "/id_id/products/drv/gear/index.html",
     "child": [
       {
         "group": "gear",
-        "name": "Product Features",
+        "name": "Fitur Produk",
         "feature": "/id_id/products/drv/gear/pmerit/",
         "spec": "",
         "standard": "",
@@ -55,7 +55,7 @@
       },
       {
         "group": "gear",
-        "name": "Geared Motors Parallel shaft type",
+        "name": "Motor Roda Gigi Tipe poros paralel",
         "feature": "/id_id/products/drv/gear/pmerit/gm_parallel/",
         "spec": "",
         "standard": "",
@@ -63,7 +63,7 @@
       },
       {
         "group": "gear",
-        "name": "Geared Motors Right angle shaft type",
+        "name": "Motor Roda Gigi Tipe poros siku-siku",
         "feature": "/id_id/products/drv/gear/pmerit/gm_right_angle/",
         "spec": "",
         "standard": "",
@@ -71,7 +71,7 @@
       },
       {
         "group": "gear",
-        "name": "S-PM Geared Motors Parallel shaft type",
+        "name": "Motor Roda Gigi S-PM Tipe poros paralel",
         "feature": "/id_id/products/drv/gear/pmerit/spm_parallel/",
         "spec": "",
         "standard": "",
@@ -79,7 +79,7 @@
       },
       {
         "group": "gear",
-        "name": "S-PM Geared Motors Right angle shaft type",
+        "name": "Motor Roda Gigi S-PM Tipe poros siku-siku",
         "feature": "/id_id/products/drv/gear/pmerit/spm_right_angle/index.html",
         "spec": "",
         "standard": "",

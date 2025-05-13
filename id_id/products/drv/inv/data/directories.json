@@ -9,7 +9,7 @@
         "child": [
           {
             "name": "Inverters-FREQROL",
-            "path": "/id_id/products/drv/inv/index.html",
+            "path": "https://www.mitsubishielectric.com/fa/products/drv/inv/index.html",
             "child": [
               {
                 "name": "FR-A800 series",
@@ -47,7 +47,7 @@
   },
   "switchNav": {
     "name": "Inverters-FREQROL",
-    "path": "/id_id/products/drv/inv/index.html",
+    "path": "https://www.mitsubishielectric.com/fa/products/drv/inv/index.html",
     "child": [
         {
         "group": "FREQROL",

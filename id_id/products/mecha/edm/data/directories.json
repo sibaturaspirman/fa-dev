@@ -35,7 +35,7 @@
     "child": [
       {
         "group": "edm_spec_only",
-        "name": "Product Features",
+        "name": "Fitur Produk",
         "feature": "/id_id/products/mecha/edm/pmerit/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm",
         "standard": "",
