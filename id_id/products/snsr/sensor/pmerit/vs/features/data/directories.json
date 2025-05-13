@@ -28,17 +28,17 @@
             "path": "/id_id/products/snsr/sensor/pmerit/vs/features/vs20.html"
           },
           {
-            "name": "Compatibility with Mitsubishi Electric factory automation products",
+            "name": "Kompatibilitas dengan produk otomasi pabrik Mitsubishi Electric",
             "path": "/id_id/products/snsr/sensor/pmerit/vs/features/compatibility.html"
           }
         ]
       },
       {
-        "name": "Configuration tool",
+        "name": "Alat konfigurasi",
         "path": "/id_id/products/snsr/sensor/pmerit/vs/soft/index.html"
       },
       {
-        "name": "Applications",
+        "name": "Aplikasi",
         "path": "/id_id/products/snsr/sensor/pmerit/vs/application/index.html"
       },
       {
@@ -46,11 +46,11 @@
         "path": "/id_id/products/snsr/sensor/pmerit/vs/configuration/index.html"
       },
       {
-        "name": "Product list",
+        "name": "Daftar Produk",
         "path": "/id_id/products/snsr/sensor/pmerit/vs/lineup/index.html"
       },
       {
-        "name": "External dimensions",
+        "name": "Dimensi eksternal",
         "path": "/id_id/products/snsr/sensor/pmerit/vs/dimensions/index.html"
       }
     ]
