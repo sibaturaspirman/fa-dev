@@ -16,7 +16,7 @@
                 "path": "/id_id/products/rbt/assista/items/assista/index.html"
               },
               {
-                "name": "Intelligent Options",
+                "name": "Opsi Cerdas",
                 "path": "/id_id/products/rbt/assista/items/option/index.html"
               }
             ]
@@ -43,13 +43,13 @@
       },
       {
         "group": "Collaborative Robot",
-         "name": "Intelligent Options",
+         "name": "Opsi Cerdas",
         "feature": "/id_id/products/rbt/assista/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
           "return": {
-          "name": "Intelligent Options",
+          "name": "Opsi Cerdas",
           "path": "/id_id/products/rbt/assista/items/option/index.html"
   	    }
       },

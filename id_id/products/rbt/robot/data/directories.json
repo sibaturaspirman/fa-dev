@@ -28,7 +28,7 @@
                 "path": "/id_id/products/rbt/robot/items/msp/index.html"
               },
               {
-                "name": "Intelligent Options",
+                "name": "Opsi Cerdas",
                 "path": "/id_id/products/rbt/robot/items/option/index.html"
               }
             ]
@@ -109,13 +109,13 @@
       },
       {
         "group": "Industrial Robot MELFA",
-        "name": "Intelligent Options",
+        "name": "Opsi Cerdas",
         "feature": "/id_id/products/rbt/robot/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "",
         "discon": "",
         	"return": {
-         	"name": "Intelligent Options",
+         	"name": "Opsi Cerdas",
          	"path": "/id_id/products/rbt/robot/items/option/index.html"
         	}
       },
