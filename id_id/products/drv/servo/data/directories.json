@@ -17,23 +17,23 @@
 							},
 							{
 								"name": "MELSERVO-JET",
-								"path": "/id_id/products/drv/servo/items/mr_jet/index.html"
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
 							},
 							{
 								"name": "MELSERVO-J4",
-								"path": "/id_id/products/drv/servo/items/mr_j4/index.html"
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_j4/index.html"
 							},
 							{
 								"name": "MELSERVO-JE",
-								"path": "/id_id/products/drv/servo/items/mr_je/index.html"
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_je/index.html"
 							},
 							{
 								"name": "MELSERVO-JN",
-								"path": "/id_id/products/drv/servo/items/mr_jn/index.html"
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jn/index.html"
 							},
 							{
 								"name": "Perangkat Lunak Dukungan Servo",
-								"path": "/id_id/products/drv/servo/items/soft/index.html"
+								"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/soft/index.html"
 							}
 						]
 					}
@@ -112,7 +112,7 @@
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-JET",
-					"path": "/id_id/products/drv/servo/items/mr_jet/index.html"
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
 				}
 			},
 			{
@@ -124,7 +124,7 @@
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-JET",
-					"path": "/id_id/products/drv/servo/items/mr_jet/index.html"
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
 				}
 			},
 			{
@@ -136,7 +136,7 @@
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-JET",
-					"path": "/id_id/products/drv/servo/items/mr_jet/index.html"
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
 				}
 			},
 			{
@@ -148,7 +148,7 @@
 				"discon": "",
 				"return": {
 					"name": "MELSERVO-JET",
-					"path": "/id_id/products/drv/servo/items/mr_jet/index.html"
+					"path": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html"
 				}
 			}
 		]
