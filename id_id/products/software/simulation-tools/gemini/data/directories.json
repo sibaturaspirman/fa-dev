@@ -8,11 +8,11 @@
 			"path": "/id_id/products/index.html",
 			"child": [
 			  {
-				"name": "Simulation tools",
+				"name": "Alat simulasi",
 				"path": "/id_id/products/software/simulation-tools/index.html",
 				"child": [
 				  {
-					"name": "3D Simulator MELSOFT Gemini",
+					"name": "Simulator 3D MELSOFT Gemini",
 					"path": "/id_id/products/software/simulation-tools/gemini/index.html"
 				  },		  
 				  {
@@ -26,12 +26,12 @@
 		]
   },
   "switchNav": {
-    "name": "Simulation tools",
+    "name": "Alat simulasi",
     "path": "/id_id/products/software/simulation-tools/index.html",
     "child": [
       {
         "group": "Simulation tools",
-        "name": "3D Simulator MELSOFT Gemini",
+        "name": "Simulator 3D MELSOFT Gemini",
         "feature": "/id_id/products/software/simulation-tools/gemini/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/3dsim",
         "standard": "",
@@ -48,7 +48,7 @@
     ]
   },
   "layerNav": {
-    "name": "Simulation tools",
+    "name": "Alat simulasi",
     "path": "/id_id/products/software/simulation-tools/gemini/index.html",
     "firstLayer": [
       {
@@ -56,15 +56,15 @@
         "path": "/id_id/products/software/simulation-tools/gemini/index.html"
 	  },
       {
-        "name": "Usages",
+        "name": "Penggunaan",
         "path": "/id_id/products/software/simulation-tools/gemini/usage.html"
       },
       {
-        "name": "Introduction Example",
+        "name": "Contoh Pendahuluan",
         "path": "/id_id/products/software/simulation-tools/gemini/introductions.html"
       },
       {
-        "name": "Product List",
+        "name": "Daftar Produk",
         "path": "/id_id/products/software/simulation-tools/gemini/lineup.html"
       },
       {
@@ -72,7 +72,7 @@
         "path": "/id_id/products/software/simulation-tools/gemini/function.html"
       },
       {
-        "name": "Fee-based Maintenance Service",
+        "name": "Layanan Pemeliharaan Berbasis Biaya",
         "path": "/id_id/products/software/simulation-tools/gemini/service.html"
       },
       {
@@ -80,19 +80,19 @@
         "path": "/id_id/products/software/simulation-tools/gemini/trial.html"
       },
       {
-        "name": "Academy",
+        "name": "Akademi",
         "path": "/id_id/products/software/simulation-tools/gemini/howto.html",
         "secondLayer": [
 		  {
-            "name": "By Category",
+            "name": "Berdasarkan Kategori",
             "path": "/id_id/products/software/simulation-tools/gemini/howto.html"
           },
           {
-            "name": "By Purpose",
+            "name": "Berdasarkan Tujuan",
             "path": "/id_id/products/software/simulation-tools/gemini/howto_2_2.html",
             "thirdLayer": [
               {
-                "name": "How to use Human, Mobile Robot",
+                "name": "Cara Menggunakan Robot Seluler Manusia",
                 "path": "/id_id/products/software/simulation-tools/gemini/howto_2_2.html"
               }					
             ] 
