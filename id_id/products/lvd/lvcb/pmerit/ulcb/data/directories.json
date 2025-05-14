@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "UL 489 Listed Circuit Breakers",
+					"name": "Pemutus Sirkuit yang Terdaftar di UL 489",
 					"path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "UL 489 Listed Circuit Breakers",
+    "name": "Pemutus Sirkuit yang Terdaftar di UL 489",
     "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
     "firstLayer": [
       {
@@ -52,24 +52,24 @@
         "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_5.html"
 	  },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index_6.html"
 	  }
     ]
   },
 "switchNav": {
-	"name": "UL 489 Listed Circuit Breakers",
+	"name": "Pemutus Sirkuit yang Terdaftar di UL 489",
 	"path": "/id_id/products/lvd/lvcb/items/ulcb/index.html",
 	"child": [
 		{
 			"group": "UL 489 Listed Circuit Breakers",
-			"name": "UL 489 Listed Circuit Breakers",
+			"name": "Pemutus Sirkuit yang Terdaftar di UL 489",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ULCB",
 			"discon": "",
             "return": {
-                "name": "UL 489 Listed Circuit Breakers",
+                "name": "Pemutus Sirkuit yang Terdaftar di UL 489",
                 "path": "/id_id/products/lvd/lvcb/items/ulcb/index.html"
 			}
 		}

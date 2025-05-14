@@ -170,15 +170,15 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html"
           },
           {
-            "name": "Contactors and Motor Starters",
+            "name": "Kontaktor dan Starter Motor",
             "path": "/id_id/products/lvd/lvsw/index.html"
           },
           {
-            "name": "Power Management Meters",
+            "name": "Pengukur Manajemen Daya",
             "path": "/id_id/products/pmng/pmd/index.html"
           }
         ]

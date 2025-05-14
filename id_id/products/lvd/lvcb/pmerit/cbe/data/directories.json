@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Circuit Breakers for Equipment",
+					"name": "Pemutus Sirkuit untuk Peralatan",
 					"path": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Circuit Breakers for Equipment",
+    "name": "Pemutus Sirkuit untuk Peralatan",
     "path": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html",
     "firstLayer": [
       {
@@ -34,7 +34,7 @@
           "path": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html"
         },
         {
-          "name": "Product Lineup",
+          "name": "Rangkaian Produk",
           "path": "/id_id/products/lvd/lvcb/pmerit/cbe/index_2.html"
         }
         ]
@@ -52,18 +52,18 @@
     ]
   },
 "switchNav": {
-	"name": "Circuit Breakers for Equipment",
+	"name": "Pemutus Sirkuit untuk Peralatan",
 	"path": "/id_id/products/lvd/lvcb/items/cbe/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers for Equipment",
-			"name": "Circuit Breakers for Equipment",
+			"name": "Pemutus Sirkuit untuk Peralatan",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=CBE",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=CBE",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Equipment",
+                "name": "Pemutus Sirkuit untuk Peralatan",
                 "path": "/id_id/products/lvd/lvcb/items/cbe/index.html"
 			}
 		}

@@ -57,7 +57,7 @@
 				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb"
 			},
 			{
-				"name": "Products certified/compliant to various standards",
+				"name": "Produk bersertifikat/mematuhi berbagai standar",
 				"icon": "standard",
 				"link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb"
 			},
@@ -72,7 +72,7 @@
 		"comment": "機種固有メニューに掲載したいページタイトルとリンクを記入",
 		"items": [
 			{
-				"name": "Approved Certification",
+				"name": "Sertifikasi yang Disetujui",
 				"link": "/id_id/products/lvd/lvcb/pmerit/certification.html"
 			}
 		]

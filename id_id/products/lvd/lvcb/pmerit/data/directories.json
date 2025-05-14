@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html"
           }
         ]
@@ -16,12 +16,12 @@
     ]
   },
 "switchNav": {
-	"name": "Low-voltage Circuit Breakers",
+	"name": "Pemutus Sirkuit Tegangan Rendah",
 	"path": "/id_id/products/lvd/lvcb/index.html",
 	"child": [
 		{
 			"group": "Approved Certification",
-			"name": "Approved Certification",
+			"name": "Sertifikasi yang Disetujui",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/certification.html",
 			"spec": "",
 			"standard": "",

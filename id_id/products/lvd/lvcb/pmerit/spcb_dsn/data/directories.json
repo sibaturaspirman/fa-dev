@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
 			"child": [
 				{
-					"name": "Circuit Breakers for Use in Particular Applications",
+					"name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
 					"path": "/id_id/products/lvd/lvcb/items/spcb/index.html",
 					"child": [
 					{
@@ -50,7 +50,7 @@
     ]
   },
 "switchNav": {
-	"name": "Circuit Breakers for Use in Particular Applications",
+	"name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
 	"path": "/id_id/products/lvd/lvcb/items/spcb/index.html",
 	"child": [
 		{
@@ -61,7 +61,7 @@
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DSN",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Use in Particular Applications",
+                "name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
                 "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 			}
 		}

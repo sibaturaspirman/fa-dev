@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Molded Case Circuit Breakers",
+					"name": "Pemutus Sirkuit Kotak Cetakan",
 					"path": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Molded Case Circuit Breakers",
+    "name": "Pemutus Sirkuit Kotak Cetakan",
     "path": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
     "firstLayer": [
       {
@@ -32,18 +32,18 @@
     ]
   },
 "switchNav": {
-	"name": "Molded Case Circuit Breakers",
+	"name": "Pemutus Sirkuit Kotak Cetakan",
 	"path": "/id_id/products/lvd/lvcb/items/mccb/index.html",
 	"child": [
 		{
 			"group": "Molded Case Circuit Breakers",
-			"name": "Molded Case Circuit Breakers",
+			"name": "Pemutus Sirkuit Kotak Cetakan",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCCB",
 			"discon": "",
             "return": {
-                "name": "Molded Case Circuit Breakers",
+                "name": "Pemutus Sirkuit Kotak Cetakan",
                 "path": "/id_id/products/lvd/lvcb/items/mccb/index.html"
 			}
 		}

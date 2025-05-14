@@ -8,15 +8,15 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Power Management Meters",
+            "name": "Pengukur Manajemen Daya",
             "path": "/id_id/products/pmng/pmd/index.html",
 			"child": [
 				{
-					"name": "Electrical Indicators",
+					"name": "Indikator Listrik",
 					"path": "/id_id/products/pmng/pmd/pmerit/eim/index.html",
 					"child": [
 					{
-						"name": "Electronic Multi Measuring Instruments (ME96 Series)",
+						"name": "Alat Ukur Elektronik Multiguna (Seri ME96)",
 						"path": "/id_id/products/pmng/pmd/pmerit/eim/index.html"
 					}
 				]
@@ -28,7 +28,7 @@
     ]
   },
 "layerNav": {
-    "name": "Electronic Multi Measuring Instruments (ME96 Series)",
+    "name": "Alat Ukur Elektronik Multiguna (Seri ME96)",
     "path": "/id_id/products/pmng/pmd/pmerit/eim/index.html",
     "firstLayer": [
       {
@@ -36,7 +36,7 @@
         "path": "/id_id/products/pmng/pmd/pmerit/eim/index.html"
       },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/pmng/pmd/pmerit/eim/index_2.html"
       },
       {
@@ -50,18 +50,18 @@
     ]
   },
  "switchNav": {
-    "name": "Power Management Meters",
+    "name": "Pengukur Manajemen Daya",
     "path": "/id_id/products/pmng/pmd/index.html",
     "child": [
       {
         "group": "Electrical Indicators",
-        "name": "Electronic Multi Measuring Instruments (ME96 Series)",
+        "name": "Alat Ukur Elektronik Multiguna (Seri ME96)",
         "feature": "/id_id/products/pmng/pmd/pmerit/eim/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
 		"return": {
-			"name": "Electrical Indicators",
+			"name": "Indikator Listrik",
 			"path": "/id_id/products/pmng/pmd/items/eim/index.html"
 		}
       }
