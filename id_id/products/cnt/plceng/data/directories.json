@@ -40,7 +40,7 @@
                         "path": "/id_id/products/cnt/plcnet/items/index.html"
                     },
                     {
-                        "name": "Engineering software",
+                        "name": "Perangkat lunak rekayasa",
                         "path": "/id_id/products/cnt/plceng/items/index.html"
                     }
                 ]
@@ -48,7 +48,7 @@
         ]
     },
     "switchNav": {
-        "name": "Engineering software",
+        "name": "Perangkat lunak rekayasa",
         "path": "/id_id/products/cnt/plceng/items/index.html",
         "child": [
             {
