@@ -4,7 +4,7 @@
         "path": "/id_id/products/software/ems/eap/index.html",
         "firstLayer": [
             {
-                "name": "Feature",
+                "name": "Fitur",
                 "path": "/id_id/products/software/ems/eap/index.html"
             },
             {
@@ -12,11 +12,11 @@
                 "path": "/id_id/products/software/ems/eap/index_2.html"
             },
             {
-                "name": "Utilization Support Services",
+                "name": "Layanan Dukungan Pemanfaatan",
                 "path": "/id_id/products/software/ems/eap/index_3.html"
             },
             {
-                "name": "File converter",
+                "name": "Konverter berkas",
                 "path": "/id_id/products/software/ems/eap/index_6.html"
             },
             {
@@ -24,7 +24,7 @@
                 "path": "/id_id/products/software/ems/eap/index_4.html"
             },
             {
-                "name": "Related Videos",
+                "name": "Video Terkait",
                 "path": "/id_id/products/software/ems/eap/index_5.html"
             }
         ]
