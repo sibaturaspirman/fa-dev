@@ -4,15 +4,15 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Circuit Breakers with Spring Clamp Terminals",
+					"name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
 					"path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Circuit Breakers with Spring Clamp Terminals",
+    "name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
     "path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html",
     "firstLayer": [
       {
@@ -30,28 +30,28 @@
         "path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html"
       },
       {
-        "name": "Accessories",
+        "name": "Aksesoris",
         "path": "/id_id/products/lvd/lvcb/pmerit/sq/index_2.html"
       },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/lvd/lvcb/pmerit/sq/index_3.html"
       }
     ]
   },
 "switchNav": {
-	"name": "Circuit Breakers with Spring Clamp Terminals",
+	"name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
 	"path": "/id_id/products/lvd/lvcb/items/sq/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers with Spring Clamp Terminals",
-			"name": "Circuit Breakers with Spring Clamp Terminals",
+			"name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/sq/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SQ",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SQ",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers with Spring Clamp Terminals",
+                "name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
                 "path": "/id_id/products/lvd/lvcb/items/sq/index.html"
 			}
 		}

@@ -4,131 +4,131 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Circuit Breakers with Spring Clamp Terminals",
+					"name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
 					"path": "/id_id/products/lvd/lvcb/items/sq/index.html"
 				},
 				{
-					"name": "Air Circuit Breakers",
+					"name": "Pemutus Sirkuit Udara",
 					"path": "/id_id/products/lvd/lvcb/items/acb/index.html"
 				},
 				{
-					"name": "Molded Case Circuit Breakers",
+					"name": "Pemutus Sirkuit Kotak Cetakan",
 					"path": "/id_id/products/lvd/lvcb/items/mccb/index.html"
 				},
 				{
-					"name": "Earth Leakage Circuit Breakers",
+					"name": "Pemutus Sirkuit Kebocoran Bumi",
 					"path": "/id_id/products/lvd/lvcb/items/elcb/index.html"
 				},
 				{
-					"name": "Miniature Circuit Breakers",
+					"name": "Pemutus Sirkuit Miniatur",
 					"path": "/id_id/products/lvd/lvcb/items/mcb/index.html"
 				},
 				{
-					"name": "Circuit Breakers for Equipment",
+					"name": "Pemutus Sirkuit untuk Peralatan",
 					"path": "/id_id/products/lvd/lvcb/items/cbe/index.html"
 				},
 				{
-					"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+					"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
 					"path": "/id_id/products/lvd/lvcb/items/dcmccb/index.html"
 				},
 				{
-					"name": "UL 489 Listed Circuit Breakers",
+					"name": "Pemutus Sirkuit yang Terdaftar di UL 489",
 					"path": "/id_id/products/lvd/lvcb/items/ulcb/index.html"
 				},
 				{
-					"name": "Molded Case Circuit Breakers with MDU",
+					"name": "Pemutus Sirkuit Kotak Cetakan dengan MDU",
 					"path": "/id_id/products/lvd/lvcb/items/mdu/index.html"
 				},
 				{
-					"name": "Circuit Breakers for Use in Particular Applications",
+					"name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
 					"path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 				},
 				{
-					"name": "Circuit Breakers for Distribution Panel and Control Panel",
+					"name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
 					"path": "/id_id/products/lvd/lvcb/items/pbcb/index.html"
 				},
 				{
-					"name": "Earth Leakage Relays",
+					"name": "Relai Kebocoran Bumi",
 					"path": "/id_id/products/lvd/lvcb/items/elr/index.html"
 				},
 				{
-					"name": "Accessories and Related Components",
+					"name": "Aksesori dan Komponen Terkait",
 					"path": "/id_id/products/lvd/lvcb/items/acc/index.html"
 				}
             ]
           },
            {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Circuit Breakers with Spring Clamp Terminals",
+					"name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
 					"path": "/id_id/products/lvd/lvcb/pmerit/sq/index.html"
 				},
 				{
-					"name": "Air Circuit Breakers",
+					"name": "Pemutus Sirkuit Udara",
 					"path": "/id_id/products/lvd/lvcb/pmerit/acb/index.html"
 				},
 				{
-					"name": "Molded Case Circuit Breakers",
+					"name": "Pemutus Sirkuit Kotak Cetakan",
 					"path": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html"
 				},
 				{
-					"name": "Earth Leakage Circuit Breakers",
+					"name": "Pemutus Sirkuit Kebocoran Bumi",
 					"path": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html"
 				},
 				{
-					"name": "Miniature Circuit Breakers",
+					"name": "Pemutus Sirkuit Miniatur",
 					"path": "/id_id/products/lvd/lvcb/pmerit/mcb/index.html"
 				},
 				{
-					"name": "Circuit Breakers for Equipment",
+					"name": "Pemutus Sirkuit untuk Peralatan",
 					"path": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html"
 				},
 				{
-					"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+					"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
 					"path": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html"
 				},
 				{
-					"name": "UL 489 Listed Circuit Breakers",
+					"name": "Pemutus Sirkuit yang Terdaftar di UL 489",
 					"path": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html"
 				},
 				{
-					"name": "Molded Case Circuit Breakers with MDU",
+					"name": "Pemutus Sirkuit Kotak Cetakan dengan MDU",
 					"path": "/id_id/products/lvd/lvcb/pmerit/mdu/index.html"
 				},
 				{
-					"name": "Circuit Breakers for Use in Particular Applications",
+					"name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
 					"path": "/id_id/products/lvd/lvcb/pmerit/spcb/index.html"
 				},
 				{
-					"name": "Circuit Breakers for Distribution Panel and Control Panel",
+					"name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
 					"path": "/id_id/products/lvd/lvcb/pmerit/pbcb/index.html"
 				},
 				{
-					"name": "Earth Leakage Relays",
+					"name": "Relai Kebocoran Bumi",
 					"path": "/id_id/products/lvd/lvcb/pmerit/elr/index.html"
 				},
 				{
-					"name": "Accessories and Related Components",
+					"name": "Aksesori dan Komponen Terkait",
 					"path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html"
 				}
             ]
           },
          {
-            "name": "Contactors and Motor Starters",
-            "path": "/id_id/products/lvd/lvsw/index.html"
+            "name": "Kontaktor dan Starter Motor",
+            "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
           },
           {
-            "name": "Power Management Meters",
+            "name": "Pengukur Manajemen Daya",
             "path": "/id_id/products/pmng/pmd/index.html"
           }
         ]
@@ -136,12 +136,12 @@
     ]
   },
 "switchNav": {
-	"name": "Low-voltage Circuit Breakers",
+	"name": "Pemutus Sirkuit Tegangan Rendah",
 	"path": "/id_id/products/lvd/lvcb/index.html",
 	"child": [
 		{
 			"group": "Approved Certification",
-			"name": "Approved Certification",
+			"name": "Sertifikasi yang Disetujui",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/certification.html",
 			"spec": "",
 			"standard": "",
@@ -149,157 +149,157 @@
 		},
 		{
 			"group": "Circuit Breakers with Spring Clamp Terminals",
-			"name": "Circuit Breakers with Spring Clamp Terminals",
+			"name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/sq/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SQ",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SQ",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers with Spring Clamp Terminals",
+                "name": "Pemutus Sirkuit dengan Terminal Penjepit Pegas",
                 "path": "/id_id/products/lvd/lvcb/items/sq/index.html"
 			}
 		},
 		{
 			"group": "Air Circuit Breakers",
-			"name": "Air Circuit Breakers",
+			"name": "Pemutus Sirkuit Udara",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/acb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ACB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ACB",
 			"discon": "",
             "return": {
-                "name": "Air Circuit Breakers",
+                "name": "Pemutus Sirkuit Udara",
                 "path": "/id_id/products/lvd/lvcb/items/acb/index.html"
 			}
 		},
 		{
 			"group": "Molded Case Circuit Breakers",
-			"name": "Molded Case Circuit Breakers",
+			"name": "Pemutus Sirkuit Kotak Cetakan",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/mccb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCCB",
 			"discon": "",
             "return": {
-                "name": "Molded Case Circuit Breakers",
+                "name": "Pemutus Sirkuit Kotak Cetakan",
                 "path": "/id_id/products/lvd/lvcb/items/mccb/index.html"
 			}
 		},
 		{
 			"group": "Earth Leakage Circuit Breakers",
-			"name": "Earth Leakage Circuit Breakers",
+			"name": "Pemutus Sirkuit Kebocoran Bumi",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELCB",
 			"discon": "",
             "return": {
-                "name": "Earth Leakage Circuit Breakers",
+                "name": "Pemutus Sirkuit Kebocoran Bumi",
                 "path": "/id_id/products/lvd/lvcb/items/elcb/index.html"
 			}
 		},
 		{
 			"group": "Miniature Circuit Breakers",
-			"name": "Miniature Circuit Breakers",
+			"name": "Pemutus Sirkuit Miniatur",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/mcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MCB",
 			"discon": "",
             "return": {
-                "name": "Miniature Circuit Breakers",
+                "name": "Pemutus Sirkuit Miniatur",
                 "path": "/id_id/products/lvd/lvcb/items/mcb/index.html"
 			}
 		},
 		{
 			"group": "Circuit Breakers for Equipment",
-			"name": "Circuit Breakers for Equipment",
+			"name": "Pemutus Sirkuit untuk Peralatan",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=CBE",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=CBE",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Equipment",
+                "name": "Pemutus Sirkuit untuk Peralatan",
                 "path": "/id_id/products/lvd/lvcb/items/cbe/index.html"
 			}
 		},
 		{
 			"group": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
-			"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+			"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=DCMCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=DCMCCB",
 			"discon": "",
             "return": {
-                "name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+                "name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
                 "path": "/id_id/products/lvd/lvcb/items/dcmccb/index.html"
 			}
 		},
 		{
 			"group": "UL 489 Listed Circuit Breakers",
-			"name": "UL 489 Listed Circuit Breakers",
+			"name": "Pemutus Sirkuit yang Terdaftar di UL 489",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/ulcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ULCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ULCB",
 			"discon": "",
             "return": {
-                "name": "UL 489 Listed Circuit Breakers",
+                "name": "Pemutus Sirkuit yang Terdaftar di UL 489",
                 "path": "/id_id/products/lvd/lvcb/items/ulcb/index.html"
 			}
 		},
 		{
 			"group": "Molded Case Circuit Breakers with MDU",
-			"name": "Molded Case Circuit Breakers with MDU",
+			"name": "Pemutus Sirkuit Kotak Cetakan dengan MDU",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/mdu/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=MDU",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=MDU",
 			"discon": "",
             "return": {
-                "name": "Molded Case Circuit Breakers with MDU",
+                "name": "Pemutus Sirkuit Kotak Cetakan dengan MDU",
                 "path": "/id_id/products/lvd/lvcb/items/mdu/index.html"
 			}
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "For DC Special Voltages",
+			"name": "Untuk Tegangan Khusus DC",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Use in Particular Applications",
+                "name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
                 "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 			}
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "Mag-Only Circuit Breaker",
+			"name": "Pemutus Sirkuit Hanya Mag",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_MAG",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Use in Particular Applications",
+                "name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
                 "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 			}
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "DSN Switches",
+			"name": "Sakelar DSN",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DSN",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Use in Particular Applications",
+                "name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
                 "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 			}
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "Corrosion Resistant Enhanced Type for Special Environments",
+			"name": "Jenis Peningkatan Tahan Korosi untuk Lingkungan Khusus",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_sp/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_SP",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_SP",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Use in Particular Applications",
+                "name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
                 "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 			}
 		},
@@ -311,7 +311,7 @@
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Distribution Panel and Control Panel",
+                "name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
                 "path": "/id_id/products/lvd/lvcb/items/pbcb/index.html"
 			}
 		},
@@ -323,31 +323,31 @@
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB_KC",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Distribution Panel and Control Panel",
+                "name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
                 "path": "/id_id/products/lvd/lvcb/items/pbcb/index.html"
 			}
 		},
 		{
 			"group": "Earth Leakage Relays",
-			"name": "Earth Leakage Relays",
+			"name": "Relai Kebocoran Bumi",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/elr/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELR",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELR",
 			"discon": "",
             "return": {
-                "name": "Earth Leakage Relays",
+                "name": "Relai Kebocoran Bumi",
                 "path": "/id_id/products/lvd/lvcb/items/elr/index.html"
 			}
 		},
 		{
 			"group": "Accessories and Related Components",
-			"name": "Accessories and Related Components",
+			"name": "Aksesori dan Komponen Terkait",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/acc/index.html",
 			"spec": "",
 			"standard": "",
 			"discon": "",
             "return": {
-                "name": "Accessories and Related Components",
+                "name": "Aksesori dan Komponen Terkait",
                 "path": "/id_id/products/lvd/lvcb/items/acc/index.html"
 			}
 		}

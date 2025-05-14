@@ -1,14 +1,14 @@
 {
   "layerNav": {
-    "name": "Intelligent Options",
+    "name": "Pilihan Cerdas",
     "path": "/id_id/products/rbt/robot/items/option/index.html",
     "firstLayer": [
       {
-        "name": "High-performance teaching box",
+        "name": "Kotak pengajaran berkinerja tinggi",
         "path": "/id_id/products/rbt/robot/pmerit/option/index.html"
       },
       {
-        "name": "Force sensor set",
+        "name": "Set sensor gaya",
         "path": "/id_id/products/rbt/robot/pmerit/option/forcesensor.html"
       },
       {
@@ -16,15 +16,15 @@
         "path": "/id_id/products/rbt/robot/pmerit/option/vision_3d.html"
       },
       {
-        "name": "FR series Robot safety solutions",
+        "name": "Solusi keselamatan robot seri FR",
         "path": "/id_id/products/rbt/robot/pmerit/option/safety_fr.html"
       },
       {
-        "name": "Multifunctional Electric Gripper",
+        "name": "Gripper Listrik Multifungsi",
         "path": "/id_id/products/rbt/robot/pmerit/option/handtool.html"
       },
       {
-        "name": "Wiring solution",
+        "name": "Solusi pengkabelan",
         "path": "/id_id/products/rbt/robot/pmerit/option/wiring.html"
       }
       ]

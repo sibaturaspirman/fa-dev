@@ -4,27 +4,27 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Laser Processing Machines",
+            "name": "Mesin Pemroses Laser",
             "path": "/id_id/products/mecha/laser/index.html",
             "child": [
               {
-                "name": "2D Laser Processing Machines",
+                "name": "Mesin Pemroses Laser 2D",
                 "path": "/id_id/products/mecha/laser/items/2d/index.html"
               },
               {
-                "name": "3D Laser Processing Machines",
+                "name": "Mesin Pemroses Laser 3D",
                 "path": "/id_id/products/mecha/laser/items/3d/index.html"
               },
               {
-                "name": "Laser Drilling Machines",
+                "name": "Mesin Pengeboran Laser",
                 "path": "/id_id/products/mecha/laser/items/drilling/index.html"
               },
               {
-                "name": "Automation for Laser",
+                "name": "Otomasi untuk Laser",
                 "path": "/id_id/products/mecha/laser/items/cuttingl/index.html"
               },
               {

@@ -4,11 +4,11 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Electron Beam Machines",
+            "name": "Mesin Berkas Elektron",
             "path": "/id_id/products/mecha/ebm/index.html"
           }
         ]

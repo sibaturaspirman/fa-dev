@@ -133,10 +133,10 @@
           },
           {
             "name": "Inverters-FREQROL",
-            "path": "/id_id/products/drv/inv/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/drv/inv/index.html"
           },
           {
-            "name": "Geared Motors",
+            "name": "Gear Motor",
             "path": "/id_id/products/drv/gear/index.html"
           }
         ]
@@ -156,11 +156,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Industrial Robots-MELFA",
+            "name": "Robot Industri-MELFA",
             "path": "/id_id/products/rbt/robot/index.html"
           },
           {
-            "name": "Collaborative Robot-ASSISTA",
+            "name": "Robot Kolaboratif-ASSISTA",
             "path": "/id_id/products/rbt/assista/index.html"
           }
         ]
@@ -170,15 +170,15 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html"
           },
           {
-            "name": "Contactors and Motor Starters",
-            "path": "/id_id/products/lvd/lvsw/index.html"
+            "name": "Kontaktor dan Starter Motor",
+            "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
           },
           {
-            "name": "Power Management Meters",
+            "name": "Pengukur Manajemen Daya",
             "path": "/id_id/products/pmng/pmd/index.html"
           }
         ]
@@ -198,7 +198,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Energy Saving Supporting Devices",
+            "name": "Perangkat Pendukung Penghematan Energi",
             "path": "/id_id/products/pmng/ems/index.html"
           }
         ]
@@ -208,7 +208,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Laser Processing Machines",
+            "name": "Mesin Pemroses Laser",
             "path": "/id_id/products/mecha/laser/index.html"
           }
         ]
@@ -218,7 +218,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Electrical Discharge Machines",
+            "name": "Mesin Pelepasan Listrik",
             "path": "/id_id/products/mecha/edm/index.html"
           }
         ]
@@ -228,7 +228,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Electron Beam Machines",
+            "name": "Mesin Berkas Elektron",
             "path": "/id_id/products/mecha/ebm/index.html"
           }
         ]

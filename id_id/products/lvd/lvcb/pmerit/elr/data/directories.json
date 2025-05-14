@@ -4,15 +4,15 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Earth Leakage Relays",
+					"name": "Relai Kebocoran Bumi",
 					"path": "/id_id/products/lvd/lvcb/pmerit/elr/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Earth Leakage Relays",
+    "name": "Relai Kebocoran Bumi",
     "path": "/id_id/products/lvd/lvcb/pmerit/elr/index.html",
     "firstLayer": [
       {
@@ -30,28 +30,28 @@
         "path": "/id_id/products/lvd/lvcb/pmerit/elr/index.html"
       },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/lvd/lvcb/pmerit/elr/index_2.html"
       },
       {
-        "name": "Examples of Use",
+        "name": "Contoh Penggunaan",
         "path": "/id_id/products/lvd/lvcb/pmerit/elr/index_3.html"
       }
     ]
   },
 "switchNav": {
-	"name": "Earth Leakage Relays",
+	"name": "Relai Kebocoran Bumi",
 	"path": "/id_id/products/lvd/lvcb/items/elr/index.html",
 	"child": [
 		{
 			"group": "Earth Leakage Relays",
-			"name": "Earth Leakage Relays",
+			"name": "Relai Kebocoran Bumi",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/elr/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELR",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELR",
 			"discon": "",
             "return": {
-                "name": "Earth Leakage Relays",
+                "name": "Relai Kebocoran Bumi",
                 "path": "/id_id/products/lvd/lvcb/items/elr/index.html"
 			}
 		}

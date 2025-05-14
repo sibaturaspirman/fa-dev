@@ -4,19 +4,19 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Electrical Discharge Machines",
+            "name": "Mesin Pelepasan Listrik",
             "path": "/id_id/products/mecha/edm/index.html",
             "child": [
               {
-                "name": "Wire-cut Electrical Discharge Machines",
+                "name": "Mesin Pelepasan Listrik Pemotong Kawat",
                 "path": "/id_id/products/mecha/edm/items/wire/index.html"
               },
               {
-                "name": "Die-sinking Electrical Discharge Machines",
+                "name": "Mesin Pelepasan Listrik Die-sinking",
                 "path": "/id_id/products/mecha/edm/items/die_sinking/index.html"
               },
               {
@@ -30,12 +30,12 @@
     ]
   },
   "switchNav": {
-    "name": "Electrical Discharge Machines",
+    "name": "Mesin Pelepasan Listrik",
     "path": "/id_id/products/mecha/edm/index.html",
     "child": [
       {
         "group": "edm_spec_only",
-        "name": "Product Features",
+        "name": "Fitur Produk",
         "feature": "/id_id/products/mecha/edm/pmerit/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm",
         "standard": "",
@@ -43,7 +43,7 @@
       },
       {
         "group": "edm_pmerit",
-        "name": "Wire-cut Electrical Discharge Machines",
+        "name": "Mesin Pelepasan Listrik Pemotong Kawat",
         "feature": "",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Wire-cut Electrical Discharge Machines&search=B&word=Wire-cut Electrical Discharge Machines",
         "standard": "",
@@ -51,7 +51,7 @@
       },
       {
         "group": "edm_pmerit",
-        "name": "Die-sinking Electrical Discharge Machines",
+        "name": "Mesin Pelepasan Listrik Die-sinking",
         "feature": "",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/edm&radio=Die-sinker Electrical Discharge Machines&search=B&word=Die-sinker Electrical Discharge Machines",
         "standard": "",

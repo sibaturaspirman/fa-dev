@@ -20,7 +20,7 @@
                 "path": "/id_id/products/software/ems/eap/index_6.html"
             },
             {
-                "name": "Case Studies",
+                "name": "Studi Kasus",
                 "path": "/id_id/products/software/ems/eap/index_4.html"
             },
             {
@@ -34,7 +34,7 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {

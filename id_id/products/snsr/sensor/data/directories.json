@@ -4,7 +4,7 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
@@ -31,7 +31,7 @@
     "child": [
       {
         "group": "MELSENSOR",
-        "name": "Features top",
+        "name": "Fitur top",
         "feature": "/id_id/products/snsr/sensor/pmerit/",
         "spec": "",
         "standard": "",

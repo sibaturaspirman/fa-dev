@@ -4,7 +4,7 @@
       "path": "/id_id/products/drv/servo/pmerit/mr_jet/motor/feature.html",
       "firstLayer": [
         {
-            "name": "Product Lines",
+            "name": "Lini Produk",
             "path": "/id_id/products/drv/servo/pmerit/mr_jet/amp/feature.html"
         },
         {
@@ -12,7 +12,7 @@
             "path": "/id_id/products/drv/servo/pmerit/mr_jet/amp/feature2.html"
         },
         {
-            "name": "Model Designation",
+            "name": "Penunjukan Model",
             "path": "/id_id/products/drv/servo/pmerit/mr_jet/amp/ampmodel.html"
         }
       ]

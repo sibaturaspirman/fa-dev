@@ -4,31 +4,31 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
 			"child": [
 				{
-					"name": "Circuit Breakers for Use in Particular Applications",
+					"name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
 					"path": "/id_id/products/lvd/lvcb/items/spcb/index.html",
 					"child": [
 					{
-						"name": "For DC Special Voltages",
+						"name": "Untuk Tegangan Khusus DC",
 						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html"
 					},
 					{
-						"name": "Mag-Only Circuit Breaker",
+						"name": "Pemutus Sirkuit Hanya Mag",
 						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html"
 					},
 					{
-						"name": "DSN Switches",
+						"name": "Sakelar DSN",
 						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html"
 					},
 					{
-						"name": "Corrosion Resistant Enhanced Type for Special Environments",
+						"name": "Jenis Peningkatan Tahan Korosi untuk Lingkungan Khusus",
 						"path": "/id_id/products/lvd/lvcb/pmerit/spcb_sp/index.html"
 					}
 				]
@@ -40,7 +40,7 @@
     ]
   },
   "layerNav": {
-    "name": "Mag-Only Circuit Breaker",
+    "name": "Pemutus Sirkuit Hanya Mag",
     "path": "/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html",
     "firstLayer": [
       {
@@ -50,18 +50,18 @@
     ]
   },
 "switchNav": {
-	"name": "Circuit Breakers for Use in Particular Applications",
+	"name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
 	"path": "/id_id/products/lvd/lvcb/items/spcb/index.html",
 	"child": [
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "Mag-Only Circuit Breaker",
+			"name": "Pemutus Sirkuit Hanya Mag",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_MAG",
 			"discon": "",
             "return": {
-                "name": "Circuit Breakers for Use in Particular Applications",
+                "name": "Pemutus Sirkuit untuk Penggunaan dalam Aplikasi Tertentu",
                 "path": "/id_id/products/lvd/lvcb/items/spcb/index.html"
 			}
 		}

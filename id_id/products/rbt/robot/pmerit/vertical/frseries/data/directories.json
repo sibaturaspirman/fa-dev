@@ -1,10 +1,10 @@
 {
   "layerNav": {
-    "name": "Industrial Robot MELFA",
+    "name": "Robot industri MELFA",
     "path": "/id_id/products/rbt/robot/items/vertical/index.html",
     "firstLayer": [
       {
-        "name": "RV-FR series",
+        "name": "Seri RV-FR",
         "path": "/id_id/products/rbt/robot/pmerit/frseries/index.html",
         "secondLayer": [
            {
@@ -16,7 +16,7 @@
             "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/features.html"
           },
            {
-            "name": "Robot arm options",
+            "name": "Opsi lengan robot",
             "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/option.html"
           },
           {
@@ -24,13 +24,13 @@
             "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/config.html"
           },
           {
-            "name": "Catalog and Specifications",
+            "name": "Katalog dan Spesifikasi",
             "path": "/id_id/products/rbt/robot/pmerit/vertical/frseries/spec.html"
           }
         ]
       },
       {
-        "name": "RV-CR series",
+        "name": "Seri RV-CR",
         "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/index.html",
          "secondLayer": [
             {
@@ -42,7 +42,7 @@
             "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/features.html"
           },
            {
-            "name": "Robot arm options",
+            "name": "Opsi lengan robot",
             "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/option.html"
           },
           {
@@ -50,7 +50,7 @@
             "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/config.html"
           },
           {
-            "name": "Catalog and Specifications",
+            "name": "Katalog dan Spesifikasi",
             "path": "/id_id/products/rbt/robot/pmerit/vertical/crseries/spec.html"
           }
         ]

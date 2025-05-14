@@ -4,15 +4,15 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Earth Leakage Circuit Breakers",
+					"name": "Pemutus Sirkuit Kebocoran Bumi",
 					"path": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Earth Leakage Circuit Breakers",
+    "name": "Pemutus Sirkuit Kebocoran Bumi",
     "path": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
     "firstLayer": [
       {
@@ -30,28 +30,28 @@
         "path": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html"
       },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/lvd/lvcb/pmerit/elcb/index_2.html"
       },
       {
-        "name": "Internal Attachments",
+        "name": "Lampiran Internal",
         "path": "/id_id/products/lvd/lvcb/pmerit/elcb/index_3.html"
       }
     ]
   },
 "switchNav": {
-	"name": "Earth Leakage Circuit Breakers",
+	"name": "Pemutus Sirkuit Kebocoran Bumi",
 	"path": "/id_id/products/lvd/lvcb/items/elcb/index.html",
 	"child": [
 		{
 			"group": "Earth Leakage Circuit Breakers",
-			"name": "Earth Leakage Circuit Breakers",
+			"name": "Pemutus Sirkuit Kebocoran Bumi",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELCB",
 			"discon": "",
             "return": {
-                "name": "Earth Leakage Circuit Breakers",
+                "name": "Pemutus Sirkuit Kebocoran Bumi",
                 "path": "/id_id/products/lvd/lvcb/items/elcb/index.html"
 			}
 		}

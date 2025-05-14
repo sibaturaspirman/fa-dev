@@ -4,11 +4,11 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Collaborative Robot ASSISTA",
+            "name": "Robot Kolaboratif ASSISTA",
             "path": "/id_id/products/rbt/assista/index.html",
             "child": [
               {
@@ -16,7 +16,7 @@
                 "path": "/id_id/products/rbt/assista/items/assista/index.html"
               },
               {
-                "name": "Intelligent Options",
+                "name": "Pilihan Cerdas",
                 "path": "/id_id/products/rbt/assista/items/option/index.html"
               }
             ]
@@ -31,25 +31,25 @@
     "child": [
       {
         "group": "Collaborative Robot",
-        "name": "Collaborative Robot MELFA ASSISTA",
+        "name": "Robot Kolaboratif MELFA ASSISTA",
         "feature": "/id_id/products/rbt/assista/pmerit/assista/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "/id_id/products/rbt/robot/ex/renew/close/index.html",
           "return": {
-          "name": "Collaborative Robot MELFA ASSISTA",
+          "name": "Robot Kolaboratif MELFA ASSISTA",
           "path": "/id_id/products/rbt/assista/items/assista/index.html"
         }
       },
       {
         "group": "Collaborative Robot",
-         "name": "Intelligent Options",
+         "name": "Pilihan Cerdas",
         "feature": "/id_id/products/rbt/assista/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
           "return": {
-          "name": "Intelligent Options",
+          "name": "Pilihan Cerdas",
           "path": "/id_id/products/rbt/assista/items/option/index.html"
   	    }
       },

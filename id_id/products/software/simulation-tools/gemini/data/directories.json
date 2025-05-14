@@ -4,7 +4,7 @@
 		"path": "/id_id/index.html",
 		"child": [
 		  {
-			"name": "Products",
+			"name": "Katalog Produk",
 			"path": "/id_id/products/index.html",
 			"child": [
 			  {
@@ -52,7 +52,7 @@
     "path": "/id_id/products/software/simulation-tools/gemini/index.html",
     "firstLayer": [
       {
-        "name": "Overview",
+        "name": "Ringkasan",
         "path": "/id_id/products/software/simulation-tools/gemini/index.html"
 	  },
       {

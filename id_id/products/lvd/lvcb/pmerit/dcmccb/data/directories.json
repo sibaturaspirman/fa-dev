@@ -4,15 +4,15 @@
     "path": "/id_id/index.html",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Low-voltage Circuit Breakers",
+            "name": "Pemutus Sirkuit Tegangan Rendah",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+					"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
 					"path": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html"
 				}
             ]
@@ -22,32 +22,32 @@
     ]
   },
   "layerNav": {
-    "name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+    "name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
     "path": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html",
     "firstLayer": [
       {
-        "name": "System Configuration",
+        "name": "Konfigurasi Sistem",
         "path": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html"
      },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index_2.html"
       }
     ]
   },
 "switchNav": {
-	"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+	"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
 	"path": "/id_id/products/lvd/lvcb/items/dcmccb/index.html",
 	"child": [
 		{
 			"group": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
-			"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+			"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=DCMCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=DCMCCB",
 			"discon": "",
             "return": {
-                "name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+                "name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
                 "path": "/id_id/products/lvd/lvcb/items/dcmccb/index.html"
 			}
 		}

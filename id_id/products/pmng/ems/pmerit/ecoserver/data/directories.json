@@ -4,15 +4,15 @@
     "path": "/id_id/",
     "child": [
       {
-        "name": "Products",
+        "name": "Katalog Produk",
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Energy Saving Supporting Devices",
+            "name": "Perangkat Pendukung Penghematan Energi",
             "path": "/id_id/products/pmng/ems/index.html",
 			"child": [
 				{
-					"name": "Energy Saving Data Collecting Servers",
+					"name": "Server Pengumpulan Data Hemat Energi",
 					"path": "/id_id/products/pmng/ems/pmerit/ecoserver/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
 "layerNav": {
-    "name": "Energy Saving Data Collecting Servers",
+    "name": "Server Pengumpulan Data Hemat Energi",
     "path": "/id_id/products/pmng/ems/pmerit/ecoserver/index.html",
     "firstLayer": [
       {
@@ -30,32 +30,32 @@
         "path": "/id_id/products/pmng/ems/pmerit/ecoserver/index.html"
       },
       {
-        "name": "System Configuration",
+        "name": "Konfigurasi Sistem",
         "path": "/id_id/products/pmng/ems/pmerit/ecoserver/ecoserver_2.html"
       },
       {
-        "name": "Product Lineup",
+        "name": "Rangkaian Produk",
         "path": "/id_id/products/pmng/ems/pmerit/ecoserver/ecoserver_3.html"
       },
       {
-        "name": "Case Studies",
+        "name": "Studi Kasus",
         "path": "/id_id/products/pmng/ems/pmerit/ecoserver/ecoserver_4.html"
       }
     ]
   },
  "switchNav": {
-    "name": "Energy Saving Supporting Devices",
+    "name": "Perangkat Pendukung Penghematan Energi",
     "path": "/id_id/products/pmng/ems/index.html",
     "child": [
       {
         "group": "Energy Saving Data Collecting Servers",
-        "name": "Energy Saving Data Collecting Servers",
+        "name": "Server Pengumpulan Data Hemat Energi",
         "feature": "/id_id/products/pmng/ems/pmerit/ecoserver/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
         "discon": "",
 		"return": {
-			"name": "Energy Saving Data Collecting Servers",
+			"name": "Server Pengumpulan Data Hemat Energi",
 			"path": "/id_id/products/pmng/ems/items/ecoserver/index.html"
 		}
       }

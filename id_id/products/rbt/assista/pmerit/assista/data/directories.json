@@ -4,7 +4,7 @@
     "path": "/id_id/products/rbt/robot/items/vertical/index.html",
     "firstLayer": [
       {
-        "name": "Features and Concept",
+        "name": "Fitur dan Konsep",
         "path": "/id_id/products/rbt/assista/pmerit/assista/index.html",
         "secondLayer": [
            {
@@ -18,19 +18,19 @@
         ]
       },
       {
-        "name": "Components and Apprilations",
+        "name": "Komponen dan Aplikasi",
         "path": "/id_id/products/rbt/assista/pmerit/assista/assista_gripper.html",
          "secondLayer": [
            {
-            "name": "Grip with ASSISTA",
+            "name": "Pegangan dengan ASSISTA",
             "path": "/id_id/products/rbt/assista/pmerit/assista/assista_gripper.html"
           },
           {
-            "name": "View with ASSISTA",
+            "name": "Lihat dengan ASSISTA",
             "path": "/id_id/products/rbt/assista/pmerit/assista/assista_view.html"
           },
            {
-            "name": "ASSISTA moves",
+            "name": "ASSISTA bergerak",
             "path": "/id_id/products/rbt/assista/pmerit/assista/assista_move.html"
           }
         ]
