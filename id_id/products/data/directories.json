@@ -156,11 +156,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Industrial Robots-MELFA",
+            "name": "Robot Industri-MELFA",
             "path": "/id_id/products/rbt/robot/index.html"
           },
           {
-            "name": "Collaborative Robot-ASSISTA",
+            "name": "Robot Kolaboratif-ASSISTA",
             "path": "/id_id/products/rbt/assista/index.html"
           }
         ]
