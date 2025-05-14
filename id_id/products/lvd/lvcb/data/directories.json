@@ -257,7 +257,7 @@
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "For DC Special Voltages",
+			"name": "Untuk Tegangan Khusus DC",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_dc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DC",
@@ -269,7 +269,7 @@
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "Mag-Only Circuit Breaker",
+			"name": "Pemutus Sirkuit Hanya Mag",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_mag/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_MAG",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_MAG",
@@ -281,7 +281,7 @@
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "DSN Switches",
+			"name": "Sakelar DSN",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_DSN",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_DSN",
@@ -293,7 +293,7 @@
 		},
 		{
 			"group": "Circuit Breakers for Use in Particular Applications",
-			"name": "Corrosion Resistant Enhanced Type for Special Environments",
+			"name": "Jenis Peningkatan Tahan Korosi untuk Lingkungan Khusus",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/spcb_sp/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=SPCB_SP",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=SPCB_SP",
