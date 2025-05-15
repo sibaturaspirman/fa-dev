@@ -117,7 +117,7 @@
             },
             {
                 "group": "ENG_SOFT",
-                "name": "Other engineering softwares",
+                "name": "Perangkat lunak teknik lainnya",
                 "feature": "/id_id/products/cnt/plceng/smerit/other_eng/",
                 "spec": "",
                 "standard": "",
@@ -125,7 +125,7 @@
             },
             {
                 "group": "ENG_SOFT",
-                "name": "Peripheral equipment support tools",
+                "name": "Alat pendukung peralatan periferal",
                 "feature": "/id_id/products/cnt/plceng/smerit/support_tools/",
                 "spec": "",
                 "standard": "",
