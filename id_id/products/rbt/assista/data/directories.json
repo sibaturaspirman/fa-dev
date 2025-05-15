@@ -55,13 +55,13 @@
       },
       {
         "group": "Robot Engeneering Software (MELFA)",
-        "name": "Collaborative robot ASSISTA Engeneering Software",
+        "name": "Robot Kolaboratif ASISTEN Rekayasa Perangkat Lunak",
         "feature": "/id_id/products/rbt/assista/smerit/vb/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
           "return": {
-          "name": "Robot Engeneering Software (MELFA)",
+          "name": "Perangkat Lunak Rekayasa Robot (MELFA)",
           "path": "/id_id/products/software/robot/index.html"
   	    }
       }
