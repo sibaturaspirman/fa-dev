@@ -8,27 +8,27 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Image processing software",
+            "name": "Perangkat lunak pengolahan gambar",
             "path": "/id_id/products/software/image-processing/index.html",
             "child": [
               {
-                "name": "Visual Inspection Software MELSOFT VIXIO",
+                "name": "Perangkat Lunak Inspeksi Visual MELSOFT VIXIO",
                 "path": "/id_id/products/software/image-processing/vixio/index.html"
               },
               {
-                "name": "What is MELSOFT VIXIO?",
+                "name": "Apa itu MELSOFT VIXIO?",
                 "path": "/id_id/products/software/image-processing/vixio/about.html"
               },
               {
-                "name": "How to use MELSOFT VIXIO",
+                "name": "Cara menggunakan MELSOFT VIXIO",
                 "path": "/id_id/products/software/image-processing/vixio/operation.html"
               },
               {
-                "name": "MELSOFT VIXIO application examples",
+                "name": "Contoh aplikasi MELSOFT VIXIO",
                 "path": "/id_id/products/software/image-processing/vixio/example.html"
               },
               {
-                "name": "Operating environment",
+                "name": "Lingkungan operasi",
                 "path": "/id_id/products/software/image-processing/vixio/spec.html"
               }
             ]
@@ -39,11 +39,11 @@
   },
 
   "switchNav": {
-    "name": "Image processing software",
+    "name": "Perangkat lunak pengolahan gambar",
     "path": "/id_id/products/software/image-processing/index.html",
     "child": [
       {
-        "group": "Visual Inspection Software",
+        "group": "Perangkat Lunak Inspeksi Visual",
         "name": "MELSOFT VIXIO",
         "feature": "/id_id/products/software/image-processing/vixio/index.html",
         "spec": "",

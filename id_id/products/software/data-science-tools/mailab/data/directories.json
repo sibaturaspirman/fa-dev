@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Data science tools",
+            "name": "Alat ilmu data",
             "path": "/id_id/products/software/data-science-tools/index.html",
             "child": [
               {
@@ -16,23 +16,23 @@
                 "path": "/id_id/products/software/data-science-tools/mailab/index.html"
               },
               {
-                "name": "What is MELSOFT MaiLab?",
+                "name": "Apa itu MELSOFT MaiLab?",
                 "path": "/id_id/products/software/data-science-tools/mailab/about/index.html"
               },
               {
-                "name": "How to use MELSOFT MaiLab",
+                "name": "Cara menggunakan MELSOFT MaiLab",
                 "path": "/id_id/products/software/data-science-tools/mailab/use/index.html"
               },
               {
-                "name": "MELSOFT MaiLab usage examples",
+                "name": "Contoh penggunaan MELSOFT MaiLab",
                 "path": "/id_id/products/software/data-science-tools/mailab/example/index.html"
               },
               {
-                "name": "License format",
+                "name": "Format lisensi",
                 "path": "/id_id/products/software/data-science-tools/mailab/license/index.html"
               },
               {
-                "name": "Operating environment",
+                "name": "Lingkungan operasi",
                 "path": "/id_id/products/software/data-science-tools/mailab/environment/index.html"
               }
             ]

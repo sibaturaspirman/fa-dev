@@ -1,10 +1,10 @@
 {
     "layerNav": {
-        "name": "Energy Saving Support Software EcoAdviser",
+        "name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
         "path": "/id_id/products/software/ems/eap/index.html",
         "firstLayer": [
             {
-                "name": "Feature",
+                "name": "Fitur",
                 "path": "/id_id/products/software/ems/eap/index.html"
             },
             {
@@ -12,11 +12,11 @@
                 "path": "/id_id/products/software/ems/eap/index_2.html"
             },
             {
-                "name": "Utilization Support Services",
+                "name": "Layanan Dukungan Pemanfaatan",
                 "path": "/id_id/products/software/ems/eap/index_3.html"
             },
             {
-                "name": "File converter",
+                "name": "Konverter berkas",
                 "path": "/id_id/products/software/ems/eap/index_6.html"
             },
             {
@@ -24,7 +24,7 @@
                 "path": "/id_id/products/software/ems/eap/index_4.html"
             },
             {
-                "name": "Related Videos",
+                "name": "Video Terkait",
                 "path": "/id_id/products/software/ems/eap/index_5.html"
             }
         ]
@@ -38,11 +38,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Energy Saving Support Software",
+            "name": "Perangkat Lunak Dukungan Penghematan Energi",
             "path": "/id_id/products/software/ems/index.html",
             "child": [
               {
-                "name": "Energy Saving Support Software EcoAdviser",
+                "name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
                 "path": "/id_id/products/software/ems/eap/index.html"
               }
             ]
@@ -52,12 +52,12 @@
     ]
   },
   "switchNav": {
-    "name": "Energy Saving Support Software",
+    "name": "Perangkat Lunak Dukungan Penghematan Energi",
     "path": "/id_id/products/software/ems/index.html",
     "child": [
       {
         "group": "Energy Saving Support Software",
-        "name": "Energy Saving Support Software EcoAdviser",
+        "name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
         "feature": "/id_id/products/software/ems/eap/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ecoadviser&current=EcoAdviser",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser&current=EcoAdviser",

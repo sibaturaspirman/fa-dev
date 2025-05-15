@@ -40,7 +40,7 @@
                         "path": "/id_id/products/cnt/plcnet/items/index.html"
                     },
                     {
-                        "name": "Engineering software",
+                        "name": "Perangkat lunak rekayasa",
                         "path": "/id_id/products/cnt/plceng/items/index.html"
                     }
                 ]
@@ -48,13 +48,13 @@
         ]
     },
     "switchNav": {
-        "name": "Engineering software",
+        "name": "Perangkat lunak rekayasa",
         "path": "/id_id/products/cnt/plceng/items/index.html",
         "child": [
             {
                 "group": "ENG_SOFT",
                 "name": "iQ Works",
-                "feature": "/id_id/products/sft/melsoft/smerit/iq_works/",
+                "feature": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_works/",
                 "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melsoft",
                 "standard": "",
                 "discon": ""
@@ -102,7 +102,7 @@
             {
                 "group": "ENG_SOFT",
                 "name": "iQ AppPortal",
-                "feature": "/id_id/products/sft/melsoft/smerit/iq_app_portal/index.html?menu=kisyu&mid=plc",
+                "feature": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_app_portal/index.html?menu=kisyu&mid=plc",
                 "spec": "",
                 "standard": "",
                 "discon": ""
@@ -110,14 +110,14 @@
             {
                 "group": "ENG_SOFT",
                 "name": "FieldDeviceConfigurator",
-                "feature": "/id_id/products/sft/melsoft/smerit/fdc/index.html?menu=kisyu&plc",
+                "feature": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/fdc/index.html?menu=kisyu&plc",
                 "spec": "",
                 "standard": "",
                 "discon": ""
             },
             {
                 "group": "ENG_SOFT",
-                "name": "Other engineering softwares",
+                "name": "Perangkat lunak teknik lainnya",
                 "feature": "/id_id/products/cnt/plceng/smerit/other_eng/",
                 "spec": "",
                 "standard": "",
@@ -125,7 +125,7 @@
             },
             {
                 "group": "ENG_SOFT",
-                "name": "Peripheral equipment support tools",
+                "name": "Alat pendukung peralatan periferal",
                 "feature": "/id_id/products/cnt/plceng/smerit/support_tools/",
                 "spec": "",
                 "standard": "",

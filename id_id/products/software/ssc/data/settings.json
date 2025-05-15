@@ -37,9 +37,9 @@
 		"comment": "Spotlightに掲載したいページタイトル・画像・リンクを記入",
 		"items": [
 			{
-				"name": "Motion Control Software SWM-G",
+				"name": "Perangkat Lunak Kontrol Gerak SWM-G",
 				"img": "/id_id/products/cnt/ssc/img/spotlight_swmg_gl.jpg",
-				"link": "/id_id/products/cnt/ssc/pmerit/sscemb/swmg/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/swmg/index.html"
 			}
 			
 		]
@@ -89,7 +89,7 @@
 		"items": [
 			{
 				"name": "iQ Works",
-				"link": "/id_id/products/sft/melsoft/smerit/iq_works/index.html?menu=kisyu&mid=ssc"
+				"link": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_works/index.html?menu=kisyu&mid=ssc"
 			},
 			{
 				"name": "GX Works2",

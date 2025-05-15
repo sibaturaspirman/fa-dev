@@ -8,19 +8,19 @@
 				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/index.html"
 			},
 			{
-				"name": "Improving design and debug efficiency",
+				"name": "Meningkatkan efisiensi desain dan debug",
 				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/index.html",
 				"secondLayer": [
 					{
-						"name": "Ladder input",
+						"name": "Input Ladder",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/index.html"
 					},
 					{
-						"name": "Comment",
+						"name": "Komentar",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/comment.html"
 					},
 					{
-						"name": "Parameter setting",
+						"name": "Pengaturan parameter",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/debug/parameters.html"
 					},
 					{
@@ -30,43 +30,43 @@
 				]
 			},
 			{
-				"name": "Providing maintenance that meet your needs",
+				"name": "Memberikan perawatan yang sesuai dengan kebutuhan Anda",
 				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/maintenance/index.html",
 				"secondLayer": [
 					{
-						"name": "Operation and maintenance",
+						"name": "Operasi dan pemeliharaan",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/maintenance/index.html"
 					},
 					{
-						"name": "Security",
+						"name": "Keamanan",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/maintenance/security.html"
 					}
 				]
 			},
 			{
-				"name": "Facilitating project management",
+				"name": "Memfasilitasi manajemen proyek",
 				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/project/index.html"
 			},
 			{
-				"name": "Promoting program standardization",
+				"name": "Mempromosikan standarisasi program",
 				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/index.html",
 				"secondLayer": [
 					{
-						"name": "Making parts in program",
+						"name": "Membuat bagian dalam program",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/index.html"
 					},
 					{
-						"name": "Label programming/structured programming",
+						"name": "Pemrograman label/pemrograman terstruktur",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/programming.html"
 					},
 					{
-						"name": "Interaction with iQ Works",
+						"name": "Interaksi dengan iQ Works",
 						"path": "/id_id/products/cnt/plceng/smerit/gx_works2/program/iq_works.html"
 					}
 				]
 			},
 			{
-				"name": "Enhanced coordination with factory automation devices",
+				"name": "Peningkatan koordinasi dengan perangkat otomasi pabrik",
 				"path": "/id_id/products/cnt/plceng/smerit/gx_works2/support/index.html"
 			}
 		]

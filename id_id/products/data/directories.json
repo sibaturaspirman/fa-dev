@@ -304,8 +304,8 @@
             "path": "/id_id/products/software/data-science-tools/index.html"
           },
           {
-            "name": "Data communication software",
-            "path": "/id_id/products/software/data-sharing-software/index.html"
+            "name": "Perangkat lunak komunikasi data",
+            "path": "https://www.mitsubishielectric.com/fa/products/software/data-sharing-software/index.html"
           },
           {
             "name": "Perangkat Lunak Pendukung Hemat Energi",
@@ -322,35 +322,35 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Integrated engineering software",
-            "path": "/id_id/sols/efactory/sft/index.html"
+            "name": "Perangkat lunak rekayasa terintegrasi",
+            "path": "https://www.mitsubishielectric.com/fa/sols/efactory/sft/index.html"
           },
           {
-            "name": "PLC engineering software (MELSEC)",
+            "name": "Perangkat lunak rekayasa PLC (MELSEC)",
             "path": "/id_id/products/software/plc/index.html"
           },
           {
-            "name": "Motion Controller engineering software",
+            "name": "Perangkat lunak rekayasa pengontrol gerak",
             "path": "/id_id/products/software/ssc/index.html"
           },
           {
-            "name": "AC Servo engineering software (MELSERVO)",
+            "name": "Perangkat lunak rekayasa AC Servo (MELSERVO)",
             "path": "/id_id/products/software/servo/index.html"
           },
           {
-            "name": "Inverter engineering software (FREQROL)",
+            "name": "Perangkat lunak rekayasa inverter (FREQROL)",
             "path": "/id_id/products/software/inv/index.html"
           },
           {
-            "name": "HMI engineering software (GOT)",
+            "name": "Perangkat lunak rekayasa HMI (GOT)",
             "path": "/id_id/products/software/got/index.html"
           },
           {
-            "name": "Robot engineering software (MELFA)",
+            "name": "Perangkat lunak rekayasa robot (MELFA)",
             "path": "/id_id/products/software/robot/index.html"
           },
           {
-            "name": "NC Software Tools",
+            "name": "Alat Perangkat Lunak NC",
             "path": "/id_id/products/software/cnc/index.html"
           }
         ]
