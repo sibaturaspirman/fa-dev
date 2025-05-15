@@ -121,31 +121,31 @@
       },
         {
         "group": "Robot Engeneering software (MELFA)",
-        "name": "Industrial robot MELFA Engeneering Software",
+        "name": "Robot industri MELFA Rekayasa Perangkat Lunak",
         "feature": "/id_id/products/rbt/robot/smerit/rt3/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         	"return": {
-         	"name": "Robot Engeneering software (MELFA)",
+         	"name": "Perangkat Lunak Rekayasa Robot (MELFA)",
          	"path": "/id_id/products/software/robot/index.html"
         	}
       },
        {               
         "group": "Discontinued Products",
-        "name": "Discontinued Products features",
+        "name": "Fitur Produk yang Dihentikan",
         "feature": "/id_id/products/rbt/robot/pmerit/discon/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         	"return": {
-         	"name": "Discontinued Products features",
+         	"name": "Fitur Produk yang Dihentikan",
          	"path": "/id_id/products/rbt/robot/items/discon/index.html"
         	}
       },
         {
         "group": "FA Application Package",
-        "name": "FA Application Package",
+        "name": "Paket Aplikasi FA",
         "feature": "/id_id/products/rbt/robot/pmerit/apppack/kikai/index.html",
         "spec": "",
         "standard": "",

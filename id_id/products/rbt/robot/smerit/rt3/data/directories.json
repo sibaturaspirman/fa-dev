@@ -1,6 +1,6 @@
 {
   "layerNav": {
-    "name": "Robot Engeneering software (MELFA)",
+    "name": "Perangkat Lunak Rekayasa Robot (MELFA)",
     "path": "/id_id/products/software/robot/index.html",
     "firstLayer": [
        {
@@ -12,11 +12,11 @@
             "path": "/id_id/products/rbt/robot/smerit/rt3/index.html"
           },
            {
-            "name": "Programming, Simulation",
+            "name": "Pemrograman, Simulasi",
            "path": "/id_id/products/rbt/robot/smerit/rt3/simulation.html"
           },
            {
-            "name": "Monitor, Maintenance",
+            "name": "Monitor, Pemeliharaan",
            "path": "/id_id/products/rbt/robot/smerit/rt3/monitor.html"
           },
           {
