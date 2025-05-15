@@ -4,45 +4,45 @@
     "path": "/id_id/",
     "child": [
       {
-        "name": "About Us",
+        "name": "Tentang Kami",
         "path": "/id_id/about-us/",
         "child": [
           {
-            "name": "Leading-edge Development and Production",
+            "name": "Pengembangan dan Produksi Terdepan",
             "path": "/id_id/about-us/core-competencies/manufacturing/"
           },
           {
-            "name": "Extensive Product Line-up",
+            "name": "Jajaran Produk yang Luas",
             "path": "/id_id/about-us/core-competencies/products/"
           },
           {
-            "name": "Providing Integrated Solutions",
+            "name": "Menyediakan Solusi Terintegrasi",
             "path": "/id_id/about-us/core-competencies/solutions/"
           },
           {
-            "name": "Global Service Network",
+            "name": "Jaringan Layanan Global",
             "path": "/id_id/about-us/core-competencies/global-network/"
           }
         ]
       },
       {
-        "name": "About Us",
+        "name": "Tentang Kami",
         "path": "/id_id/about-us/",
         "child": [
           {
-            "name": "Our Commitment to Sustainability",
+            "name": "Komitmen Kami terhadap Keberlanjutan",
             "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/",
             "child": [
               {
-                "name": "Contribution through improved efficiency and productivity",
+                "name": "Kontribusi melalui peningkatan efisiensi dan produktivitas",
                 "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/increase-efficiency.html"
               },
               {
-                "name": "Contribution through visual insights",
+                "name": "Kontribusi melalui wawasan visual",
                 "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/visualization.html"
               },
               {
-                "name": "Contribution through automation technology",
+                "name": "Kontribusi melalui teknologi otomasi",
                 "path": "https://www.mitsubishielectric.com/fa/about-us/sustainability/automation.html"
               }
             ]
@@ -50,53 +50,53 @@
         ]
       },
       {
-        "name": "About Us",
+        "name": "Tentang Kami",
         "path": "/id_id/about-us/",
         "child": [
           {
-            "name": "FA Products Security",
-            "path": "/id_id/about-us/security/"
+            "name": "Keamanan Produk FA",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/security/"
           },
           {
-            "name": "Vulnerability Information",
-            "path": "/id_id/about-us/security/vulnerability/"
+            "name": "Informasi Kerentanan",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/security/vulnerability/"
           }
         ]
       },
       {
-        "name": "About Us",
+        "name": "Tentang Kami",
         "path": "/id_id/about-us/",
         "child": [
           {
-            "name": "Locations Worldwide",
-            "path": "/id_id/about-us/overseas/index.html",
+            "name": "Lokasi di seluruh dunia",
+            "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/index.html",
             "child": [
               {
-                "name": "Americas",
-                "path": "/id_id/about-us/overseas/americas/index.html"
+                "name": "Amerika",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/americas/index.html"
               },
               {
-                "name": "Asia-Pacific",
-                "path": "/id_id/about-us/overseas/apac/index.html"
+                "name": "Asia-Pasifik",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/apac/index.html"
               },
               {
-                "name": "Europe, the Middle East and Africa",
-                "path": "/id_id/about-us/overseas/emea/index.html"
+                "name": "Eropa, Timur Tengah dan Afrika",
+                "path": "https://www.mitsubishielectric.com/fa/about-us/overseas/emea/index.html"
               }
             ]
           }
         ]
       },
       {
-        "name": "About Us",
+        "name": "Tentang Kami",
         "path": "/id_id/about-us/",
         "child": [
           {
-            "name": "FA’s contribution over the years",
+            "name": "Kontribusi FA selama bertahun-tahun",
             "path": "/id_id/about-us/history/contribution/"
           },
           {
-            "name": "FA innovations, firsts and vision",
+            "name": "Inovasi FA, yang pertama dan visi",
             "path": "/id_id/about-us/history/innovation/"
           }
         ]
