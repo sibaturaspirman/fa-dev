@@ -4,7 +4,7 @@
 		"path": "/id_id/products/cnt/plcl/pmerit/concept/index.html",
 		"firstLayer": [
 			{
-				"name": "L Series Features",
+				"name": "Fitur Seri L",
 				"path": "/id_id/products/cnt/plcl/pmerit/concept/index.html"
 			},
 			{
@@ -16,15 +16,15 @@
 				"path": "/id_id/products/cnt/plcl/pmerit/io/index.html"
 			},
 			{
-				"name": "Analog/Temperature Control",
+				"name": "Kontrol Analog/Suhu",
 				"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html"
 			},
 			{
-				"name": "Simple Motion/Positioning",
+				"name": "Gerakan Sederhana/Posisi",
 				"path": "/id_id/products/cnt/plcl/pmerit/motion/index.html"
 			},
 			{
-				"name": "Flexible I/O/High-Speed Counter",
+				"name": "I/O Fleksibel/Penghitung Kecepatan Tinggi",
 				"path": "/id_id/products/cnt/plcl/pmerit/counter/index.html"
 			},
 			{
