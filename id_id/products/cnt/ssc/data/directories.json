@@ -21,7 +21,7 @@
               },
               {
                 "name": "Seri MELSEC-Q",
-                "path": "/id_id/products/cnt/ssc/items/sscq/index.html"
+                "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/sscq/index.html"
               },
               {
                 "name": "Seri MELSEC-L",
@@ -33,19 +33,19 @@
               },
               {
                 "name": "Perangkat Lunak Kontrol Gerak",
-                "path": "/id_id/products/cnt/ssc/items/swmg/index.html"
+                "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/swmg/index.html"
               },
               {
                 "name": "Produk terkait jaringan",
-                "path": "/id_id/products/cnt/ssc/items/svnet/index.html"
+                "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/svnet/index.html"
               },
               {
                 "name": "FA Application Package iQ Monozukuri",
-                "path": "/id_id/products/cnt/ssc/items/apppack/index.html"
+                "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/apppack/index.html"
               },
               {
                 "name": "Perangkat Lunak Rekayasa",
-                "path": "/id_id/products/cnt/ssc/items/eng/index.html"
+                "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/eng/index.html"
               }
             ]
           }
@@ -126,7 +126,7 @@
         "discon": "",
         "return": {
           "name": "Perangkat Lunak Kontrol Gerak",
-          "path": "/id_id/products/cnt/ssc/items/swmg/index.html"
+          "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/swmg/index.html"
         }
       }
     ]
