@@ -8,37 +8,37 @@
         "path": "/id_id/solutions/index.html",
         "child": [
           {
-            "name": "Introduction of e-F@ctory",
+            "name": "Pengenalan e-F@ctory",
             "path": "/id_id/solutions/efactory/index.html",
             "child": [
               {
-                "name": "Edgecross-supporting Software",
+                "name": "Perangkat Lunak Pendukung Edgecross",
                 "path": "/id_id/solutions/efactory/component/edgsw/index.html",
                 "child": [
                   {
-                    "name": "Edge Application",
+                    "name": "Aplikasi Edge",
                     "path": "/id_id/solutions/efactory/component/edgsw/edgeapp/index.html"
                   },
                   {
-                    "name": "Data Collector",
+                    "name": "Pengumpul Data",
                     "path": "/id_id/solutions/efactory/component/edgsw/dc/index.html"
                   },
                   {
-                    "name": "IT Gateway",
+                    "name": "Gerbang TI",
                     "path": "/id_id/solutions/efactory/component/edgsw/itgw/index.html"
                   }
                 ]
               },
               {
-                "name": "Solutions for IoT",
+                "name": "Solusi untuk IoT",
                 "path": "/id_id/solutions/efactory/iot-solutions/index.html",
                 "child": [
                   {
-                    "name": "Data Collection of Installations and Workers",
+                    "name": "Pengumpulan Data Instalasi dan Pekerja",
                     "path": "/id_id/solutions/efactory/iot-solutions/1a/index.html"
                   },
                   {
-                    "name": "Visualization of Workers or Installations",
+                    "name": "Visualisasi Pekerja atau Instalasi",
                     "path": "/id_id/solutions/efactory/iot-solutions/1b/index.html"
                   },
                   {
@@ -46,47 +46,47 @@
                     "path": "/id_id/solutions/efactory/iot-solutions/2c/index.html"
                   },
                   {
-                    "name": "Optimization of Workers or Installations",
+                    "name": "Optimalisasi Pekerja atau Instalasi",
                     "path": "/id_id/solutions/efactory/iot-solutions/1d/index.html"
                   },
                   {
-                    "name": "Data Collection of Workstations",
+                    "name": "Pengumpulan Data Stasiun Kerja",
                     "path": "/id_id/solutions/efactory/iot-solutions/2a/index.html"
                   },
                   {
-                    "name": "Visualization of Workstations",
+                    "name": "Visualisasi Stasiun Kerja",
                     "path": "/id_id/solutions/efactory/iot-solutions/2b/index.html"
                   },
                   {
-                    "name": "Analysis of Workstations",
+                    "name": "Analisis Stasiun Kerja",
                     "path": "/id_id/solutions/efactory/iot-solutions/2c/index.html"
                   },
                   {
-                    "name": "Optimization of Workstations",
+                    "name": "Optimasi Stasiun Kerja",
                     "path": "/id_id/solutions/efactory/iot-solutions/2d/index.html"
                   },
                   {
-                    "name": "Data Collection of Factories",
+                    "name": "Pengumpulan Data Pabrik",
                     "path": "/id_id/solutions/efactory/iot-solutions/3a/index.html"
                   },
                   {
-                    "name": "Visualization of Factories",
+                    "name": "Visualisasi Pabrik",
                     "path": "/id_id/solutions/efactory/iot-solutions/3b/index.html"
                   },
                   {
-                    "name": "Analysis of Factories",
+                    "name": "Analisis Pabrik",
                     "path": "/id_id/solutions/efactory/iot-solutions/3c/index.html"
                   },
                   {
-                    "name": "Optimization of Factories",
+                    "name": "Optimasi Pabrik",
                     "path": "/id_id/solutions/efactory/iot-solutions/3d/index.html"
                   },
                   {
-                    "name": "Data Collection of Supply Chain",
+                    "name": "Pengumpulan Data Rantai Pasokan",
                     "path": "/id_id/solutions/efactory/iot-solutions/4a/index.html"
                   },
                   {
-                    "name": "Visualization of Supply Chain",
+                    "name": "Visualisasi Rantai Pasokan",
                     "path": "/id_id/solutions/efactory/iot-solutions/4b/index.html"
                   }
                 ]
@@ -571,11 +571,11 @@
           },
           {
             "name": "IoT-based Solution Examples",
-            "path": "/id_id/solutions/iot-case-study/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/solutions/iot-case-study/index.html"
           },
           {
             "name": "Solution Guidebook",
-            "path": "/id_id/solutions/tips/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/solutions/tips/index.html"
           },
           {
             "name": "e-F@ctory Alliance",
@@ -583,7 +583,7 @@
           },
           {
             "name": "Digital Manufacturing",
-            "path": "/id_id/sols/digital-manufacturing/en/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/sols/digital-manufacturing/en/index.html"
           }
         ]
       }
