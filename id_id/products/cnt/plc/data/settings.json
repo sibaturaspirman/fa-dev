@@ -78,31 +78,31 @@
 				"link": "#",
                 "child": [
                 {
-				    "name": "Seri MELSEC iQ-R",
+				    "name": "MELSEC iQ-R Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
                 },
                 {
-				    "name": "Seri MELSEC iQ-F",
+				    "name": "MELSEC iQ-F Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=catalog"
                 },
                 {
-				    "name": "Seri MELSEC-Q",
+				    "name": "MELSEC-Q Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=catalog"
                 },
                 {
-				    "name": "Seri MELSEC-L",
+				    "name": "MELSEC-L Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=catalog"
                 },
                 {
-				    "name": "Seri MELSEC-F",
+				    "name": "MELSEC-F Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=catalog"
                 },
                 {
-				    "name": "Seri MELSEC-QS/WS",
+				    "name": "MELSEC-QS/WS Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=catalog"
                 },
                 {
-				    "name": "Produk terkait jaringan",
+				    "name": "Network-related products",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=catalog"
                 }
                 ]
@@ -113,31 +113,31 @@
 				"link": "#",
                 "child": [
                 {
-				    "name": "Seri MELSEC iQ-R",
+				    "name": "MELSEC iQ-R Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
                 },
                 {
-				    "name": "Seri MELSEC iQ-F",
+				    "name": "MELSEC iQ-F Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=manual"
                 },
                 {
-				    "name": "Seri MELSEC-Q",
+				    "name": "MELSEC-Q Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=manual"
                 },
                 {
-				    "name": "Seri MELSEC-L",
+				    "name": "MELSEC-L Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=manual"
                 },
                 {
-				    "name": "Seri MELSEC-F",
+				    "name": "MELSEC-F Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=manual"
                 },
                 {
-				    "name": "Seri MELSEC-QS/WS",
+				    "name": "MELSEC-QS/WS Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=manual"
                 },
                 {
-				    "name": "Produk terkait jaringan",
+				    "name": "Network-related products",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=manual"
                 }
                 ]
@@ -148,31 +148,31 @@
 				"link": "#",
                 "child": [
                 {
-                    "name": "Seri MELSEC iQ-R",
+                    "name": "MELSEC iQ-R Series",
                     "link":"https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=techinfo"
                 },
                 {
-                    "name": "Seri MELSEC iQ-F",
+                    "name": "MELSEC iQ-F Series",
                     "link":"https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcf&mode=techinfo"
                 },
                 {
-				    "name": "Seri MELSEC-Q",
+				    "name": "MELSEC-Q Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcq&mode=techinfo"
                 },
                 {
-				    "name": "Seri MELSEC-L",
+				    "name": "MELSEC-L Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcl&mode=techinfo"
                 },
                 {
-				    "name": "Seri MELSEC-F",
+				    "name": "MELSEC-F Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plc_fx&mode=techinfo"
                 },
                 {
-				    "name": "Seri MELSEC-QS/WS",
+				    "name": "MELSEC-QS/WS Series",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcqsws&mode=techinfo"
                 },
                 {
-				    "name": "Produk terkait jaringan",
+				    "name": "Network-related products",
 				    "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcnet&mode=techinfo"
                 }
                 ]
