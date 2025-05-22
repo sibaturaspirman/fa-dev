@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Gear Motor",
+            "name": "Geared Motors",
             "path": "/id_id/products/drv/gear/index.html",
             "child": [
               {
@@ -34,7 +34,7 @@
     ]
   },
   "switchNav": {
-    "name": "Gear Motor",
+    "name": "Geared Motors",
     "path": "/id_id/products/drv/gear/index.html",
     "child": [
       {
