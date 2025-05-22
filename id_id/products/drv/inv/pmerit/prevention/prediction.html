@@ -49,7 +49,7 @@
           <div class="c-mainVisual__fa"><img src="/id_id/shared/gws0001/img/fa_logo.svg" alt="Factory Automation" width="315" height="35" /></div>
           <h1 class="c-mainVisual__title">
             <span class="c-mainVisual__subTitle">Fitur Produk Inverter-FREQROL</span>
-            Equipment maintenance
+            Perawatan peralatan
           </h1>
           <div class="c-mainVisual__background"><img src="/id_id/products/assets/img/img_mv-1_sm.jpg" alt="" width="1440" height="320" decoding="async" /></div>
         </div>
@@ -76,185 +76,201 @@
       <div class="l-inner--medium l-separator-x6" id="melfa_main_area">
 	  <div class="sg-preview mt2">
 	    <ul class="c-anchorNav c-list c-list--float" data-js-localscroll>
-	      <li class="c-list__item"><a class="u-icons u-icons--chevronBottom" href="#section01">Conveyor belt fault detection</a></li>
-	      <li class="c-list__item"><a class="u-icons u-icons--chevronBottom" href="#section02">Fan and pump fault detection</a></li>
-	      <li class="c-list__item"><a class="u-icons u-icons--chevronBottom" href="#section03">Inverter life diagnosis</a></li>
+			<li class="c-list__item"><a class="u-icons u-icons--chevronBottom" href="#section01">Deteksi kerusakan sabuk konveyor</a></li>
+			<li class="c-list__item"><a class="u-icons u-icons--chevronBottom" href="#section02">Deteksi kerusakan kipas dan pompa</a></li>
+			<li class="c-list__item"><a class="u-icons u-icons--chevronBottom" href="#section03">Diagnosis masa pakai inverter</a></li>
 	    </ul>
 	  </div>
 	             
         <section class="l-section" id="section01">
-	         <h2 class="c-headingLv2" id="pageUnit01">Conveyor belt fault detection</h2>
-	         <h3 class="c-headingLv3">Current detection function</h3>
-		     <ul class="c-list c-list--bullet c-list-pt">
-			    <li class="c-list__item">Faults caused by deteriorated motor shaft (increased load) or cracks in the belt (decreased load) can be detected through the motor output current.</li>
-				<li class="c-list__item">If the output current exceeds the predetermined value, a signal is output to inform the user of the faulty device.</li>
-				<li class="c-list__item">By using parameter settings, the inverter can be stopped when a signal is output at the point a fault occurs.</li>
-		    </ul>
-		    <p class="c-text mt2">&#9642; Fault detection and warning output</p>
+			<h2 class="c-headingLv2" id="pageUnit01">Deteksi kerusakan sabuk konveyor</h2>
+			<h3 class="c-headingLv3">Fungsi deteksi arus</h3>
+			<ul class="c-list c-list--bullet c-list-pt">
+				<li class="c-list__item">Kerusakan yang disebabkan oleh poros motor yang rusak (beban meningkat) atau keretakan pada sabuk (beban menurun) dapat dideteksi melalui arus keluaran motor.</li>
+				<li class="c-list__item">Jika arus keluaran melebihi nilai yang telah ditentukan, sinyal akan dikeluarkan untuk memberi tahu pengguna tentang perangkat yang rusak.</li>
+				<li class="c-list__item">Dengan menggunakan pengaturan parameter, inverter dapat dihentikan saat sinyal dikeluarkan pada titik terjadinya kerusakan.</li>
+			</ul>
+			<p class="c-text mt2">&#9642; Keluaran deteksi dan peringatan kerusakan</p>
 		    <div class="c-imgAuto mt1"><img src="./assets/img/prediction/2-2.png" alt="Conveyor belt fault detection" decoding="async"></div>
 	        <div class="c-table c-table--scroll pm_table">
 				<table class="c-table__content">
-			    <thead class="c-table__head">
-				<tr>
-	            	<th class="fa-heading_table_center fa-heading_table_bold" width="150px">Pr.</th>
-	            	<th class="fa-heading_table_center fa-heading_table_bold">Name</th>
-	            	<th class="fa-heading_table_center fa-heading_table_bold">Deskripsi</th>
-	            </tr>
-	            </thead>
-	             <tbody class="c-table__contentBody">
-	            <tr>
-	            	<th>150</th>
-	            	<td>Output current detection level</td>
-	            	<td>Set the reference value of normal load characteristics.</td>
-	            </tr>
-	            <tr>
-	            	<th>152</th>
-	            	<td>Zero current detection level</td>
-	            	<td>Set the maximum frequency of the load characteristics fault detection range.</td>
-	            </tr>
-	            <tr>
-	            	<th rowspan="2">190 to 196</th>
-	            	<td rowspan="2">Output terminal function<br> selection<sup><span class="c-note__num kome">*1</span></sup></td>
-	            	<td>When "12" is set, the Y12 signal is output if the output current exceeds the setting value of Pr.150.</td>
-	            </tr>
-	           <tr>
-					<td bgcolor="#FFFFFF" >When "13" is set, the Y12 signal is output if the output current falls below the setting value of Pr.152.</td>
-	            </tr>
-	            </tbody>
-	            </table>
+					<thead class="c-table__head">
+					<tr>
+						<th class="fa-heading_table_center fa-heading_table_bold" width="150px">Pr.</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Nama</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Deskripsi</th>
+					</tr>
+					</thead>
+					<tbody class="c-table__contentBody">
+					<tr>
+						<th>150</th>
+						<td>Level deteksi arus keluaran</td>
+						<td>Tetapkan nilai referensi karakteristik beban normal.</td>
+					</tr>
+					<tr>
+						<th>152</th>
+						<td>Level deteksi arus nol</td>
+						<td>Tetapkan frekuensi maksimum rentang deteksi gangguan karakteristik beban.</td> </tr>
+					<tr>
+						<th rowspan="2">190 hingga 196</th>
+						<td rowspan="2">Pemilihan fungsi terminal keluaran<br><sup><span class="c-note__num kome">*1</span></sup></td>
+						<td>Ketika "12" ditetapkan, sinyal Y12 dikeluarkan jika arus keluaran melebihi nilai pengaturan Pr.150.</td>
+					</tr>
+					<tr>
+						<td bgcolor="#FFFFFF" >Ketika "13" ditetapkan, sinyal Y12 dikeluarkan jika arus keluaran turun di bawah nilai pengaturan Pr.152.</td>
+					</tr>
+					</tbody>
+				</table>
 	        </div>	   
-	        <p class="c-note c-note--order mt1"><span class="c-note__num kome">*1</span>Set Pr.167 accordingly to stop the inverter when a signal is output due to a fault.</p>      
-			<p class="c-text mt05">〈Applicable models〉</p>
+	        <p class="c-note c-note--order mt1"><span class="c-note__num kome">*1</span>Atur Pr.167 sesuai kebutuhan untuk menghentikan inverter ketika sinyal dikeluarkan karena adanya kesalahan.</p>
+			<p class="c-text mt05">〈Model yang berlaku〉</p>
 			<p class="c-text mt05">・<a href="/id_id/products/drv/inv/pmerit/fr_a/fr_a800/index.html">A800</a> / <a href="/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html">F800</a> / <a href="/id_id/products/drv/inv/pmerit/fr_e/e700/index.html">E700</a> / <a href="/id_id/products/drv/inv/pmerit/fr_d/index.html">D700</a></p>
         </section>
         <!-- /#section01 -->
         
         
         <section class="l-section" id="section02">
-	         <h2 class="c-headingLv2" id="pageUnit02">Fan and pump fault detection</h2>
-	         <h3 class="c-headingLv3">Load characteristics fault detection</h3>
-		     <ul class="c-list c-list--bullet c-list-pt">
-			    <li class="c-list__item">The relationship between the speed and torque under normal operation is recorded. (Automatic data acquisition is possible.)</li>
-				<li class="c-list__item">During actual operation, motor torque is detected and a warning is output if the load exceeds or falls below the predetermined values.</li>
-				<li class="c-list__item">It is possible to activate the cleaning function by using fault detection as a trigger.</li>
-		    </ul>
-		    <p class="c-text mt2">&#9642; Fault detection and warning output</p>
+			<h2 class="c-headingLv2" id="pageUnit02">Deteksi kesalahan kipas dan pompa</h2>
+			<h3 class="c-headingLv3">Deteksi kesalahan karakteristik beban</h3>
+			<ul class="c-list c-list--bullet c-list-pt">
+				<li class="c-list__item">Hubungan antara kecepatan dan torsi dalam operasi normal dicatat. (Akuisisi data otomatis dimungkinkan.)</li>
+				<li class="c-list__item">Selama operasi aktual, torsi motor terdeteksi dan peringatan dikeluarkan jika beban melebihi atau turun di bawah nilai yang telah ditentukan sebelumnya.</li>
+				<li class="c-list__item">Fungsi pembersihan dapat diaktifkan dengan menggunakan deteksi kesalahan sebagai pemicu.</li>
+			</ul>
+			<p class="c-text mt2">&#9642; Deteksi kesalahan dan keluaran peringatan</p>
 		    <div class="c-imgAuto mt1"><img src="./assets/img/prediction/2-4.png" alt="Fan and pump fault detection" decoding="async"></div>
 	        <div class="c-table c-table--scroll pm_table">
 				<table class="c-table__content">
-			    <thead class="c-table__head">
-	            <tr>
-	            	<th class="fa-heading_table_center fa-heading_table_bold">Pr.</th>
-	            	<th class="fa-heading_table_center fa-heading_table_bold">Name</th>
-	            	<th class="fa-heading_table_center fa-heading_table_bold">Deskripsi</th>
-	            </tr>
-	            </thead>
-	             <tbody class="c-table__contentBody">
-	            <tr>
-	            	<th style="white-space: nowrap">1481 to 1485</th>
-	            	<td>Load characteristics load reference 1 to 5</td>
-	            	<td>Used to set the reference value of normal load characteristics.</td>
-	            </tr>
-	            <tr>
-	            	<th>1486</th>
-	            	<td>Load characteristics maximum frequency</td>
-	            	<td>Used to set the upper frequency limit of the load characteristics fault detection range.</td>
-	            </tr>
-	            <tr>
-	            	<th>1487</th>
-	            	<td>Load characteristics minimum frequency</td>
-	            	<td>Used to set the lower frequency limit of the load characteristics fault detection range.</td>
-	            </tr>
-	            <tr>
-	            	<th>1488</th>
-	            	<td>Upper limit warning detection width</td>
-	            	<td>Used to set the detection range when the upper limit load fault warning is output.</td>
-	            </tr>
-	            <tr>
-	            	<th>1489</th>
-	            	<td>Lower limit warning detection width</td>
-	            	<td>Used to set the detection range of when the lower limit load fault warning is output.</td>
-	            </tr>
-	            <tr>
-	            	<th>1490</th>
-	            	<td>Upper limit fault detection width</td>
-	            	<td>Used to set the detection range of when output is shut off when the upper limit load fault occurs.</td>
-	            </tr>
-	            <tr>
-	            	<th>1491</th>
-	            	<td>Lower limit fault detection width</td>
-	            	<td>Used to set the detection range of when output is shut off when the lower limit load fault occurs.</td>
-	            </tr>
-	            </tbody>
-	            </table>
+					<thead class="c-table__head">
+					<tr>
+						<th class="fa-heading_table_center fa-heading_table_bold">Pr.</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Nama</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Deskripsi</th>
+					</tr>
+					</thead>
+					<tbody class="c-table__contentBody">
+					<tr>
+						<th style="white-space: nowrap">1481 hingga 1485</th>
+						<td>Karakteristik beban referensi beban 1 hingga 5</td>
+						<td>Digunakan untuk menyetel nilai referensi karakteristik beban normal.</td>
+					</tr>
+					<tr>
+						<th>1486</th>
+						<td>Frekuensi maksimum karakteristik beban</td>
+						<td>Digunakan untuk mengatur batas frekuensi atas dari rentang deteksi gangguan karakteristik beban.</td>
+
+					</tr>
+
+					<tr>
+
+						<th>1487</th>
+
+						<td>Frekuensi minimum karakteristik beban</td>
+
+						<td>Digunakan untuk mengatur batas frekuensi bawah dari rentang deteksi gangguan karakteristik beban.</td>
+
+					</tr>
+
+					<tr>
+
+						<th>1488</th>
+
+						<td>Lebar deteksi peringatan batas atas</td>
+
+						<td>Digunakan untuk mengatur rentang deteksi saat peringatan gangguan beban batas atas dikeluarkan.</td>
+
+					</tr>
+
+					<tr>
+
+						<th>1489</th>
+
+						<td>Lebar deteksi peringatan batas bawah</td>
+
+						<td>Digunakan untuk mengatur rentang deteksi saat peringatan gangguan beban batas bawah dikeluarkan.</td>
+
+					</tr>
+
+					<tr>
+
+						<th>1490</th>
+
+						<td>Lebar deteksi gangguan batas atas</td> <td>Digunakan untuk mengatur rentang deteksi saat output dimatikan saat terjadi kesalahan beban batas atas.</td>
+					</tr>
+					<tr>
+						<th>1491</th>
+						<td>Lebar deteksi kesalahan batas bawah</td>
+						<td>Digunakan untuk mengatur rentang deteksi saat output dimatikan saat terjadi kesalahan beban batas bawah.</td>
+					</tr>
+					</tbody>
+				</table>
 	        </div>	   
-			<p class="c-text">〈Applicable models〉</p>
+			<p class="c-text">〈Model yang berlaku〉</p>
 			<p class="c-text mt05">・<a href="/id_id/products/drv/inv/pmerit/fr_a/fr_a800/index.html">A800</a> / <a href="/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html">F800</a></p>
-	         
-	         
-	         <h3 class="c-headingLv3">Cleaning function</h3>
-	         <p class="c-text">Dirt and foreign matter on the impellers of fans and pumps can be removed by repeating forward/reverse rotation and stopping of the motor.<br>
-		     This function (working together with the load characteristics fault detection function) can also be started automatically when overload is detected.</p>
+
+
+			<h3 class="c-headingLv3">Fungsi pembersihan</h3>
+			<p class="c-text">Kotoran dan benda asing pada impeller kipas dan pompa dapat dibersihkan dengan mengulangi putaran maju/mundur dan menghentikan motor.<br>
+				Fungsi ini (bekerja bersama dengan fungsi deteksi kesalahan karakteristik beban) juga dapat dimulai secara otomatis saat kelebihan beban terdeteksi.</p>
 		    <div class="c-imgAuto mt1"><img src="./assets/img/prediction/2-5.png" alt="Cleaning function" decoding="async"></div>
-	         <p class="c-text">This function is intended for uses in which reverse rotation will not cause problems.</p>
-			<p class="c-text mt05">〈Applicable models〉</p>
+			<p class="c-text">Fungsi ini ditujukan untuk penggunaan di mana rotasi terbalik tidak akan menimbulkan masalah.</p>
+			<p class="c-text mt05">〈Model yang berlaku〉</p>
 			<p class="c-text mt05">・<a href="/id_id/products/drv/inv/pmerit/fr_a/fr_a800/index.html">A800</a> / <a href="/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html">F800</a></p>
         </section>
         <!-- /#section02 -->
         
         <section class="l-section" id="section03">
-	         <h2 class="c-headingLv2" id="pageUnit03">Inverter life diagnosis</h2>
-	         <h3 class="c-headingLv3">Life diagnosis function</h3>
-	         <p class="c-text">The degree of deterioration of the main circuit capacitor, control circuit capacitor, and inrush current limit circuit can be monitored.<br>
-		      With inverter self-diagnostics, a warning when parts have reached their service life is output so that parts or inverters can be replaced before faults <br>occur.</p>
+			<h2 class="c-headingLv2" id="pageUnit03">Diagnosis masa pakai inverter</h2>
+			<h3 class="c-headingLv3">Fungsi diagnosis masa pakai</h3>
+			<p class="c-text">Tingkat kerusakan kapasitor sirkuit utama, kapasitor sirkuit kontrol, dan sirkuit pembatas arus masuk dapat dipantau.<br>
+				Dengan diagnostik mandiri inverter, peringatan saat komponen telah mencapai masa pakainya akan dikeluarkan sehingga komponen atau inverter dapat diganti sebelum terjadi kerusakan.</p>
 	         
 	        <div class="c-table c-table--scroll pm_table">
 				<table class="c-table__content">
-			    <thead class="c-table__head">
-		            <tr>
-		            	<th class="fa-heading_table_center fa-heading_table_bold">Part</th>
-		            	<th class="fa-heading_table_center fa-heading_table_bold">How service life is checked</th>
-		            	<th class="fa-heading_table_center fa-heading_table_bold">Judgment level</th>
-		            	<th class="fa-heading_table_center fa-heading_table_bold">Replacement method</th>
-		            </tr>
-		            </thead>
-		            <tbody class="c-table__contentBody">
-		            <tr>
-		            	<th style="white-space: nowrap">Main circuit <br>capacitor</th>
-		            	<td>With the motor connected but not running, DC voltage<br>is applied to the motor at inverter power OFF and the<br> capacitor's capacity is measured.</td>
-		            	<td style="white-space: nowrap">Below 85% of the capacitor's<br />
-		            		original capacity. <br>(10-year service life)</td>
-		            	<td style="white-space: nowrap" rowspan="3">Replaced by our after service team<br>(contact your sales representative)</td>
-		            </tr>
-		            <tr>
-		            	<th>Control<br>circuit<br>capacitor</th>
-		            	<td>The life is calculated from the energization time and<br> temperature, and is counted down from 100%.</td>
-		            	<td>Capacitor service life<br />below 1 year. <br>(10-year service life)</td>
-		            </tr>
-		            <tr>
-		            	<th>Inrush<br>current<br>limit circuit</th>
-		            	<td>The number of contact ON times is counted down<br> from 100%.</td>
-		            	<td>Capacitor service life<br />below 1 year. <br>(10-year service life)</td>
-		            </tr>
-		            <tr>
-		            	<th>Cooling fan</th>
-		            	<td>The speed of the cooling fan is constantly monitored<br> and any reduction in speed is detected.</td>
-		            	<td>When fan speed falls<br />
-		            		below 50%. <br>(10-year service life)</td>
-						<td>User replaceable</td>
-		            </tr>
-		            </tbody>
-		        </table>
+					<thead class="c-table__head">
+					<tr>
+						<th class="fa-heading_table_center fa-heading_table_bold">Komponen</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Cara memeriksa masa pakai</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Tingkat penilaian</th>
+						<th class="fa-heading_table_center fa-heading_table_bold">Metode penggantian</th>
+					</tr>
+					</thead>
+					<tbody class="c-table__contentBody">
+					<tr>
+						<th style="white-space: nowrap">Sirkuit utama <br>kapasitor</th>
+						<td>Dengan motor terhubung tetapi tidak berjalan, tegangan DC<br>diberikan ke motor saat daya inverter MATI dan<br>kapasitas kapasitor diukur.</td> <td style="white-space: nowrap">Di bawah 85% dari kapasitas asli kapasitor.<br>(masa pakai 10 tahun)</td>
+
+						<td style="white-space: nowrap" rowspan="3">Diganti oleh tim layanan purnajual kami<br>(hubungi perwakilan penjualan Anda)</td>
+					</tr>
+					<tr>
+						<th>Kapasitor<br>sirkuit<br>kontrol</th>
+						<td>Masa pakai dihitung dari waktu pengaktifan dan<br> suhu, dan dihitung mundur dari 100%.</td>
+						<td>Masa pakai kapasitor<br />di bawah 1 tahun. <br>(Umur layanan 10 tahun)</td>
+					</tr>
+					<tr>
+						<th>Sirkuit batas<br>arus masuk</th>
+						<td>Jumlah waktu kontak ON dihitung mundur<br> dari 100%.</td>
+						<td>Umur layanan kapasitor<br />di bawah 1 tahun. <br>(Umur layanan 10 tahun)</td>
+					</tr>
+					<tr>
+						<th>Kipas pendingin</th>
+						<td>Kecepatan kipas pendingin dipantau secara konstan<br> dan setiap pengurangan kecepatan terdeteksi.</td>
+						<td>Saat kecepatan kipas turun<br />
+							di bawah 50%. <br>(Umur layanan 10 tahun)</td>
+						<td>Dapat diganti pengguna</td>
+					</tr>
+					</tbody>
+				</table>
 	        </div>
-			<p class="c-text">〈Applicable models〉</p>
+			<p class="c-text">〈Model yang berlaku〉</p>
 			<p class="c-text mt05">・<a href="/id_id/products/drv/inv/pmerit/fr_a/fr_a800/index.html">A800</a> / <a href="/id_id/products/drv/inv/pmerit/fr_f/fr_f800/index.html">F800</a> / <a href="/id_id/products/drv/inv/pmerit/fr_e/e700/index.html">E700</a> / <a href="/id_id/products/drv/inv/pmerit/fr_d/index.html">D700</a></p>
-			
-			
-	        <div class="h2_layout mb1 mt2"><span>FR Configurator2 for further ease of operation</span></div>
+
+
+			<div class="h2_layout mb1 mt2"><span>FR Configurator2 untuk kemudahan pengoperasian lebih lanjut</span></div>
 			 <div class="l-grid">
 		        <div class="l-grid__item l-grid__item-7">
-			        <p class="c-text">Using FR Configurator2, easy-to-use software assisting anything from setup to maintenance, much more useful functions are available for users.</p>
-			        <p class="c-text">A free trial version with limited functions is available for download via the <br>following link.</p>
+					<p class="c-text">Dengan menggunakan FR Configurator2, perangkat lunak yang mudah digunakan yang membantu segala hal mulai dari pengaturan hingga pemeliharaan, tersedia banyak fungsi yang lebih bermanfaat bagi pengguna.</p>
+					<p class="c-text">Versi uji coba gratis dengan fungsi terbatas tersedia untuk diunduh melalui <br>tautan berikut.</p>
 			        <span class="u-icons u-icons--bulletRight mt1"><a href="https://www.mitsubishielectric.co.jp/fa/download/software/detailsearch.do?mode=software&kisyu=/inv&shiryoid=0000000027&lang=2&select=2&softid=2&infostatus=1_2_1&viewradio=0&viewstatus=&viewpos=" target="_blank">FR Configurator2 free trial version</a></span>
 		        </div>
 		        <div class="l-grid__item l-grid__item-5">
@@ -262,20 +278,20 @@
 		        </div>
 	        </div>
 	        			
-	        <div class="h3_layout mb0 mt2">&#9642;Life diagnosis　<img src="./assets/img/prediction/icon_free.gif" alt="A free trial version"></div>
-	        <p class="c-text mt1">Parts service life data is displayed in a dedicated window.<br>A warning icon is shown in the alarm field of the parts recommended for replacement.</p>
+	        <div class="h3_layout mb0 mt2">&#9642;Diagnosa kehidupan　<img src="./assets/img/prediction/icon_free.gif" alt="A free trial version"></div>
+			<p class="c-text mt1">Data masa pakai suku cadang ditampilkan di jendela khusus.<br>Ikon peringatan ditampilkan di bidang alarm suku cadang yang direkomendasikan untuk penggantian.</p>
 	        <div class="c-imgAuto"><img src="./assets/img/prediction/FRconfig_2.png" alt="Life diagnosis" decoding="async"></div>
 			
 		<div class="got_layout">
-	        <div class="h3_layout_short "><span>Extra functionality when<br> paired with a GOT</span></div>
+			<div class="h3_layout_short "><span>Fungsionalitas tambahan saat<br> dipasangkan dengan GOT</span></div>
 	            <div class="fa-column fa-column-reverse">
 	                <div class="fa-column_item fa-column_item-media">
 	                    <div class="fa-column_item_image left"><img src="./assets/img/prediction/FRconfig_3.png" alt="Extra functionality when paired with a GOT"></div>
 	                </div>
 	            <div class="fa-column_item">
-	             <div class="h3_layout">Check the inverter's service life without taking it out of its <br>enclosure</div>
-	                <p class="fa-text">By connecting a computer to the USB port on the front panel of the GOT, the <br>service life of multiple inverters can be checked using FR Configurator2 via the GOT.</p>
-	            </div>
+					<div class="h3_layout">Periksa masa pakai inverter tanpa mengeluarkannya dari <br>penutupnya</div>
+					<p class="fa-text">Dengan menghubungkan komputer ke port USB di panel depan GOT, <br>masa pakai beberapa inverter dapat diperiksa menggunakan FR Configurator2 melalui GOT.</p>
+				</div>
 	        </div>
         </div>			
         </section>

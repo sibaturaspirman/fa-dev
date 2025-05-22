@@ -20,15 +20,15 @@
             "path": "/id_id/products/drv/inv/pmerit/prevention/index.html"
             },
             {
-            "name": "Predictive maintenance",
+            "name": "Pemeliharaan prediktif",
             "path": "/id_id/products/drv/inv/pmerit/prevention/prediction.html"
             },
             {
-            "name": "Preventive maintenance",
+            "name": "Pemeliharaan preventif",
             "path": "/id_id/products/drv/inv/pmerit/prevention/prevention.html"
             },
             {
-            "name": "Breakdown maintenance",
+            "name": "Perawatan kerusakan",
             "path": "/id_id/products/drv/inv/pmerit/prevention/breakdown.html"
             }
         ]
