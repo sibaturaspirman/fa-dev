@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Kontroler<br>yang dapat Diprogram<br>MELSEC",
+            "name": "Programmable<br>Controllers<br>MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
@@ -63,7 +63,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul CPU",
+				"name": "CPU module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/cpu/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=CPU%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module",
@@ -71,7 +71,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul I/O",
+				"name": "I/O module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/io/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Input/Output%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module",

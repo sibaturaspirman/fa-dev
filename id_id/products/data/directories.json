@@ -56,7 +56,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Kontroler yang Dapat Diprogram MELSEC",
+            "name": "Programmable Controllers MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
@@ -98,7 +98,7 @@
             "path": "https://www.mitsubishielectric.com/fa/id_id/products/cnt/sac/index.html"
           },
           {
-            "name": "Pengontrol Motion",
+            "name": "Motion Controllers",
             "path": "/id_id/products/cnt/ssc/index.html"
           }
         ]

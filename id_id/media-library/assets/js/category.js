@@ -56,7 +56,7 @@
   }
   var mediaLibraryi18n = {
     'すべて': 'All',
-    'シーケンサ MELSEC':'Kontroler yang Dapat Diprogram MELSEC',
+    'シーケンサ MELSEC':'Programmable Controllers MELSEC',
     'サーボシステムコントローラ':'Motion Controllers',
     '数値制御装置(CNC)':'CNC',
     'FAセンサ MELSENSOR':'FA Sensor MELSENSOR',
