@@ -191,6 +191,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     'inv': '/id_en/products/drv/inv/',
     'i_motor': '/id_en/products/drv/i_motor/',
     'gear': '/id_en/products/drv/gear/',
+    'induction': '/id_en/products/drv/induction/',
     'clutch': '/id_en/products/drv/clutch/',
     'tencon': '/id_en/products/drv/tencon/',
     'got': '/id_en/products/hmi/got/',
