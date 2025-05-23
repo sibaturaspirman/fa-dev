@@ -79,7 +79,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Kontrol Analog/Suhu",
+        "name": "Analog/Temperature Control",
         "feature": "/id_id/products/cnt/plcl/pmerit/analog/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Analog&search=B&word=Analog",
@@ -87,7 +87,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Gerakan Sederhana/Posisi",
+        "name": "Simple Motion/Positioning",
         "feature": "/id_id/products/cnt/plcl/pmerit/motion/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
@@ -95,7 +95,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "I/O Fleksibel/Penghitung Kecepatan Tinggi",
+        "name": "Flexible I/O/High-Speed Counter",
         "feature": "/id_id/products/cnt/plcl/pmerit/counter/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=High-speed%20counter/flexible%20I/O&search=B&word=High-speed%20counter/flexible%20I/O",
