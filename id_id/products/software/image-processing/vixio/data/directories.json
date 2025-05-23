@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat lunak pengolahan gambar",
+            "name": "Image processing software",
             "path": "/id_id/products/software/image-processing/index.html",
             "child": [
               {
-                "name": "Perangkat Lunak Inspeksi Visual MELSOFT VIXIO",
+                "name": "Visual Inspection Software MELSOFT VIXIO",
                 "path": "/id_id/products/software/image-processing/vixio/index.html"
               },
               {
@@ -39,7 +39,7 @@
   },
 
   "switchNav": {
-    "name": "Perangkat lunak pengolahan gambar",
+    "name": "Image processing software",
     "path": "/id_id/products/software/image-processing/index.html",
     "child": [
       {

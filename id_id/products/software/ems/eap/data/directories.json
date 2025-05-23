@@ -38,7 +38,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat Lunak Dukungan Penghematan Energi",
+            "name": "Energy Saving Support Software",
             "path": "/id_id/products/software/ems/index.html",
             "child": [
               {
@@ -52,7 +52,7 @@
     ]
   },
   "switchNav": {
-    "name": "Perangkat Lunak Dukungan Penghematan Energi",
+    "name": "Energy Saving Support Software",
     "path": "/id_id/products/software/ems/index.html",
     "child": [
       {

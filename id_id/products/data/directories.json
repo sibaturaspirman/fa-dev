@@ -288,7 +288,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Visualisasi Perangkat Lunak",
+            "name": "Visualization software",
             "path": "/id_id/products/software/visualisation/index.html"
           },
           {
@@ -304,15 +304,15 @@
             "path": "/id_id/products/software/data-science-tools/index.html"
           },
           {
-            "name": "Perangkat lunak komunikasi data",
+            "name": "Data communication software",
             "path": "https://www.mitsubishielectric.com/fa/products/software/data-sharing-software/index.html"
           },
           {
-            "name": "Perangkat Lunak Pendukung Hemat Energi",
+            "name": "Energy Saving Support Software",
             "path": "/id_id/products/software/ems/index.html"
           },
           {
-            "name": "Perangkat Lunak Pengolahan Visual",
+            "name": "Image Processing Software",
             "path": "/id_id/products/software/image-processing/index.html"
           }
         ]
