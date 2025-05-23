@@ -12,11 +12,11 @@
             "path": "/id_id/products/pmng/ems/index.html",
 			"child": [
 				{
-					"name": "Unit Pengukuran Energi",
+					"name": "Energy Measuring Units",
 					"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 				},
 				{
-					"name": "Server Pengumpulan Data Hemat Energi",
+					"name": "Energy Saving Data Collecting Servers",
 					"path": "/id_id/products/pmng/ems/items/ecoserver/index.html"
 				},
 				{
@@ -45,7 +45,7 @@
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorPlus",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorPlus",
 		"return": {
-			"name": "Unit Pengukuran Energi",
+			"name": "Energy Measuring Units",
 			"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 		}
       },
@@ -57,19 +57,19 @@
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorLight",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorLight",
 		"return": {
-			"name": "Unit Pengukuran Energi",
+			"name": "Energy Measuring Units",
 			"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 		}
       },
       {
         "group": "Energy Saving Data Collecting Servers",
-        "name": "Server Pengumpulan Data Hemat Energi",
+        "name": "Energy Saving Data Collecting Servers",
         "feature": "/id_id/products/pmng/ems/pmerit/ecoserver/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/ems&radio=Energy Saving Data Collecting Server&search=B&word=Energy Saving Data Collecting Server&current=MES3",
         "discon": "",
 		"return": {
-			"name": "Server Pengumpulan Data Hemat Energi",
+			"name": "Energy Saving Data Collecting Servers",
 			"path": "/id_id/products/pmng/ems/items/ecoserver/index.html"
 		}
       }
