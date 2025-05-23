@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Pemutus Sirkuit Tegangan Rendah",
+            "name": "Low-voltage Circuit Breakers",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Aksesori dan Komponen Terkait",
+					"name": "Accessories and Related Components",
 					"path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Aksesori dan Komponen Terkait",
+    "name": "Accessories and Related Components",
     "path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html",
     "firstLayer": [
       {
@@ -36,18 +36,18 @@
     ]
   },
 "switchNav": {
-	"name": "Aksesori dan Komponen Terkait",
+	"name": "Accessories and Related Components",
 	"path": "/id_id/products/lvd/lvcb/items/acc/index.html",
 	"child": [
 		{
 			"group": "Accessories and Related Components",
-			"name": "Aksesori dan Komponen Terkait",
+			"name": "Accessories and Related Components",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/acc/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ACC",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ACC",
 			"discon": "",
             "return": {
-                "name": "Aksesori dan Komponen Terkait",
+                "name": "Accessories and Related Components",
                 "path": "/id_id/products/lvd/lvcb/items/acc/index.html"
 			}
 		}

@@ -8,19 +8,19 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Pemutus Sirkuit Tegangan Rendah",
+            "name": "Low-voltage Circuit Breakers",
             "path": "/id_id/products/lvd/lvcb/index.html"
           },
           {
-            "name": "Kontaktor dan Starter Motor",
+            "name": "Contactors and Motor Starters",
             "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
           },
           {
-            "name": "Pengukur Manajemen Daya",
+            "name": "Power Management Meters",
             "path": "/id_id/products/pmng/pmd/index.html",
             "child": [
 				{
-					"name": "Indikator Listrik",
+					"name": "Electrical Indicators",
 					"path": "/id_id/products/pmng/pmd/items/eim/index.html"
 				}
             ]
@@ -30,18 +30,18 @@
     ]
   },
 "switchNav": {
-	"name": "Pengukur Manajemen Daya",
+	"name": "Power Management Meters",
 	"path": "/id_id/products/pmng/pmd/index.html",
 	"child": [
 		{
         "group": "Electrical Indicators",
-        "name": "Alat Ukur Elektronik Multiguna (Seri ME96)",
+        "name": "Electronic Multi Measuring Instruments (ME96 Series)",
         "feature": "/id_id/products/pmng/pmd/pmerit/eim/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
 		"return": {
-			"name": "Indikator Listrik",
+			"name": "Electrical Indicators",
 			"path": "/id_id/products/pmng/pmd/items/eim/index.html"
 		}
 		}

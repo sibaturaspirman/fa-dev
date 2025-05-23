@@ -8,39 +8,39 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Kontroler<br>yang dapat Diprogram<br>MELSEC",
+            "name": "Programmable<br>Controllers<br>MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
-                "name": "Seri MELSEC iQ-R",
+                "name": "MELSEC iQ-R Series",
                 "path": "/id_id/products/cnt/plcr/items/index.html"
               },
               {
-                "name": "Seri MELSEC iQ-F",
+                "name": "MELSEC iQ-F Series",
                 "path": "/id_id/products/cnt/plcf/items/index.html"
               },
               {
-                "name": "Seri MELSEC-Q",
+                "name": "MELSEC-Q Series",
                 "path": "/id_id/products/cnt/plcq/items/index.html"
               },
               {
-                "name": "Seri MELSEC-L",
+                "name": "MELSEC-L Series",
                 "path": "/id_id/products/cnt/plcl/items/index.html"
               },
               {
-                "name": "Seri MELSEC-F",
+                "name": "MELSEC-F Series",
                 "path": "/id_id/products/cnt/plc_fx/items/index.html"
               },
               {
-                "name": "Seri MELSEC-QS/WS",
+                "name": "MELSEC-QS/WS Series",
                 "path": "/id_id/products/cnt/plcqsws/items/index.html"
               },
               {
-                "name": "Seri MELSEC-A",
+                "name": "MELSEC-A Series",
                 "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
               },
               {
-                "name": "Produk terkait jaringan",
+                "name": "Network-related products",
                 "path": "/id_id/products/cnt/plcnet/items/index.html"
               }
             ]
@@ -50,7 +50,7 @@
     ]
   },
   "switchNav": {
-    "name": "Seri MELSEC iQ-R",
+    "name": "MELSEC iQ-R Series",
     "path": "/id_id/products/cnt/plcr/items/index.html",
     "child": [
       {
@@ -90,7 +90,7 @@
         },
         {
         "group": "LP3-1",
-        "name": "Sistem Perekam",
+        "name": "System recorder",
         "feature": "/id_id/products/cnt/plcr/pmerit/sysrecorder/index.html",
         "spec": "",
         "standard": "",
@@ -138,7 +138,7 @@
         },
         {
         "group": "LP3-1",
-        "name": "Modul masukan suhu, Modul kontrol suhu",
+        "name": "Temperature input module, Temperature control module",
         "feature": "/id_id/products/cnt/plcr/pmerit/temp/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Analog&search=B&word=Analog",
@@ -154,7 +154,7 @@
         },
         {
         "group": "LP3-1",
-        "name": "Penghitung kecepatan tinggi, Input pulsa terisolasi saluran, Kontrol I/O kecepatan tinggi yang fleksibel",
+        "name": "High-speed counter, Channel isolated pulse input, Flexible high-speed I/O control",
         "feature": "/id_id/products/cnt/plcr/pmerit/high-speed/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=High-speed%20counter/pulse%20input/flexible%20I/O&search=B&word=High-speed%20counter/pulse%20input/flexible%20I/O",

@@ -4,15 +4,15 @@
 		"path": "/id_id/solutions/competencies/process/index.html",
 		"firstLayer": [
 			{
-				"name": "Modul CPU Proses, modul CPU Proses SIL2, Modul fungsi redundan",
+				"name": "Process CPU module, SIL2 process CPU module, Redundant function module",
 				"path": "/id_id/solutions/competencies/process/features/index.html"
 			},
 			{
-				"name": "Modul fungsional untuk kontrol proses",
+				"name": "Functional modules for process control",
 				"path": "/id_id/solutions/competencies/process/features/process_control_unit.html"
 			},
 			{
-				"name": "Modul jaringan",
+				"name": "Network module",
 				"path": "/id_id/solutions/competencies/process/features/network_unit.html"
 			}
 		]

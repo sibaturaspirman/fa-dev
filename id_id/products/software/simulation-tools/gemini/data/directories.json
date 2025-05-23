@@ -8,7 +8,7 @@
 			"path": "/id_id/products/index.html",
 			"child": [
 			  {
-				"name": "Alat simulasi",
+				"name": "Simulation tools",
 				"path": "/id_id/products/software/simulation-tools/index.html",
 				"child": [
 				  {
@@ -26,7 +26,7 @@
 		]
   },
   "switchNav": {
-    "name": "Alat simulasi",
+    "name": "Simulation tools",
     "path": "/id_id/products/software/simulation-tools/index.html",
     "child": [
       {
@@ -48,7 +48,7 @@
     ]
   },
   "layerNav": {
-    "name": "Alat simulasi",
+    "name": "Simulation tools",
     "path": "/id_id/products/software/simulation-tools/gemini/index.html",
     "firstLayer": [
       {

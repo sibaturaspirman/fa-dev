@@ -1,6 +1,6 @@
 {
 	"layerNav": {
-		"name": "Kontrol Analog/Suhu",
+		"name": "Analog/Temperature Control",
 		"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html",
 		"firstLayer": [
 			{
@@ -8,11 +8,11 @@
 				"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html"
 			},
 			{
-				"name": "Fitur Modul Analog",
+				"name": "Fitur Analog Module",
 				"path": "/id_id/products/cnt/plcl/pmerit/analog/point.html"
 			},
 			{
-				"name": "Fitur Modul Kontrol Suhu",
+				"name": "Fitur Temperature Control Module",
 				"path": "/id_id/products/cnt/plcl/pmerit/analog/tc_point.html"
 			}
 		]

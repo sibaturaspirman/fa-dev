@@ -1,10 +1,10 @@
 {
   "layerNav": {
-    "name": "Seri MELSEC-F",
+    "name": "MELSEC-F Series",
     "path": "/id_id/products/cnt/plc_fx/items/index.html",
     "firstLayer": [
       {
-        "name": "Jaringan/Komunikasi",
+        "name": "Network/Communication",
         "path": "/id_id/products/cnt/plc_fx/pmerit/contents/communication/index.html"
       },
       {

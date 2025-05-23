@@ -1,6 +1,6 @@
 {
 	"layerNav": {
-		"name": "Seri MELSEC-L",
+		"name": "MELSEC-L Series",
 		"path": "/id_id/products/cnt/plcl/pmerit/concept/index.html",
 		"firstLayer": [
 			{
@@ -16,15 +16,15 @@
 				"path": "/id_id/products/cnt/plcl/pmerit/io/index.html"
 			},
 			{
-				"name": "Kontrol Analog/Suhu",
+				"name": "Analog/Temperature Control",
 				"path": "/id_id/products/cnt/plcl/pmerit/analog/index.html"
 			},
 			{
-				"name": "Gerakan Sederhana/Posisi",
+				"name": "Simple Motion/Positioning",
 				"path": "/id_id/products/cnt/plcl/pmerit/motion/index.html"
 			},
 			{
-				"name": "I/O Fleksibel/Penghitung Kecepatan Tinggi",
+				"name": "Flexible I/O/High-Speed Counter",
 				"path": "/id_id/products/cnt/plcl/pmerit/counter/index.html"
 			},
 			{

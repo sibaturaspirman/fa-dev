@@ -16,23 +16,23 @@
             "path": "/id_id/products/cnt/cnc/items/cnc/index.html"
           },
           {
-            "name": "Unit Penggerak",
+            "name": "Drive Units",
             "path": "/id_id/products/cnt/cnc/items/unit/index.html"
           },
           {
-            "name": "Motor Servo",
+            "name": "Servo Motors",
             "path": "/id_id/products/cnt/cnc/items/servo/index.html"
           },
           {
-            "name": "Motor Spindel",
+            "name": "Spindle Motors",
             "path": "/id_id/products/cnt/cnc/items/spindle/index.html"
           },
           {
-            "name": "Alat Perangkat Lunak",
+            "name": "Software Tools",
             "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
           },
           {
-            "name": "Produk Terkait IoT",
+            "name": "IoT-related Products",
             "path": "/id_id/products/cnt/cnc/items/iot/index.html"
           }
         ]
@@ -45,7 +45,7 @@
     "child": [
       {
         "group": "CNC",
-        "name": "Seri M800V/M80V",
+        "name": "M800V/M80V Series",
         "feature": "/id_id/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/cnc&current=M800V/M80V Series",
         "standard": "",
@@ -57,7 +57,7 @@
       },
       {
         "group": "CNC",
-        "name": "Seri M800/M80",
+        "name": "M800/M80 Series",
         "feature": "/id_id/products/cnt/cnc/pmerit/cnc/m800_m80/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/cnc&current=M800/M80 Series",
         "standard": "",
@@ -69,7 +69,7 @@
       },
       {
         "group": "CNC",
-        "name": "Seri E80",
+        "name": "E80 Series",
         "feature": "/id_id/products/cnt/cnc/pmerit/cnc/e80/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/cnc&current=E80 Series",
         "standard": "",
@@ -81,7 +81,7 @@
       },
       {
         "group": "CNC",
-        "name": "Seri C80",
+        "name": "C80 Series",
         "feature": "/id_id/products/cnt/cnc/pmerit/cnc/c80/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/cnc&current=C80 Series",
         "standard": "",
@@ -93,61 +93,61 @@
       },
       {
         "group": "Drive Units",
-        "name": "Unit Penggerak",
+        "name": "Drive Units",
         "feature": "/id_id/products/cnt/cnc/pmerit/unit/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Unit Penggerak",
+          "name": "Drive Units",
           "path": "/id_id/products/cnt/cnc/items/unit/index.html"
         }
       },
       {
         "group": "Servo Motors",
-        "name": "Motor Servo",
+        "name": "Servo Motors",
         "feature": "/id_id/products/cnt/cnc/pmerit/servo/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Motor Servo",
+          "name": "Servo Motors",
           "path": "/id_id/products/cnt/cnc/items/servo/index.html"
         }
       },
       {
         "group": "Spindle Motors",
-        "name": "Motor Spindel",
+        "name": "Spindle Motors",
         "feature": "/id_id/products/cnt/cnc/pmerit/spindle/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Motor Spindel",
+          "name": "Spindle Motors",
           "path": "/id_id/products/cnt/cnc/items/spindle/index.html"
         }
       },
       {
         "group": "IoT-related Products",
-        "name": "Simulator Virtual NC",
+        "name": "NC Virtual Simulator",
         "feature": "/id_id/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Produk Terkait IoT",
+          "name": "IoT-related Products",
           "path": "/id_id/products/cnt/cnc/items/iot/index.html"
         }
       },
       {
         "group": "IoT-related Products",
-        "name": "Pengoptimal Alat Mesin NC",
+        "name": "NC Machine Tool Optimizer",
         "feature": "/id_id/products/cnt/cnc/pmerit/iot/nmt_optimizer/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Produk Terkait IoT",
+          "name": "IoT-related Products",
           "path": "/id_id/products/cnt/cnc/items/iot/index.html"
         }
       },
@@ -159,7 +159,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
@@ -171,7 +171,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
@@ -183,7 +183,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
@@ -195,7 +195,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
@@ -207,7 +207,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
@@ -219,7 +219,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
@@ -231,19 +231,19 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },
       {
         "group": "Software Tools",
-        "name": "Alat Pemantau Jarak Jauh (C70)",
+        "name": "Remote Monitor Tool (C70)",
         "feature": "/id_id/products/cnt/cnc/smerit/remote_monitor/index.html",
         "spec": "",
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Alat Perangkat Lunak",
+          "name": "Software Tools",
           "path": "/id_id/products/cnt/cnc/items/cnctool/index.html"
         }
       },

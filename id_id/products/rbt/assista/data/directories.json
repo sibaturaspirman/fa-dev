@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Robot Kolaboratif ASSISTA",
+            "name": "Collaborative Robot-ASSISTA",
             "path": "/id_id/products/rbt/assista/index.html",
             "child": [
               {
@@ -16,7 +16,7 @@
                 "path": "/id_id/products/rbt/assista/items/assista/index.html"
               },
               {
-                "name": "Pilihan Cerdas",
+                "name": "Intelligent Options",
                 "path": "/id_id/products/rbt/assista/items/option/index.html"
               }
             ]
@@ -31,25 +31,25 @@
     "child": [
       {
         "group": "Collaborative Robot",
-        "name": "Robot Kolaboratif MELFA ASSISTA",
+        "name": "Collaborative Robot MELFA ASSISTA",
         "feature": "/id_id/products/rbt/assista/pmerit/assista/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "/id_id/products/rbt/robot/ex/renew/close/index.html",
           "return": {
-          "name": "Robot Kolaboratif MELFA ASSISTA",
+          "name": "Collaborative Robot MELFA ASSISTA",
           "path": "/id_id/products/rbt/assista/items/assista/index.html"
         }
       },
       {
         "group": "Collaborative Robot",
-         "name": "Pilihan Cerdas",
+         "name": "Intelligent Options",
         "feature": "/id_id/products/rbt/assista/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
           "return": {
-          "name": "Pilihan Cerdas",
+          "name": "Intelligent Options",
           "path": "/id_id/products/rbt/assista/items/option/index.html"
   	    }
       },
@@ -61,7 +61,7 @@
         "standard": "",
         "discon": "",
           "return": {
-          "name": "Perangkat Lunak Rekayasa Robot (MELFA)",
+          "name": "Robot engineering software (MELFA)",
           "path": "/id_id/products/software/robot/index.html"
   	    }
       }

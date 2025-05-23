@@ -8,39 +8,39 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Kontroler<br>yang dapat Diprogram<br>MELSEC",
+            "name": "Programmable<br>Controllers<br>MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
-                "name": "Seri MELSEC iQ-R",
+                "name": "MELSEC iQ-R Series",
                 "path": "/id_id/products/cnt/plcr/items/index.html"
               },
               {
-                "name": "Seri MELSEC iQ-F",
+                "name": "MELSEC iQ-F Series",
                 "path": "/id_id/products/cnt/plcf/items/index.html"
               },
               {
-                "name": "Seri MELSEC-Q",
+                "name": "MELSEC-Q Series",
                 "path": "/id_id/products/cnt/plcq/items/index.html"
               },
               {
-                "name": "Seri MELSEC-L",
+                "name": "MELSEC-L Series",
                 "path": "/id_id/products/cnt/plcl/items/index.html"
               },
               {
-                "name": "Seri MELSEC-F",
+                "name": "MELSEC-F Series",
                 "path": "/id_id/products/cnt/plc_fx/items/index.html"
               },
               {
-                "name": "Seri MELSEC-QS/WS",
+                "name": "MELSEC-QS/WS Series",
                 "path": "/id_id/products/cnt/plcqsws/items/index.html"
               },
               {
-                "name": "Seri MELSEC-A",
+                "name": "MELSEC-A Series",
                 "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
               },
               {
-                "name": "Produk terkait jaringan",
+                "name": "Network-related products",
                 "path": "/id_id/products/cnt/plcnet/items/index.html"
               }
             ]
@@ -50,7 +50,7 @@
     ]
   },
   "switchNav": {
-    "name": "Seri MELSEC-Q",
+    "name": "MELSEC-Q Series",
     "path": "/id_id/products/cnt/plcq/items/index.html",
     "child": [
       {
@@ -95,7 +95,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Gerakan sederhana, Penempatan",
+        "name": "Simple motion, Positioning",
         "feature": "/id_id/products/cnt/plcq/pmerit/motion/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
@@ -103,7 +103,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Penghitung kecepatan tinggi, Input pulsa",
+        "name": "High-speed counter, Pulse input",
         "feature": "/id_id/products/cnt/plcq/pmerit/counter/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input",
@@ -111,7 +111,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Pengukuran energi, Pemantauan isolasi",
+        "name": "Energy measuring, Insulation monitoring",
         "feature": "/id_id/products/cnt/plcq/pmerit/energy/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring",

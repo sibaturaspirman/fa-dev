@@ -46,7 +46,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Komputer Industri MELIPC",
+            "name": "Industrial Computer MELIPC",
             "path": "/id_id/products/edge/melipc/index.html"
           }
         ]
@@ -56,49 +56,49 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Kontroler yang Dapat Diprogram MELSEC",
+            "name": "Programmable Controllers MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
-                "name": "Seri MELSEC iQ-R",
+                "name": "MELSEC iQ-R Series",
                 "path": "/id_id/products/cnt/plcr/items/index.html"
               },
               {
-                "name": "Seri MELSEC iQ-F",
+                "name": "MELSEC iQ-F Series",
                 "path": "/id_id/products/cnt/plcf/items/index.html"
               },
               {
-                "name": "Seri MELSEC-Q",
+                "name": "MELSEC-Q Series",
                 "path": "/id_id/products/cnt/plcq/items/index.html"
               },
               {
-                "name": "Seri MELSEC-L",
+                "name": "MELSEC-L Series",
                 "path": "/id_id/products/cnt/plcl/items/index.html"
               },
               {
-                "name": "Seri MELSEC-F",
+                "name": "MELSEC-F Series",
                 "path": "/id_id/products/cnt/plc_fx/items/index.html"
               },
               {
-                "name": "Seri MELSEC-QS/WS",
+                "name": "MELSEC-QS/WS Series",
                 "path": "/id_id/products/cnt/plcqsws/items/index.html"
               },
               {
-                "name": "Seri MELSEC-A",
+                "name": "MELSEC-A Series",
                 "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
               },
               {
-                "name": "Produk terkait jaringan",
+                "name": "Network-related products",
                 "path": "/id_id/products/cnt/plcnet/items/index.html"
               }
             ]
           },
           {
-            "name": "Pengontrol Aplikasi Sederhana",
+            "name": "Simple Application Controllers",
             "path": "https://www.mitsubishielectric.com/fa/id_id/products/cnt/sac/index.html"
           },
           {
-            "name": "Pengontrol Motion",
+            "name": "Motion Controllers",
             "path": "/id_id/products/cnt/ssc/index.html"
           }
         ]
@@ -136,7 +136,7 @@
             "path": "https://www.mitsubishielectric.com/fa/products/drv/inv/index.html"
           },
           {
-            "name": "Gear Motor",
+            "name": "Geared Motors",
             "path": "/id_id/products/drv/gear/index.html"
           }
         ]
@@ -156,11 +156,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Robot Industri-MELFA",
+            "name": "Industrial Robots-MELFA",
             "path": "/id_id/products/rbt/robot/index.html"
           },
           {
-            "name": "Robot Kolaboratif-ASSISTA",
+            "name": "Collaborative Robot-ASSISTA",
             "path": "/id_id/products/rbt/assista/index.html"
           }
         ]
@@ -170,15 +170,15 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Pemutus Sirkuit Tegangan Rendah",
+            "name": "Low-voltage Circuit Breakers",
             "path": "/id_id/products/lvd/lvcb/index.html"
           },
           {
-            "name": "Kontaktor dan Starter Motor",
+            "name": "Contactors and Motor Starters",
             "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
           },
           {
-            "name": "Pengukur Manajemen Daya",
+            "name": "Power Management Meters",
             "path": "/id_id/products/pmng/pmd/index.html"
           }
         ]
@@ -198,7 +198,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat Pendukung Penghematan Energi",
+            "name": "Energy Saving Supporting Devices",
             "path": "/id_id/products/pmng/ems/index.html"
           }
         ]
@@ -208,7 +208,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Mesin Pemroses Laser",
+            "name": "Laser Processing Machines",
             "path": "/id_id/products/mecha/laser/index.html"
           }
         ]
@@ -218,7 +218,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Mesin Pelepasan Listrik",
+            "name": "Electrical Discharge Machines",
             "path": "/id_id/products/mecha/edm/index.html"
           }
         ]
@@ -228,7 +228,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Mesin Berkas Elektron",
+            "name": "Electron Beam Machines",
             "path": "/id_id/products/mecha/ebm/index.html"
           }
         ]
@@ -288,31 +288,31 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Visualisasi Perangkat Lunak",
+            "name": "Visualization software",
             "path": "/id_id/products/software/visualisation/index.html"
           },
           {
-            "name": "Pengaksesan Jarak Jauh",
+            "name": "Remote access",
             "path": "/id_id/products/software/remote-accesses/index.html"
           },
           {
-            "name": "Perangkat Simulasi",
+            "name": "Simulation tools",
             "path": "/id_id/products/software/simulation-tools/index.html"
           },
           {
-            "name": "Perangkat Analisis Data",
+            "name": "Data science tools",
             "path": "/id_id/products/software/data-science-tools/index.html"
           },
           {
-            "name": "Perangkat lunak komunikasi data",
+            "name": "Data communication software",
             "path": "https://www.mitsubishielectric.com/fa/products/software/data-sharing-software/index.html"
           },
           {
-            "name": "Perangkat Lunak Pendukung Hemat Energi",
+            "name": "Energy Saving Support Software",
             "path": "/id_id/products/software/ems/index.html"
           },
           {
-            "name": "Perangkat Lunak Pengolahan Visual",
+            "name": "Image Processing Software",
             "path": "/id_id/products/software/image-processing/index.html"
           }
         ]
@@ -322,35 +322,35 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat lunak rekayasa terintegrasi",
+            "name": "Integrated engineering software",
             "path": "https://www.mitsubishielectric.com/fa/sols/efactory/sft/index.html"
           },
           {
-            "name": "Perangkat lunak rekayasa PLC (MELSEC)",
+            "name": "PLC engineering software (MELSEC)",
             "path": "/id_id/products/software/plc/index.html"
           },
           {
-            "name": "Perangkat lunak rekayasa pengontrol gerak",
+            "name": "Motion Controller engineering software",
             "path": "/id_id/products/software/ssc/index.html"
           },
           {
-            "name": "Perangkat lunak rekayasa AC Servo (MELSERVO)",
+            "name": "AC Servo engineering software (MELSERVO)",
             "path": "/id_id/products/software/servo/index.html"
           },
           {
-            "name": "Perangkat lunak rekayasa inverter (FREQROL)",
+            "name": "Inverter engineering software (FREQROL)",
             "path": "/id_id/products/software/inv/index.html"
           },
           {
-            "name": "Perangkat lunak rekayasa HMI (GOT)",
+            "name": "HMI engineering software (GOT)",
             "path": "/id_id/products/software/got/index.html"
           },
           {
-            "name": "Perangkat lunak rekayasa robot (MELFA)",
+            "name": "Robot engineering software (MELFA)",
             "path": "/id_id/products/software/robot/index.html"
           },
           {
-            "name": "Alat Perangkat Lunak NC",
+            "name": "NC Software Tools",
             "path": "/id_id/products/software/cnc/index.html"
           }
         ]

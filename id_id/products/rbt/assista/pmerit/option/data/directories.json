@@ -1,14 +1,14 @@
 {
   "layerNav": {
-    "name": "Pilihan Cerdas",
+    "name": "Intelligent Options",
     "path": "/id_id/products/rbt/assista/items/option/index.html",
     "firstLayer": [
       {
-        "name": "Kotak pengajaran berkinerja tinggi",
+        "name": "High-performance teaching box",
         "path": "/id_id/products/rbt/assista/pmerit/option/index.html"
       },
       {
-        "name": "Set sensor gaya",
+        "name": "Force sensor set",
         "path": "/id_id/products/rbt/assista/pmerit/option/forcesensor/index.html"
       },
       {

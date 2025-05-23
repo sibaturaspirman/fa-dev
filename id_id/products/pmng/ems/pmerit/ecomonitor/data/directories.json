@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat Pendukung Penghematan Energi",
+            "name": "Energy Saving Supporting Devices",
             "path": "/id_id/products/pmng/ems/index.html",
 			"child": [
 				{
-					"name": "Unit Pengukuran Energi",
+					"name": "Energy Measuring Units",
 					"path": "/id_id/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
 					"child": [
 					{
@@ -54,7 +54,7 @@
     ]
   },
  "switchNav": {
-    "name": "Perangkat Pendukung Penghematan Energi",
+    "name": "Energy Saving Supporting Devices",
     "path": "/id_id/products/pmng/ems/index.html",
     "child": [
       {
@@ -65,7 +65,7 @@
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorPlus",
         "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorPlus",
 		"return": {
-			"name": "Unit Pengukuran Energi",
+			"name": "Energy Measuring Units",
 			"path": "/id_id/products/pmng/ems/items/ecomonitor/index.html"
 		}
       }

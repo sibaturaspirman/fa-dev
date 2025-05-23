@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Seri MELSEC iQ-R",
+		"name": "MELSEC iQ-R Series",
 		"url": "/id_id/products/cnt/plcr/items/index.html",
 		"number": "01",
 		"target": "_self"
 	},
 	{
-		"name": "Seri MELSEC iQ-F",
+		"name": "MELSEC iQ-F Series",
 		"url": "/id_id/products/cnt/plcf/items/index.html",
 		"number": "02",
 		"target": "_self"
@@ -102,19 +102,19 @@
 		"target": "_self"
 	},
 	{
-		"name": "Sistem Perekam",
+		"name": "System recorder",
 		"url": "/id_id/products/cnt/plcr/pmerit/sysrecorder/index.html",
 		"number": "18",
 		"target": "_self"
 	},
 	{
-		"name": "Pengoptimal Alat Mesin NC",
+		"name": "NC Machine Tool Optimizer",
 		"url": "/id_id/products/cnt/cnc/pmerit/iot/nmt_optimizer/index.html",
 		"number": "19",
 		"target": "_self"
 	},
 	{
-		"name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
+		"name": "Energy Saving Support Software EcoAdviser",
 		"url": "/id_id/products/software/ems/eap/index.html",
 		"number": "20",
 		"target": "_self"

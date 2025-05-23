@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Komputer Industri MELIPC",
+            "name": "Industrial Computer MELIPC",
             "path": "/id_id/products/edge/melipc/index.html",
             "child": [
                 {
@@ -34,7 +34,7 @@
     ]
   },
   "switchNav": {
-    "name": "Komputer Industri MELIPC",
+    "name": "Industrial Computer MELIPC",
     "path": "/id_id/products/edge/melipc/index.html",
     "child": [
       {

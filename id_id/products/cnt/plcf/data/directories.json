@@ -8,39 +8,39 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Kontroler<br>yang dapat Diprogram<br>MELSEC",
+            "name": "Programmable<br>Controllers<br>MELSEC",
             "path": "/id_id/products/cnt/plc/index.html",
             "child": [
               {
-                "name": "Seri MELSEC iQ-R",
+                "name": "MELSEC iQ-R Series",
                 "path": "/id_id/products/cnt/plcr/items/index.html"
               },
               {
-                "name": "Seri MELSEC iQ-F",
+                "name": "MELSEC iQ-F Series",
                 "path": "/id_id/products/cnt/plcf/items/index.html"
               },
               {
-                "name": "Seri MELSEC-Q",
+                "name": "MELSEC-Q Series",
                 "path": "/id_id/products/cnt/plcq/items/index.html"
               },
               {
-                "name": "Seri MELSEC-L",
+                "name": "MELSEC-L Series",
                 "path": "/id_id/products/cnt/plcl/items/index.html"
               },
               {
-                "name": "Seri MELSEC-F",
+                "name": "MELSEC-F Series",
                 "path": "/id_id/products/cnt/plc_fx/items/index.html"
               },
               {
-                "name": "Seri MELSEC-QS/WS",
+                "name": "MELSEC-QS/WS Series",
                 "path": "/id_id/products/cnt/plcqsws/items/index.html"
               },
               {
-                "name": "Seri MELSEC-A",
+                "name": "MELSEC-A Series",
                 "path": "/id_id/products/cnt/plca/pmerit/concept/index.html"
               },
               {
-                "name": "Produk terkait jaringan",
+                "name": "Network-related products",
                 "path": "/id_id/products/cnt/plcnet/items/index.html"
               }
             ]
@@ -50,7 +50,7 @@
     ]
   },
 	"switchNav": {
-		"name": "Seri MELSEC iQ-F",
+		"name": "MELSEC iQ-F Series",
 		"path": "/id_id/products/cnt/plcf/items/index.html",
 		"child": [
 			{
@@ -63,7 +63,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul CPU",
+				"name": "CPU module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/cpu/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=CPU%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=CPU%20Module&search=B&word=CPU%20Module",
@@ -71,7 +71,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul I/O",
+				"name": "I/O module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/io/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Input/Output%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Input/Output%20Module&search=B&word=Input/Output%20Module",
@@ -79,7 +79,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul Kontrol Analog",
+				"name": "Analog Control module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/analog/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Analog%20I/O%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Analog%20I/O%20Module&search=B&word=Analog%20I/O%20Module",
@@ -87,7 +87,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul Penghitungan Kecepatan Tinggi",
+				"name": "High-Speed Counting module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/hc/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=High-speed%20counter%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=High-speed%20counter%20Module&search=B&word=High-speed%20counter%20Module",
@@ -95,7 +95,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul Kontrol Gerakan/Posisi",
+				"name": "Motion/Positioning Control module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/positioning/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Motion/Positioning%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Motion/Positioning%20Module&search=B&word=Motion/Positioning%20Module",
@@ -103,7 +103,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul Jaringan/Komunikasi",
+				"name": "Network/Communication module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/communication/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Network/Communication%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Network/Communication%20Module&search=B&word=Network/Communication%20Module",
@@ -111,7 +111,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Modul ekstensi keselamatan",
+				"name": "Safety extension module",
 				"feature": "/id_id/products/cnt/plcf/pmerit/safety/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Safety%20Extension%20Module",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Safety%20Extension%20Module&search=B&word=Safety%20Extension%20Module",
@@ -119,7 +119,7 @@
 			},
 			{
 				"group": "iQ-F",
-				"name": "Pilihan",
+				"name": "Option",
 				"feature": "/id_id/products/cnt/plcf/pmerit/option/index.html",
 				"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcf&search=B&word=Option",
 				"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=doc&kisyu=/plcf&radio=Option&search=B&word=Option",
@@ -127,7 +127,7 @@
 			},
 			{
 				"group": "iqf_select",
-				"name": "Alat pemilihan model",
+				"name": "Model selection tool",
 				"feature": "/id_id/products/cnt/plcf/ex/select/index.html",
 				"spec": "",
 				"standard": "",
@@ -135,7 +135,7 @@
 			},
 			{
 				"group": "iqf_select2",
-				"name": "Alat pemilihan model",
+				"name": "Model selection tool",
 				"feature": "/id_id/ssl/products/cnt/plcf/ex/select/index.html",
 				"spec": "",
 				"standard": "",

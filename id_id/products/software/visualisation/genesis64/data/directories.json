@@ -8,19 +8,19 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat Lunak Visualisasi",
+            "name": "Visualization software",
             "path": "/id_id/products/software/visualisation/index.html",
             "child": [
               {
-                "name": "Perangkat Lunak SCADA GENESIS64&trade;",
+                "name": "SCADA software GENESIS64&trade;",
                 "path": "/id_id/products/software/visualisation/genesis64/index.html"
               },
               {
-                "name": "Perangkat Lunak HMI (GOT)",
+                "name": "HMI software (GOT)",
                 "path": "/id_id/products/software/visualisation/got/index.html"
               },
               {
-                "name": "Perangkat lunak terkait sistem perekam",
+                "name": "System recorder related software",
                 "path": "/id_id/products/software/visualisation/system-recorder/index.html"
               },
               {
@@ -34,12 +34,12 @@
     ]
   },
   "switchNav": {
-    "name": "Perangkat Lunak  Visualisasi",
+    "name": "Visualization software",
     "path": "/id_id/products/software/visualisation/index.html",
     "child": [
       {
         "group": "Vidualization software",
-        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
+        "name": "SCADA software GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/index.html",
         "spec": "",
         "standard": "",
@@ -47,7 +47,7 @@
       },
       {
         "group": "Vidualization software",
-        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
+        "name": "SCADA software GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/our-stories.html",
         "spec": "",
         "standard": "",
@@ -55,7 +55,7 @@
       },
       {
         "group": "Vidualization software",
-        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
+        "name": "SCADA software GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/lineup.html",
         "spec": "",
         "standard": "",
@@ -63,7 +63,7 @@
       },
       {
         "group": "Vidualization software",
-        "name": "Perangkat Lunak SCADA GENESIS64&trade;",
+        "name": "SCADA software GENESIS64&trade;",
         "feature": "/id_id/products/software/visualisation/genesis64/download.html",
         "spec": "",
         "standard": "",
@@ -72,7 +72,7 @@
     ]
   },
   "layerNav": {
-    "name": "Perangkat Lunak  Visualisasi",
+    "name": "Visualization software",
     "path": "/id_id/products/software/visualisation/genesis64/index.html",
     "firstLayer": [
       {
