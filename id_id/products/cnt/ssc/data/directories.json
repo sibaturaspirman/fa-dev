@@ -28,11 +28,11 @@
                 "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/sscl/index.html"
               },
               {
-                "name": "Pengontrol Sistem Servo Tipe Tertanam",
+                "name": "Embedded Type Servo System Controller",
                 "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/sscemb/index.html"
               },
               {
-                "name": "Perangkat Lunak Kontrol Gerak",
+                "name": "Motion Control Software",
                 "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/swmg/index.html"
               },
               {
@@ -59,7 +59,7 @@
     "child": [
       {
         "group": "ssc_iq-r",
-        "name": "Modul gerak",
+        "name": "Motion module",
         "feature": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-R%20series",
@@ -83,7 +83,7 @@
       },
       {
         "group": "ssc_iq-r",
-        "name": "Modul Gerak Sederhana",
+        "name": "Simple Motion module",
 				"feature": "/id_id/products/cnt/ssc/pmerit/ssciqr/rd77ms/point.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-R%20series",
@@ -95,7 +95,7 @@
       },
       {
         "group": "ssc_iq-f",
-        "name": "Modul gerak",
+        "name": "Motion module",
         "feature": "/id_id/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Motion%20module&K-01=MELSEC%20iQ-F%20series",
@@ -107,7 +107,7 @@
       },
       {
         "group": "ssc_iq-f",
-        "name": "Modul Gerak Sederhana",
+        "name": "Simple Motion module",
 				"feature": "/id_id/products/cnt/ssc/pmerit/ssciqf/fx5s/point.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=%2Fssc&page=1&search=B&word=Simple%20Motion%20module&K-01=MELSEC%20iQ-F%20series",
@@ -125,7 +125,7 @@
         "standard": "",
         "discon": "",
         "return": {
-          "name": "Perangkat Lunak Kontrol Gerak",
+          "name": "Motion Control Software",
           "path": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/swmg/index.html"
         }
       }
