@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Mesin Pelepasan Listrik",
+            "name": "Electrical Discharge Machines",
             "path": "/id_id/products/mecha/edm/index.html",
             "child": [
               {
@@ -30,7 +30,7 @@
     ]
   },
   "switchNav": {
-    "name": "Mesin Pelepasan Listrik",
+    "name": "Electrical Discharge Machines",
     "path": "/id_id/products/mecha/edm/index.html",
     "child": [
       {
