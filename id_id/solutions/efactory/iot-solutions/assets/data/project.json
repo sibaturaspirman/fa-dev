@@ -12,25 +12,25 @@
 		"target": "_self"
 	},
 	{
-		"name": "e-F@ctory Starter Package",
-		"url": "/id_id/products/software/visualisation/support-module/index.html",
+		"name": "Paket Pemula e-F@ctory",
+		"url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/support-module/index.html",
 		"number": "03",
 		"target": "_self"
 	},
 	{
-		"name": "GOT Mobile Function License for GOT2000",
-		"url": "/id_id/products/hmi/got/pmerit/got2000/got_solutions/case_01.html",
+		"name": "Lisensi Fungsi Seluler GOT untuk GOT2000",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_01.html",
 		"number": "04",
 		"target": "_self"
 	},
 	{
-		"name": "iQ Monozukuri Rotary Machine Vibration Diagnosis",
+		"name": "Diagnosis Getaran Mesin Rotary iQ Monozukuri",
 		"url": "/id_id/sols/efactory/component/monozukuri/rmvdiagnosis/index.html",
 		"number": "05",
 		"target": "_self"
 	},
 	{
-		"name": "iQ Monozukuri Tool Wear Diagnosis for Machine Tools",
+		"name": "Diagnosis Keausan Alat iQ Monozukuri untuk Perkakas Mesin",
 		"url": "/id_id/sols/efactory/component/monozukuri/twdiagnosis/index.html",
 		"number": "06",
 		"target": "_self"
@@ -42,31 +42,31 @@
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-R Series Programmable Controller CPU Module",
+		"name": "Modul CPU Pengontrol Terprogram Seri MELSEC iQ-R",
 		"url": "/id_id/products/cnt/plcr/pmerit/cpu/cpu.html",
 		"number": "08",
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-F Series Simple CPU Communication Function",
+		"name": "Fungsi Komunikasi CPU Sederhana Seri MELSEC iQ-F",
 		"url": "/id_id/products/cnt/plcf/pmerit/cpu/index.html",
 		"number": "09",
 		"target": "_self"
 	},
 	{
-		"name": "GOT2000 Series Logging Function",
+		"name": "Fungsi Pencatatan Seri GOT2000",
 		"url": "/id_id/products/hmi/got/pmerit/got2000/got_solutions/case_39.html",
 		"number": "10",
 		"target": "_self"
 	},
 	{
-		"name": "Edgecross-Compatible Software (Data Collector)",
+		"name": "Perangkat Lunak yang Kompatibel dengan Edgecross (Pengumpul Data)",
 		"url": "/id_id/solutions/efactory/component/edgsw/dc/index.html",
 		"number": "11",
 		"target": "_self"
 	},
 	{
-		"name": "iQ Monozukuri Process Remote Monitoring",
+		"name": "iQ Monozukuri Memproses Pemantauan Jarak Jauh",
 		"url": "/id_id/products/hmi/got/pmerit/apppack/prm/index.html",
 		"number": "12",
 		"target": "_self"
@@ -78,7 +78,7 @@
 		"target": "_self"
 	},
 	{
-		"name": "GOT2000 series",
+		"name": "Seri GOT2000",
 		"url": "/id_id/products/hmi/got/items/got2000/index.html",
 		"number": "14",
 		"target": "_self"
@@ -90,43 +90,43 @@
 		"target": "_self"
 	},
 	{
-		"name": "Energy Saving Data Collecting Server EcoWebServerIII",
+		"name": "Server Pengumpulan Data Hemat Energi EcoWebServerIII",
 		"url": "/id_id/products/pmng/ems/items/ecoserver/index.html",
 		"number": "16",
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-R Series MES Interface Module",
+		"name": "Modul Antarmuka MES Seri MELSEC iQ-R",
 		"url": "/id_id/products/cnt/plcr/pmerit/it_connect/mes.html",
 		"number": "17",
 		"target": "_self"
 	},
 	{
-		"name": "SCADA software-ICONICS Suite™",
+		"name": "Perangkat lunak SCADA-ICONICS Suite™",
 		"url": "/id_id/products/software/visualisation/genesis64/index.html",
 		"number": "18",
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-R Series OPC UA Server Module",
+		"name": "Modul Server OPC UA Seri MELSEC iQ-R",
 		"url": "/id_id/products/cnt/plcr/pmerit/it_connect/opc.html",
 		"number": "19",
 		"target": "_self"
 	},
 	{
-		"name": "Industrial Computer MELIPC Series",
+		"name": "Komputer Industri Seri MELIPC",
 		"url": "/id_id/products/edge/melipc/",
 		"number": "20",
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-R Series C Intelligent Function Module (RD55UP12-V)",
+		"name": "Modul Fungsi Cerdas MELSEC iQ-R Seri C (RD55UP12-V)",
 		"url": "/id_id/products/cnt/plcr/pmerit/cpu/c_cont.html",
 		"number": "21",
 		"target": "_self"
 	},
 	{
-		"name": "MELSEC iQ-F Series OPC UA Module",
+		"name": "Modul OPC UA Seri MELSEC iQ-F",
 		"url": "/id_id/products/cnt/plcf/pmerit/communication/opc_ua.html",
 		"number": "22",
 		"target": "_self"
