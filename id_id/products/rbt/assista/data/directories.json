@@ -31,13 +31,13 @@
     "child": [
       {
         "group": "Collaborative Robot",
-        "name": "Robot Kolaboratif MELFA ASSISTA",
+        "name": "Collaborative Robot MELFA ASSISTA",
         "feature": "/id_id/products/rbt/assista/pmerit/assista/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "/id_id/products/rbt/robot/ex/renew/close/index.html",
           "return": {
-          "name": "Robot Kolaboratif MELFA ASSISTA",
+          "name": "Collaborative Robot MELFA ASSISTA",
           "path": "/id_id/products/rbt/assista/items/assista/index.html"
         }
       },
