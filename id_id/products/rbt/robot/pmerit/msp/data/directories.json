@@ -8,11 +8,11 @@
         "path": "/id_id/products/rbt/robot/pmerit/msp/index.html"
       },
       {
-        "name": "Fungsi pemeliharaan prediktif",
+        "name": "Predictive maintenance function",
         "path": "/id_id/products/rbt/robot/pmerit/msp/prediction.html"
       },
       {
-        "name": "Fungsi pemeliharaan preventif",
+        "name": "Preventive maintenance function",
         "path": "/id_id/products/rbt/robot/pmerit/msp/prevention.html"
       },
       {
@@ -24,19 +24,19 @@
         "path": "/id_id/products/rbt/robot/pmerit/msp/vision3d.html"
       },
       {
-        "name": "Fungsi peningkatan sensor penglihatan 2D",
+        "name": "2D vision sensor enhancement function",
         "path": "/id_id/products/rbt/robot/pmerit/msp/vision2d.html"
       },
       {
-        "name": "Fungsi bantuan kalibrasi",
+        "name": "Calibration assistance function",
         "path": "/id_id/products/rbt/robot/pmerit/msp/calibration.html"
       },
       {
-        "name": "Kontrol terkoordinasi dari sumbu tambahan",
+        "name": "Coordinated control of additional axis",
         "path": "/id_id/products/rbt/robot/pmerit/msp/addaxis.html"
       },
       {
-        "name": "Fungsi kompensasi termal mekanisme robot",
+        "name": "Robot mechanism thermal compensation function",
         "path": "/id_id/products/rbt/robot/pmerit/msp/thermal.html"
       },
       {
