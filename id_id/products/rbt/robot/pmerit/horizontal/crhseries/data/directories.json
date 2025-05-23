@@ -4,7 +4,7 @@
     "path": "/id_id/products/rbt/robot/items/horizontal/index.html",
     "firstLayer": [
       {
-        "name": "Seri RH-FRH",
+        "name": "RH-FRH Series",
         "path": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html",
         "secondLayer": [
            {
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "Seri RH-CRH",
+        "name": "RH-CRH Series",
         "path": "/id_id/products/rbt/robot/pmerit/horizontal/crhseries/index.html",
          "secondLayer": [
            {
