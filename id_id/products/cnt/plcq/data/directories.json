@@ -95,7 +95,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Gerakan sederhana, Penempatan",
+        "name": "Simple motion, Positioning",
         "feature": "/id_id/products/cnt/plcq/pmerit/motion/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
@@ -103,7 +103,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Penghitung kecepatan tinggi, Input pulsa",
+        "name": "High-speed counter, Pulse input",
         "feature": "/id_id/products/cnt/plcq/pmerit/counter/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=High-speed%20counter/pulse%20input&search=B&word=High-speed%20counter/pulse%20input",
@@ -111,7 +111,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Pengukuran energi, Pemantauan isolasi",
+        "name": "Energy measuring, Insulation monitoring",
         "feature": "/id_id/products/cnt/plcq/pmerit/energy/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Energy%20measuring/insulation%20monitoring&search=B&word=Energy%20measuring/insulation%20monitoring",
