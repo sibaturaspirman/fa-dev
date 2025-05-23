@@ -40,7 +40,7 @@
                         "path": "/id_id/products/cnt/plcnet/items/index.html"
                     },
                     {
-                        "name": "Perangkat lunak rekayasa",
+                        "name": "Engineering software",
                         "path": "/id_id/products/cnt/plceng/items/index.html"
                     }
                 ]
@@ -48,7 +48,7 @@
         ]
     },
     "switchNav": {
-        "name": "Perangkat lunak rekayasa",
+        "name": "Engineering software",
         "path": "/id_id/products/cnt/plceng/items/index.html",
         "child": [
             {
@@ -117,7 +117,7 @@
             },
             {
                 "group": "ENG_SOFT",
-                "name": "Perangkat lunak teknik lainnya",
+                "name": "Other engineering softwares",
                 "feature": "/id_id/products/cnt/plceng/smerit/other_eng/",
                 "spec": "",
                 "standard": "",
@@ -125,7 +125,7 @@
             },
             {
                 "group": "ENG_SOFT",
-                "name": "Alat pendukung peralatan periferal",
+                "name": "Peripheral equipment support tools",
                 "feature": "/id_id/products/cnt/plceng/smerit/support_tools/",
                 "spec": "",
                 "standard": "",
