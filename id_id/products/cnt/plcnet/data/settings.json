@@ -128,7 +128,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=MODBUS&search=B&word=MODBUS"
           },
           {
-            "name": "Komunikasi serial",
+            "name": "Serial communication",
             "link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet&radio=Serial%20communication&search=B&word=Serial%20communication"
           },
           {
@@ -223,7 +223,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=MODBUS&search=B&word=MODBUS"
           },
           {
-            "name": "Komunikasi serial",
+            "name": "Serial communication",
             "link": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=Serial%20communication&search=B&word=Serial%20communication"
           },
           {
@@ -302,7 +302,7 @@
             "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET(II)/B"
           },
           {
-            "name": "Komunikasi serial",
+            "name": "Serial communication",
             "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Serial%20communication"
           },
           {
