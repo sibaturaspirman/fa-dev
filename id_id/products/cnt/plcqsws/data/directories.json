@@ -91,7 +91,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Kontroler Terprogram Keamanan",
+        "name": "Safety Programmable Controllers",
         "feature": "/id_id/products/cnt/plcqsws/pmerit/concept/safetyplc.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20programmable%20controller&search=B&word=Safety%20programmable%20controller",
@@ -99,7 +99,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Pengendali Keamanan",
+        "name": "Safety Controller",
         "feature": "/id_id/products/cnt/plcqsws/pmerit/concept/safetycontroller.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20controller&search=B&word=Safety%20controller",
@@ -107,7 +107,7 @@
       },
       {
         "group": "LP3-1",
-        "name": "Modul Relai Keamanan",
+        "name": "Safety Relay Module",
         "feature": "/id_id/products/cnt/plcqsws/pmerit/concept/safetyrelay.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcqsws&radio=Safety%20relay&search=B&word=Safety%20relay",
