@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Pemutus Sirkuit Tegangan Rendah",
+            "name": "Low-voltage Circuit Breakers",
             "path": "/id_id/products/lvd/lvcb/index.html",
             "child": [
 				{
-					"name": "Pemutus Sirkuit Kebocoran Bumi",
+					"name": "Earth Leakage Circuit Breakers",
 					"path": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html"
 				}
             ]
@@ -22,7 +22,7 @@
     ]
   },
   "layerNav": {
-    "name": "Pemutus Sirkuit Kebocoran Bumi",
+    "name": "Earth Leakage Circuit Breakers",
     "path": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
     "firstLayer": [
       {
@@ -40,18 +40,18 @@
     ]
   },
 "switchNav": {
-	"name": "Pemutus Sirkuit Kebocoran Bumi",
+	"name": "Earth Leakage Circuit Breakers",
 	"path": "/id_id/products/lvd/lvcb/items/elcb/index.html",
 	"child": [
 		{
 			"group": "Earth Leakage Circuit Breakers",
-			"name": "Pemutus Sirkuit Kebocoran Bumi",
+			"name": "Earth Leakage Circuit Breakers",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/elcb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=ELCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=ELCB",
 			"discon": "",
             "return": {
-                "name": "Pemutus Sirkuit Kebocoran Bumi",
+                "name": "Earth Leakage Circuit Breakers",
                 "path": "/id_id/products/lvd/lvcb/items/elcb/index.html"
 			}
 		}

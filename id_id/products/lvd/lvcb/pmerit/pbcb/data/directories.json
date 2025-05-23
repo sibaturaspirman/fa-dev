@@ -8,11 +8,11 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Pemutus Sirkuit Tegangan Rendah",
+            "name": "Low-voltage Circuit Breakers",
             "path": "/id_id/products/lvd/lvcb/index.html",
 			"child": [
 				{
-					"name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
+					"name": "Circuit Breakers for Distribution Panel and Control Panel",
 					"path": "/id_id/products/lvd/lvcb/items/pbcb/index.html",
 					"child": [
 					{
@@ -42,7 +42,7 @@
     ]
   },
 "switchNav": {
-	"name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
+	"name": "Circuit Breakers for Distribution Panel and Control Panel",
 	"path": "/id_id/products/lvd/lvcb/items/pbcb/index.html",
 	"child": [
 		{
@@ -53,7 +53,7 @@
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=PBCB",
 			"discon": "",
             "return": {
-                "name": "Pemutus Sirkuit untuk Panel Distribusi dan Panel Kontrol",
+                "name": "Circuit Breakers for Distribution Panel and Control Panel",
                 "path": "/id_id/products/lvd/lvcb/items/pbcb/index.html"
 			}
 		}
