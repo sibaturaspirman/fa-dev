@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat Pendukung Penghematan Energi",
+            "name": "Energy Saving Supporting Devices",
             "path": "/id_id/products/pmng/ems/index.html",
 			"child": [
 				{
@@ -50,7 +50,7 @@
     ]
   },
  "switchNav": {
-    "name": "Perangkat Pendukung Penghematan Energi",
+    "name": "Energy Saving Supporting Devices",
     "path": "/id_id/products/pmng/ems/index.html",
     "child": [
       {
