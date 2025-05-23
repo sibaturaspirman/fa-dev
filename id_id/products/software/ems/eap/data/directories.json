@@ -1,6 +1,6 @@
 {
     "layerNav": {
-        "name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
+        "name": "Energy Saving Support Software EcoAdviser",
         "path": "/id_id/products/software/ems/eap/index.html",
         "firstLayer": [
             {
@@ -42,7 +42,7 @@
             "path": "/id_id/products/software/ems/index.html",
             "child": [
               {
-                "name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
+                "name": "Energy Saving Support Software EcoAdviser",
                 "path": "/id_id/products/software/ems/eap/index.html"
               }
             ]
@@ -57,7 +57,7 @@
     "child": [
       {
         "group": "Energy Saving Support Software",
-        "name": "Perangkat Lunak Pendukung Penghematan Energi EcoAdviser",
+        "name": "Energy Saving Support Software EcoAdviser",
         "feature": "/id_id/products/software/ems/eap/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ecoadviser&current=EcoAdviser",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser&current=EcoAdviser",

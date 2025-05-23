@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Perangkat lunak visualisasi",
+            "name": "Visualization software",
             "path": "/id_id/products/software/visualisation/index.html",
             "child": [
               {
@@ -16,11 +16,11 @@
                 "path": "/id_id/products/software/visualisation/scada/index.html"
               },
               {
-                "name": "Perangkat Lunak HMI (GOT)",
+                "name": "HMI software (GOT)",
                 "path": "/id_id/products/software/visualisation/got/index.html"
               },
               {
-                "name": "Perangkat lunak terkait sistem perekam",
+                "name": "System recorder related software",
                 "path": "/id_id/products/software/visualisation/system-recorder/index.html"
               },
               {
