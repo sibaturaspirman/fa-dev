@@ -12,11 +12,11 @@
             "path": "/id_id/products/lvd/lvcb/index.html"
           },
           {
-            "name": "Kontaktor dan Starter Motor",
+            "name": "Contactors and Motor Starters",
             "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
           },
           {
-            "name": "Pengukur Manajemen Daya",
+            "name": "Power Management Meters",
             "path": "/id_id/products/pmng/pmd/index.html",
             "child": [
 				{
@@ -30,7 +30,7 @@
     ]
   },
 "switchNav": {
-	"name": "Pengukur Manajemen Daya",
+	"name": "Power Management Meters",
 	"path": "/id_id/products/pmng/pmd/index.html",
 	"child": [
 		{

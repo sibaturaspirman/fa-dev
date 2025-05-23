@@ -8,7 +8,7 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Pengukur Manajemen Daya",
+            "name": "Power Management Meters",
             "path": "/id_id/products/pmng/pmd/index.html",
 			"child": [
 				{
@@ -50,7 +50,7 @@
     ]
   },
  "switchNav": {
-    "name": "Pengukur Manajemen Daya",
+    "name": "Power Management Meters",
     "path": "/id_id/products/pmng/pmd/index.html",
     "child": [
       {
