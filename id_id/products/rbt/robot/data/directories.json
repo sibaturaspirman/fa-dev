@@ -8,15 +8,15 @@
         "path": "/id_id/products/index.html",
         "child": [
           {
-            "name": "Robot industri MELFA",
+            "name": "Industrial Robot MELFA",
             "path": "/id_id/products/rbt/robot/index.html",
             "child": [
               {
-                "name": "Robot artikulasi vertikal",
+                "name": "Vertical articulated robot",
                 "path": "/id_id/products/rbt/robot/items/vertical/index.html"
               },
               {
-                "name": "Robot artikulasi horizontal",
+                "name": "Horizontal articulated robot",
                 "path": "/id_id/products/rbt/robot/items/horizontal/index.html"
               },
               {
@@ -28,7 +28,7 @@
                 "path": "/id_id/products/rbt/robot/items/msp/index.html"
               },
               {
-                "name": "Pilihan Cerdas",
+                "name": "Intelligent Options",
                 "path": "/id_id/products/rbt/robot/items/option/index.html"
               }
             ]
@@ -56,30 +56,30 @@
     ]
   },
   "switchNav": {
-    "name": "Robot industri MELFA",
+    "name": "Industrial Robot MELFA",
     "path": "/id_id/products/rbt/robot/index.html",
     "child": [
       {
         "group": "Industrial Robot MELFA",
-        "name": "Robot artikulasi vertikal",
+        "name": "Vertical articulated robot",
         "feature": "/id_id/products/rbt/robot/pmerit/vertical/frseries/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
-         	"name": "Robot artikulasi vertikal",
+         	"name": "Vertical articulated robot",
          	"path": "/id_id/products/rbt/robot/items/vertical/index.html"
         	}
       },
       {
         "group": "Industrial Robot MELFA",
-        "name": "Robot artikulasi horizontal",
+        "name": "Horizontal articulated robot",
         "feature": "/id_id/products/rbt/robot/pmerit/horizontal/frseries/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/robot",
         "discon": "",
         	"return": {
-         	"name": "Robot artikulasi horizontal",
+         	"name": "Horizontal articulated robot",
          	"path": "/id_id/products/rbt/robot/items/horizontal/index.html"
         	}
       },
@@ -109,13 +109,13 @@
       },
       {
         "group": "Industrial Robot MELFA",
-        "name": "Pilihan Cerdas",
+        "name": "Intelligent Options",
         "feature": "/id_id/products/rbt/robot/pmerit/option/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/robot&radio=Robot&search=B&word=Robot",
         "standard": "",
         "discon": "",
         	"return": {
-         	"name": "Pilihan Cerdas",
+         	"name": "Intelligent Options",
          	"path": "/id_id/products/rbt/robot/items/option/index.html"
         	}
       },
@@ -151,7 +151,7 @@
         "standard": "",
         "discon": "",
         	"return": {
-         	"name": "Robot industri MELFA",
+         	"name": "Industrial Robot MELFA",
          	"path": "/id_id/products/rbt/robot/index.html"
         	}
       }
