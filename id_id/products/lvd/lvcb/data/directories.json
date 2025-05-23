@@ -36,7 +36,7 @@
 					"path": "/id_id/products/lvd/lvcb/items/cbe/index.html"
 				},
 				{
-					"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
+					"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
 					"path": "/id_id/products/lvd/lvcb/items/dcmccb/index.html"
 				},
 				{
@@ -60,7 +60,7 @@
 					"path": "/id_id/products/lvd/lvcb/items/elr/index.html"
 				},
 				{
-					"name": "Aksesori dan Komponen Terkait",
+					"name": "Accessories and Related Components",
 					"path": "/id_id/products/lvd/lvcb/items/acc/index.html"
 				}
             ]
@@ -94,7 +94,7 @@
 					"path": "/id_id/products/lvd/lvcb/pmerit/cbe/index.html"
 				},
 				{
-					"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
+					"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
 					"path": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html"
 				},
 				{
@@ -118,7 +118,7 @@
 					"path": "/id_id/products/lvd/lvcb/pmerit/elr/index.html"
 				},
 				{
-					"name": "Aksesori dan Komponen Terkait",
+					"name": "Accessories and Related Components",
 					"path": "/id_id/products/lvd/lvcb/pmerit/acc/index.html"
 				}
             ]
@@ -221,13 +221,13 @@
 		},
 		{
 			"group": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
-			"name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
+			"name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/dcmccb/index.html",
 			"spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/lvcb&current=DCMCCB",
 			"standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/lvcb&current=DCMCCB",
 			"discon": "",
             "return": {
-                "name": "Pemutus Sirkuit Cetakan untuk Sirkuit DC (hingga 1000VDC)",
+                "name": "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
                 "path": "/id_id/products/lvd/lvcb/items/dcmccb/index.html"
 			}
 		},
@@ -341,13 +341,13 @@
 		},
 		{
 			"group": "Accessories and Related Components",
-			"name": "Aksesori dan Komponen Terkait",
+			"name": "Accessories and Related Components",
 			"feature": "/id_id/products/lvd/lvcb/pmerit/acc/index.html",
 			"spec": "",
 			"standard": "",
 			"discon": "",
             "return": {
-                "name": "Aksesori dan Komponen Terkait",
+                "name": "Accessories and Related Components",
                 "path": "/id_id/products/lvd/lvcb/items/acc/index.html"
 			}
 		}
