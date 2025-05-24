@@ -548,11 +548,11 @@
 									"icon": "contact",
 									"link": "/id_id/contact-us/index.html"
 								},
-								{
-									"name": "Whatsapp",
-									"icon": "chat",
-									"link": "https://wa.me/628123456789"
-								},
+								// {
+								// 	"name": "Whatsapp",
+								// 	"icon": "chat",
+								// 	"link": "https://wa.me/628123456789"
+								// },
 								// {
 								// 	"name": "Share",
 								// 	"icon": "share",
