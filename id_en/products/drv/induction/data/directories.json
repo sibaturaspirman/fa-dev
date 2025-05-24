@@ -13,7 +13,22 @@
             "child": [
               {
                 "name": "Three-phase Motor IE1",
-                "path": "/id_en/products/drv/induction/items/tpmie1/index.html"
+                "path": "/id_en/products/drv/induction/items/tpmie1/index.html",
+                "child": [
+                  {
+                    "name": "Foot Mounted 2P",
+                    "path": "/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-2p.html"
+                  },
+                  {
+                    "name": "Foot Mounted 4P",
+                    "path": "/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-4p.html"
+                  },
+                  {
+                    "name": "Foot Mounted 6P",
+                    "path": "/id_en/products/drv/induction/items/tpmie1/models/foot-mounted-6p.html"
+                  }
+                ]
+                
               },
               {
                 "name": "Three-phase Motor IE3",
@@ -22,7 +37,7 @@
               {
                 "name": "Single phase Motor",
                 "path": "/id_en/products/drv/induction/items/spm/index.html"
-              },
+              }
             ]
           }
         ]
