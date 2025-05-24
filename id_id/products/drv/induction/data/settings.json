@@ -11,12 +11,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/gear&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/gear&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=manual"
 					}
 				]
 			}
@@ -34,17 +34,17 @@
 		"items": [
 			{
 				"name": "Spotlight1",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight2",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			},
 			{
 				"name": "Spotlight3",
-				"img": "/id_en/shared/gws0001/img/dummy_index.png",
+				"img": "/id_id/shared/gws0001/img/dummy_index.png",
 				"link": "#"
 			}
 		]
@@ -60,32 +60,32 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/id_en/products/spec.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/spec.html"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/id_en/products/standard.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard.html"
 			},
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_en/products/renewal.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/renewal.html"
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/id_en/products/replace.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/replace.html"
 			},
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/id_en/dctlg/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_en/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -124,12 +124,12 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/gear&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/gear&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/gear&mode=manual"
 			}
 		]
 	},
@@ -163,9 +163,9 @@
 		"comment": "linkは各機種のお問い合わせや機種ごとのFAQページに変更可",
 		"items": [
 			{
-				"name": "Contact Us",
+				"name": "Hubungi Kami",
 				"icon": "contact",
-				"link": "/id_en/support/index.html"
+				"link": "/id_id/contact-us/index.html"
 			},
 			{
 				"name": "FAQs",

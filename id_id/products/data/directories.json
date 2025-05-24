@@ -138,6 +138,10 @@
           {
             "name": "Geared Motors",
             "path": "/id_id/products/drv/gear/index.html"
+          },
+          {
+            "name": "Induction Motor",
+            "path": "/id_id/products/drv/induction/index.html"
           }
         ]
       },
