@@ -9,12 +9,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/id_en/download/search.page?mode=catalog&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/3dsim"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_en/download/search.page?mode=manual&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/3dsim"
 					},
 					{
 						"name": "Software",
@@ -44,12 +44,12 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/id_en/download/search.page?mode=catalog&kisyu=/3dsim"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/3dsim"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/id_en/download/search.page?mode=manual&kisyu=/3dsim"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/3dsim"
 			},
 			{
 				"name": "Software",

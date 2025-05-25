@@ -45,7 +45,7 @@
 		"items": [
 			{
 				"name": "MELSERVO Others",
-				"link": "/id_en/products/drv/servo/items/other/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/other/index.html"
 			}
 		]
 	},
@@ -82,7 +82,7 @@
 		"items": [
 			{
 				"name": "FA e-learning",
-				"link": "/id_en/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			}
 		]
 	},
@@ -96,7 +96,7 @@
 			},
 			{
 				"name": "FAQ",
-				"image": "/id_en/products/drv/servo/img/bnr_faq.jpg",
+				"image": "https://www.mitsubishielectric.com/fa/products/drv/servo/img/bnr_faq.jpg",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2127"
 			},
 			{

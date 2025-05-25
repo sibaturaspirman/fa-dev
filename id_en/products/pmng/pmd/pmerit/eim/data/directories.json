@@ -57,8 +57,8 @@
         "group": "Electrical Indicators",
         "name": "Electronic Multi Measuring Instruments (ME96 Series)",
         "feature": "/id_en/products/pmng/pmd/pmerit/eim/index.html",
-        "spec": "/id_en/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
-        "standard": "/id_en/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/pmd&radio=Meters&search=B&word=Meters&current=Meters",
         "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/pmd&category=discon&bunrui1=Meters&current=Meters",
 		"return": {
 			"name": "Electrical Indicators",
