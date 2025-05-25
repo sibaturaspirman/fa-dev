@@ -59,7 +59,7 @@
         "feature": "/id_en/products/cnt/plcq/pmerit/concept/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcq",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon"
       },
       {
         "group": "LP3-1",
@@ -67,7 +67,7 @@
         "feature": "/id_en/products/cnt/plcq/pmerit/cpu/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=CPU&search=B&word=CPU",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=CPU&search=B&word=CPU",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=CPU"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=CPU"
       },
       {
         "group": "LP3-1",
@@ -75,7 +75,7 @@
         "feature": "/id_en/products/cnt/plcq/pmerit/network/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Information/network&search=B&word=Information/network",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Information/network"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Information/network"
       },
       {
         "group": "LP3-1",
@@ -83,7 +83,7 @@
         "feature": "/id_en/products/cnt/plcq/pmerit/io/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=I/O&search=B&word=I/O",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=I/O&search=B&word=I/O",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=I/O"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=I/O"
       },
       {
         "group": "LP3-1",
@@ -91,7 +91,7 @@
         "feature": "/id_en/products/cnt/plcq/pmerit/analog/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Analog&search=B&word=Analog",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Analog"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Analog"
       },
       {
         "group": "LP3-1",
@@ -99,7 +99,7 @@
         "feature": "/id_en/products/cnt/plcq/pmerit/motion/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcq&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Simple%20motion/positioning"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Simple%20motion/positioning"
       },
       {
         "group": "LP3-1",
@@ -129,7 +129,7 @@
       {
         "group": "Standard",
         "name": "Various certification systems",
-        "feature": "/id_en/products/standard.html#anc_05"
+        "feature": "https://www.mitsubishielectric.com/fa/products/standard.html#anc_05"
       },
       {
         "group": "Standard",

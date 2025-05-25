@@ -75,7 +75,7 @@
         "feature": "/id_en/products/edge/melipc/pmerit/mi1000/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/melipc&current=MELIPC MI1000",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/melipc&current=MELIPC MI1000",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon&current=MELIPC MI1000"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/melipc&category=discon&current=MELIPC MI1000"
       },
       {
         "group": "MELIPC",

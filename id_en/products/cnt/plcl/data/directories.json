@@ -59,7 +59,7 @@
         "feature": "/id_en/products/cnt/plcl/pmerit/concept/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcl",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcl",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon"
       },
       {
         "group": "LP3-1",
@@ -83,7 +83,7 @@
         "feature": "/id_en/products/cnt/plcl/pmerit/analog/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Analog&search=B&word=Analog",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Analog&search=B&word=Analog",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Analog"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Analog"
       },
       {
         "group": "LP3-1",
@@ -91,7 +91,7 @@
         "feature": "/id_en/products/cnt/plcl/pmerit/motion/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Simple%20motion/positioning&search=B&word=Simple%20motion/positioning",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Simple%20motion/positioning"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Simple%20motion/positioning"
       },
       {
         "group": "LP3-1",
@@ -107,7 +107,7 @@
         "feature": "/id_en/products/cnt/plcl/pmerit/network/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcl&radio=Network&search=B&word=Network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcl&radio=Network&search=B&word=Network",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Network"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcl&category=discon&bunrui1=Network"
       }
     ]
   }

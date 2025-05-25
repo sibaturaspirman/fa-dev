@@ -19,7 +19,7 @@
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/software/search.page?mode=software&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/3dsim"
 					}
 				]
 			},
@@ -54,7 +54,7 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/software/search.page?mode=software&kisyu=/3dsim"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/3dsim"
 			}
 		]
 	}

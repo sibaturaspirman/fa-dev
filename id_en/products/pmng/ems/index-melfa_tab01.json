@@ -1,35 +1,35 @@
 {
   "listLinkLabel": "News",
-  "listLink": "/id_en/products/pmng/ems/news_2024.html",
+  "listLink": "https://www.mitsubishielectric.com/fa/products/pmng/ems/news_2025.html",
   "items": [
     {
-      "pubDate": "Jul 11, 2024",
-      "title": "Compliance with EU Battery Regulations for Power Management Meters and Energy Saving Supporting Devices is added.",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA486",
+      "pubDate": "May 20, 2025",
+      "title": "Production discontinuation of measuring instrument and energy saving supporting devices is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA500",
       "description": ""
     },
     {
-      "pubDate": "Jul 5, 2024",
-      "title": "Specification change of packaging box for EMU is added.",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA484",
+      "pubDate": "Dec 24, 2024",
+      "title": "Regarding the handling of products containing Dechlorane Plus is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?kisyu=/ems&amp;mode=techinfo#PMM-YE-0002",
       "description": ""
     },
     {
-      "pubDate": "Mar 6, 2024",
-      "title": "Specification change of current sensor for Energy Measuring Unit is added. (NO. YAMA480)",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA480",
+      "pubDate": "Oct 29, 2024",
+      "title": "Specification change of indication for EMU and ME96 Series is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA459",
       "description": ""
     },
     {
-      "pubDate": "Mar 6, 2024",
-      "title": "Specification change of current sensor for Energy Measuring Unit is added. (NO. YAMA479)",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA479",
+      "pubDate": "Oct 9, 2024",
+      "title": "Specification change of Energy Measuring Unit is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA492",
       "description": ""
     },
     {
-      "pubDate": "Jan 29, 2024",
-      "title": "Specification change of LCD for Energy Measuring Unit is added.",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA466",
+      "pubDate": "Oct 9, 2024",
+      "title": "Specification change of packaging box for Energy Measuring Unit is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/ems#YAMA491",
       "description": ""
     }
   ]

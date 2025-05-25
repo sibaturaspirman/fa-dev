@@ -53,7 +53,7 @@
         "feature": "/id_en/products/cnt/plcnet/pmerit/concept/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcnet",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcnet",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon"
       },
         {
         "group": "LP3-1",
@@ -69,7 +69,7 @@
         "feature": "/id_en/products/cnt/plcnet/pmerit/cclink_ie/concept/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fplcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Control&search=B&word=CC-Link%20IE%20Control",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
       },
       {
         "group": "LP3-1",
@@ -77,7 +77,7 @@
         "feature": "/id_en/products/cnt/plcnet/pmerit/cclink_ie/basic/concept/",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=%2Fplcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcnet&radio=CC-Link%20IE%20Field%20Basic&search=B&word=CC-Link%20IE%20Field%20Basic",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
       },
       {
         "group": "Standard",
@@ -91,7 +91,7 @@
       {
         "group": "Standard",
         "name": "Various certification systems",
-        "feature": "/id_en/products/standard.html#anc_05"
+        "feature": "https://www.mitsubishielectric.com/fa/products/standard.html#anc_05"
       },
       {
         "group": "Standard",

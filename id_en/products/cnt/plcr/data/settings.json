@@ -159,15 +159,15 @@
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon",
         "child": [
           {
             "name": "Information/network",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"            
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"            
           },
           {
             "name": "Option",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Option"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Option"
           }
         ]
 			},

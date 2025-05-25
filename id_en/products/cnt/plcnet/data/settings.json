@@ -255,59 +255,59 @@
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon",
         "child": [
           {
             "name": "CC-Link IE Field",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field"
           },
           {
             "name": "CC-Link IE Field Basic",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20IE%20Field%20Basic"
           },
           {
             "name": "CC-Link",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link"
           },
           {
             "name": "CC-Link Safety",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20Safety"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link%20Safety"
           },
           {
             "name": "CC-Link/LT",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link/LT"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=CC-Link/LT"
           },
           {
             "name": "Ethernet",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Ethernet"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Ethernet"
           },
           {
             "name": "AnyWire",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=AnyWire" 
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=AnyWire" 
           },
           {
             "name": "SSCNET",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=SSCNET" 
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=SSCNET" 
           },
           {
             "name": "MELSECNET/H",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/H"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/H"
           },
           {
             "name": "MELSECNET/10",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/10"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET/10"
           },
           {
             "name": "MELSECNET(II)/B",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET(II)/B"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=MELSECNET(II)/B"
           },
           {
             "name": "Serial communication",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Serial%20communication" 
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=Serial%20communication" 
           },
           {
             "name": "FL-net(OPCN-2)",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=FL-net%20(OPCN-2)"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcnet&category=discon&bunrui1=FL-net%20(OPCN-2)"
           }
         ]
 			},

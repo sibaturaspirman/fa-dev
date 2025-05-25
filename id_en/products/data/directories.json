@@ -179,7 +179,7 @@
           },
           {
             "name": "Contactors and Motor Starters",
-            "path": "/id_en/products/lvd/lvsw/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/index.html"
           },
           {
             "name": "Power Management Meters",
@@ -193,7 +193,7 @@
         "child": [
           {
             "name": "Protection Relays",
-            "path": "/id_en/products/mvd/pror/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/mvd/pror/index.html"
           }
         ]
       },
@@ -257,11 +257,11 @@
         "child": [
           {
             "name": "Specifications list",
-            "path": "/id_en/products/spec.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/spec.html"
           },
           {
             "name": "Products certified/compliant to standards",
-            "path": "/id_en/products/standard.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/standard.html"
           },
           {
             "name": "Discontinued(alternative models) products",
@@ -309,7 +309,7 @@
           },
           {
             "name": "Data communication software",
-            "path": "/id_en/products/software/data-sharing-software/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/software/data-sharing-software/index.html"
           },
           {
             "name": "Energy Saving Support Software",
@@ -327,7 +327,7 @@
         "child": [
           {
             "name": "Integrated engineering software",
-            "path": "/id_en/sols/efactory/sft/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/sols/efactory/sft/index.html"
           },
           {
             "name": "PLC engineering software (MELSEC)",

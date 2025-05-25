@@ -31,7 +31,7 @@
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/software/search.page?mode=software&kisyu=/ssc"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ssc"
 					}
 				
 				]
@@ -123,7 +123,7 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/software/search.page?mode=software&kisyu=/ssc"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ssc"
 			}
 				
 		]

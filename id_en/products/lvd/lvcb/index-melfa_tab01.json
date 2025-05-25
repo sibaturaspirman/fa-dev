@@ -1,7 +1,13 @@
 {
   "listLinkLabel": "News",
-  "listLink": "/id_en/products/lvd/lvcb/news_2024.html",
+  "listLink": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/news_2024.html",
   "items": [
+    {
+      "pubDate": "Dec 27, 2024",
+      "title": "Regarding Dechlorane Plus is added.",
+      "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&amp;kisyu=%2Flvcb&amp;c1=Technical+News&amp;c2=&amp;c3=&amp;c4=2",
+      "description": ""
+    },
     {
       "pubDate": "Jun 3, 2024",
       "title": "About the Combination for selective breaking of Molded Case Circuit Breakers is added.",
@@ -23,12 +29,6 @@
     {
       "pubDate": "Dec 27, 2023",
       "title": "Specification changes for the internal accessories of MCCBs &amp; ELCBs is added.",
-      "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&amp;kisyu=%2Flvcb&amp;c1=&amp;c2=&amp;c3=&amp;c4=3",
-      "description": ""
-    },
-    {
-      "pubDate": "Oct 6, 2023",
-      "title": "Production discontinuation of MCCB, ELCB, MCB and ACB is added.",
       "link": "https://www.mitsubishielectric.com/app/fa/download/search.do?mode=techinfo&amp;kisyu=%2Flvcb&amp;c1=&amp;c2=&amp;c3=&amp;c4=3",
       "description": ""
     }

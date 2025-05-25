@@ -65,7 +65,7 @@
       {
         "group": "Standard",
         "name": "Various certification systems",
-        "feature": "/id_en/products/standard.html#anc_05"
+        "feature": "https://www.mitsubishielectric.com/fa/products/standard.html#anc_05"
       },
       {
         "group": "Standard",
@@ -78,7 +78,7 @@
         "feature": "/id_en/products/cnt/plcr/pmerit/concept/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "standard": "",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon"
         },
         {
         "group": "LP3-1",
@@ -110,7 +110,7 @@
         "feature": "/id_en/products/cnt/plcr/pmerit/lup/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/plcr",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon"
         },
         {
         "group": "LP3-1",
@@ -166,7 +166,7 @@
         "feature": "/id_en/products/cnt/plcr/pmerit/network/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
         },
         {
         "group": "LP3-1",
@@ -174,7 +174,7 @@
         "feature": "/id_en/products/cnt/plcr/pmerit/it_connect/index.html",
         "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
         "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?menu=undefined&kisyu=/plcr&radio=Information/network&search=B&word=Information/network",
-        "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
+        "discon": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcr&category=discon&bunrui1=Information/network"
         },
         {
         "group": "LP3-1",
