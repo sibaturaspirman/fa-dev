@@ -11,12 +11,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/id_en/download/search.page?mode=catalog&kisyu=/cnc"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/cnc"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/id_en/download/search.page?mode=manual&kisyu=/cnc"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/cnc"
 					},
 					{
 						"name": "Technical Bulletin",
@@ -31,7 +31,7 @@
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/software/search.page?mode=software&kisyu=/cnc"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/cnc"
 					}
 				]
 			}
@@ -43,17 +43,17 @@
 		"items": [
 			{
 				"name": "Future of Mitsubishi Electric CNC",
-				"img": "/id_en/products/cnt/cnc/img/spotlight_difference.jpg",
+				"img": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/spotlight_difference.jpg",
 				"link": "/id_en/products/cnt/cnc/pr/difference/index.html"
 			},
 			{
 				"name": "M800V/M80V Series",
-				"img": "/id_en/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
+				"img": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/spotlight_web_m800v_m80v.jpg",
 				"link": "/id_en/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html"
 			},
 			{
 				"name": "NC Virtual Simulator",
-				"img": "/id_en/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
+				"img": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/spotlight_nc_virtual_simulator.jpg",
 				"link": "/id_en/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html"
 			}
 		]
@@ -64,7 +64,7 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/id_en/products/faspec/search.page?kisyu=/cnc"
+				"link": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/cnc"
 			}
 		]
 	},
@@ -73,11 +73,11 @@
 		"items": [
 			{
 				"name": "Digital Catalogs",
-				"link": "/id_en/products/cnt/cnc/pmerit/web_catalog/catalog_en.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/web_catalog/catalog_en.html"
 			},
 			{
 				"name": "Movie",
-				"link": "/id_en/products/cnt/cnc/pmerit/movie/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/movie/index.html"
 			},
 			{
 				"name": "Events",
@@ -85,7 +85,7 @@
 			},
 			{
 				"name": "CNC NEWS",
-				"link": "/id_en/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?q=&mode=catalog&kisyu=%2Fcnc&kisyuid=&sort=0&lang=1&listView=1&category1=CNC+News&category2=&category3=&preview=&changeKeywordFlag="
 			}
 		]
 	},
@@ -103,12 +103,12 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/id_en/download/search.page?mode=catalog&kisyu=/cnc"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/cnc"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/id_en/download/search.page?mode=manual&kisyu=/cnc"
+				"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/cnc"
 			},
 			{
 				"name": "Technical Bulletin",
@@ -123,7 +123,7 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/software/search.page?mode=software&kisyu=/cnc"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/cnc"
 			}
 		]
 	},
@@ -136,13 +136,13 @@
 		"items": [
 			{
 				"name": "YouTube MECHATRO PLUS",
-				"image": "/id_en/products/cnt/cnc/img/banner_youtube_mecha.jpg",
+				"image": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/img/banner_youtube_mecha.jpg",
 				"link": "https://www.youtube.com/c/MITSUBISHIELECTRICMECHATRONICS"
 			},
 			{
 				"name": "FA SPEC Search",
 				"image": "/id_en/products/assets/img/banner_fa-spec-search.jpg",
-				"link": "/id_en/mobile-apps/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/mobile-apps/index.html"
 			}
 		]
 	},

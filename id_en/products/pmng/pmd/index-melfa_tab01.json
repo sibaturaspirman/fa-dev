@@ -1,23 +1,35 @@
 {
   "listLinkLabel": "News",
-  "listLink": "/id_en/products/pmng/pmd/news_2024.html",
+  "listLink": "https://www.mitsubishielectric.com/fa/products/pmng/pmd/news_2025.html",
   "items": [
     {
-      "pubDate": "Jul 24, 2024",
-      "title": "Specification change of instrument transformers is added.",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/pmd#YAMA488",
+      "pubDate": "May 20, 2025",
+      "title": "Production discontinuation of measuring instrument and energy saving supporting devices is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/pmd#YAMA500",
       "description": ""
     },
     {
-      "pubDate": "Jul 11, 2024",
-      "title": "Compliance with EU Battery Regulations for Power Management Meters and Energy Saving Supporting Devices is added.",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/pmd#YAMA486",
+      "pubDate": "Mar 31, 2025",
+      "title": "Production discontinuation of instrument transformers is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/pmd#YAMA493",
       "description": ""
     },
     {
-      "pubDate": "Feb 19, 2024",
-      "title": "Discontinuation of ELECTRONIC MULTI-MEASURING INSTRUMENT is added.",
-      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/pmd#YAMA473",
+      "pubDate": "Dec 24, 2024",
+      "title": "Regarding the handling of products containing Dechlorane Plus is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=techinfo&amp;kisyu=/pmd#PMM-YE-0002",
+      "description": ""
+    },
+    {
+      "pubDate": "Dec 12, 2024",
+      "title": "Notice of Change in Display Viewing Angle (ME96 Series) is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=techinfo&amp;kisyu=/pmd#PMM-YE-0001",
+      "description": ""
+    },
+    {
+      "pubDate": "Oct 29, 2024",
+      "title": "Specification change of indication for EMU and ME96 Series is added.",
+      "link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=sales&amp;kisyu=/pmd#YAMA459",
       "description": ""
     }
   ]

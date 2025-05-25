@@ -2,7 +2,7 @@
 	"floatingMenu": {
 		"specificItems": [
 			{
-				"link": "/dl/fa/document/catalog/competencies/l16101/l16101.pdf",
+				"link": "https://www.mitsubishielectric.com/dl/fa/document/catalog/competencies/l16101/l16101.pdf",
 				"icon": "download",
 				"name": "Catalog<br>Download"
 			}

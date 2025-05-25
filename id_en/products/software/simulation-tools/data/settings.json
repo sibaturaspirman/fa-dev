@@ -56,12 +56,12 @@
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/id_en/dctlg/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_en/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -91,7 +91,7 @@
 				"child": [
 					{
 						"name": "MELSOFT Gemini",
-						"link": "/id_en/download/search.page?mode=catalog&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=catalog&kisyu=/3dsim"
 					}
 				]				
 			},
@@ -102,7 +102,7 @@
 				"child": [
 					{
 						"name": "MELSOFT Gemini",
-						"link": "/id_en/download/search.page?mode=manual&kisyu=/3dsim"
+						"link": "https://www.mitsubishielectric.com/fa/download/search.page?mode=manual&kisyu=/3dsim"
 					}
 				]				
 			},
@@ -117,11 +117,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/id_en/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/id_en/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},

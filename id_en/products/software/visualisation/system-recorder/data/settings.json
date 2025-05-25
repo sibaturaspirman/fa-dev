@@ -9,12 +9,12 @@
 					{
 						"name": "Catalog",
 						"icon": "catalog",
-						"link": "/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
 					},
 					{
 						"name": "Manual",
 						"icon": "manual",
-						"link": "/app/fa/download/search.do?kisyu=/plcr&mode=manual"
+						"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
 					}
 				]
 			},
@@ -51,12 +51,12 @@
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/id_en/dctlg/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
 				"icon": "tree",
-				"link": "/id_en/products/select/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/select/index.html"
 			}
 		]
 	},
@@ -82,12 +82,12 @@
 			{
 				"name": "Catalog",
 				"icon": "catalog",
-				"link": "/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=catalog"
 			},
 			{
 				"name": "Manual",
 				"icon": "manual",
-				"link": "/app/fa/download/search.do?kisyu=/plcr&mode=manual"
+				"link": "https://www.mitsubishielectric.com/app/fa/download/search.do?kisyu=/plcr&mode=manual"
 			}
 		]
 	},
@@ -95,11 +95,11 @@
 		"items": [
 			{
 				"name": "FA e-Learning",
-				"link": "/id_en/assist/e-learning/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/e-learning/index.html"
 			},
 			{
 				"name": "FA Terminology Dictionary",
-				"link": "/id_en/assist/fa_dictionary/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/assist/fa_dictionary/index.html"
 			}
 		]
 	},

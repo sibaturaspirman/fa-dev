@@ -37,19 +37,19 @@
 	},
 	{
 		"name": "GOT2000 Series",
-		"url": "/id_en/products/hmi/got/items/got2000/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/got2000/index.html",
 		"number": "07",
 		"target": "_self"
 	},
 	{
 		"name": "e-F@ctory starter package",
-		"url": "/id_en/products/software/visualisation/support-module/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/support-module/index.html",
 		"number": "08",
    		"target": "_self"
 	},
 	{
 		"name": "2-Dimensional Fiber Laser Processing Systems GX-F Series",
-		"url": "/id_en/products/mecha/laser/pmerit/lup/fiber2d.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/pmerit/lup/fiber2d.html",
 		"number": "09",
 		"target": "_self"
 	},
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "GOT2000 Series (GOT Mobile Function)",
-		"url": "/id_en/products/hmi/got/pmerit/got2000/got_solutions/case_01.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_01.html",
 		"number": "16",
 		"target": "_self"
 	},

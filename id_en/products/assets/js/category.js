@@ -13,8 +13,8 @@ const productsLabels = {
 // おすすめカタログ用ドキュメントリンク機能追加
 const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
   if(docNo && docNo !== '' && kisyuNo && kisyuNo !== '') {
-    const GET_DOCUMENT_LINK_INFO = "/app/fa/DocumentSearchService/GetDocumentLinkInfo.do";
-    const NEW_GET_DOCUMENT_LINK_INFO = "/id_en/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
+    const GET_DOCUMENT_LINK_INFO = "https://www.mitsubishielectric.com/app/fa/DocumentSearchService/GetDocumentLinkInfo.do";
+    const NEW_GET_DOCUMENT_LINK_INFO = "https://www.mitsubishielectric.com/fa/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson";
     let count = 0;
     let kisyuSwitchedFlag = false;
     for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -194,8 +194,8 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     'induction': '/id_en/products/drv/induction/',
     'clutch': '/id_en/products/drv/clutch/',
     'tencon': '/id_en/products/drv/tencon/',
-    'got': '/id_en/products/hmi/got/',
-    'got_soft': '/id_en/products/hmi/got/',
+    'got': 'https://www.mitsubishielectric.com/fa/products/hmi/got/',
+    'got_soft': 'https://www.mitsubishielectric.com/fa/products/hmi/got/',
     'robot': '/id_en/products/rbt/robot/',
     'lvcb': '/id_en/products/lvd/lvcb/',
     'lvsw': '/id_en/products/lvd/lvsw/',
@@ -203,7 +203,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
     'trns': '/id_en/products/taca/trns/',
     'capa': '/id_en/products/taca/capa/',
     'vcbvmc': '/id_en/products/mvd/vcbvmc/',
-    'pror': '/id_en/products/mvd/pror/',
+    'pror': 'https://www.mitsubishielectric.com/fa/products/mvd/pror/',
     'fuses': '/id_en/products/mvd/fuses/',
     'mvsw': '/id_en/products/mvd/mvsw/',
     'ems': '/id_en/products/pmng/ems/',
@@ -745,14 +745,14 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
         }
       }
       // 規格適合品
-      else if(currentPathWithQuery.indexOf('/id_en/products/standard/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('https://www.mitsubishielectric.com/fa/products/standard/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
           path: '/id_en/products/index.html'
         }
       }
       // 生産終了品
-      else if(currentPathWithQuery.indexOf('/id_en/products/dbdbsearch/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
           path: '/id_en/products/index.html'
