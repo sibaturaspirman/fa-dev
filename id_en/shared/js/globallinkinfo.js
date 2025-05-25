@@ -1,9 +1,9 @@
-// ƒOƒ[ƒoƒ‹ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN
+// ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½N
 var GET_DOCUMENT_LINK_INFO = "https://www.mitsubishielectric.com/app/fa/DocumentSearchService/GetDocumentLinkInfo.do?";
 var NEW_GET_DOCUMENT_LINK_INFO = "https://www.mitsubishielectric.com/fa/linkinfo/DocumentSearchService/GetDocumentLinkInfoJson?";
-// ƒhƒLƒ…ƒƒ“ƒg‚ÌƒT[ƒo
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ÌƒTï¿½[ï¿½o
 var DOC_DOMAIN_NAME="";
-// ƒCƒ[ƒW‚ÌƒT[ƒo[
+// ï¿½Cï¿½ï¿½ï¿½[ï¿½Wï¿½ÌƒTï¿½[ï¿½oï¿½[
 var IMG_DOMAIN_NAME="https://www.mitsubishielectric.co.jp";
 
 var DOC_NO = "\"documentNO1\"";
@@ -19,30 +19,30 @@ var EPUB_ICON_IMG="";
 var DNP_ICON_IMG="";
 
 
-var DIRECT_LINK_CATALOG  ="/app/fa/download/search.do?mode=catalog&kisyu=";
-//var DIRECT_LINK_TECHNEWS ="/app/fa/products/documentsearch/technews/technicalNews.do?kisyu=";
-var DIRECT_LINK_TECHNEWS ="/app/fa/download/techinfo/search.do?mode=technews&kisyu=";
-//var DIRECT_LINK_SALESE   ="/app/fa/products/documentsearch/sales/salesService.do?kisyu=";
-var DIRECT_LINK_SALESE   ="/app/fa/download/techinfo/search.do?mode=sales&kisyu=";
-//var DIRECT_LINK_NPRODUCT ="/app/fa/products/documentsearch/nproduct/newProductNews.do?kisyu=";
-var DIRECT_LINK_NPRODUCT ="/app/fa/download/search.do?mode=nproduct&kisyu=";
-var DIRECT_LINK_MANUAL   ="/app/fa/download/search.do?mode=manual&kisyu=";
-var DIRECT_LINK_CURVE     ="/app/fa/download/techinfo/search.do?mode=curve&kisyu=";
-var DIRECT_LINK_TECHSHEET ="/app/fa/download/techinfo/search.do?mode=techsheet&kisyu=";
-var DIRECT_LINK_REPORT    ="/app/fa/download/techinfo/search.do?mode=report&kisyu=";
-var DIRECT_LINK_TECHLIB    ="/app/fa/download/techinfo/search.do?mode=techlib&kisyu=";
+var DIRECT_LINK_CATALOG  ="https://www.mitsubishielectric.com/app/fa/download/search.do?mode=catalog&kisyu=";
+//var DIRECT_LINK_TECHNEWS ="https://www.mitsubishielectric.com/app/fa/products/documentsearch/technews/technicalNews.do?kisyu=";
+var DIRECT_LINK_TECHNEWS ="https://www.mitsubishielectric.com/app/fa/download/techinfo/search.do?mode=technews&kisyu=";
+//var DIRECT_LINK_SALESE   ="https://www.mitsubishielectric.com/app/fa/products/documentsearch/sales/salesService.do?kisyu=";
+var DIRECT_LINK_SALESE   ="https://www.mitsubishielectric.com/app/fa/download/techinfo/search.do?mode=sales&kisyu=";
+//var DIRECT_LINK_NPRODUCT ="https://www.mitsubishielectric.com/app/fa/products/documentsearch/nproduct/newProductNews.do?kisyu=";
+var DIRECT_LINK_NPRODUCT ="https://www.mitsubishielectric.com/app/fa/download/search.do?mode=nproduct&kisyu=";
+var DIRECT_LINK_MANUAL   ="https://www.mitsubishielectric.com/app/fa/download/search.do?mode=manual&kisyu=";
+var DIRECT_LINK_CURVE     ="https://www.mitsubishielectric.com/app/fa/download/techinfo/search.do?mode=curve&kisyu=";
+var DIRECT_LINK_TECHSHEET ="https://www.mitsubishielectric.com/app/fa/download/techinfo/search.do?mode=techsheet&kisyu=";
+var DIRECT_LINK_REPORT    ="https://www.mitsubishielectric.com/app/fa/download/techinfo/search.do?mode=report&kisyu=";
+var DIRECT_LINK_TECHLIB    ="https://www.mitsubishielectric.com/app/fa/download/techinfo/search.do?mode=techlib&kisyu=";
 
-var DIRECT_LINK_CATALOG_NEW  ="/fa/download/search.do?mode=catalog&kisyu=";
-var DIRECT_LINK_TECHNEWS_NEW ="/fa/download/techinfo/search.do?mode=technews&kisyu=";
-var DIRECT_LINK_SALESE_NEW   ="/fa/download/techinfo/search.do?mode=sales&kisyu=";
-var DIRECT_LINK_NPRODUCT_NEW ="/fa/download/search.do?mode=nproduct&kisyu=";
-var DIRECT_LINK_MANUAL_NEW   ="/fa/download/search.do?mode=manual&kisyu=";
-var DIRECT_LINK_CURVE_NEW     ="/fa/download/techinfo/search.do?mode=curve&kisyu=";
-var DIRECT_LINK_TECHSHEET_NEW ="/fa/download/techinfo/search.do?mode=techsheet&kisyu=";
-var DIRECT_LINK_REPORT_NEW    ="/fa/download/techinfo/search.do?mode=report&kisyu=";
-var DIRECT_LINK_TECHLIB_NEW    ="/fa/download/techinfo/search.do?mode=techlib&kisyu=";
+var DIRECT_LINK_CATALOG_NEW  ="https://www.mitsubishielectric.com/fa/download/search.do?mode=catalog&kisyu=";
+var DIRECT_LINK_TECHNEWS_NEW ="https://www.mitsubishielectric.com/fa/download/techinfo/search.do?mode=technews&kisyu=";
+var DIRECT_LINK_SALESE_NEW   ="https://www.mitsubishielectric.com/fa/download/techinfo/search.do?mode=sales&kisyu=";
+var DIRECT_LINK_NPRODUCT_NEW ="https://www.mitsubishielectric.com/fa/download/search.do?mode=nproduct&kisyu=";
+var DIRECT_LINK_MANUAL_NEW   ="https://www.mitsubishielectric.com/fa/download/search.do?mode=manual&kisyu=";
+var DIRECT_LINK_CURVE_NEW     ="https://www.mitsubishielectric.com/fa/download/techinfo/search.do?mode=curve&kisyu=";
+var DIRECT_LINK_TECHSHEET_NEW ="https://www.mitsubishielectric.com/fa/download/techinfo/search.do?mode=techsheet&kisyu=";
+var DIRECT_LINK_REPORT_NEW    ="https://www.mitsubishielectric.com/fa/download/techinfo/search.do?mode=report&kisyu=";
+var DIRECT_LINK_TECHLIB_NEW    ="https://www.mitsubishielectric.com/fa/download/techinfo/search.do?mode=techlib&kisyu=";
 
-// —v‘f”Ô†
+// ï¿½vï¿½fï¿½Ôï¿½
 var xmlno = 0;
 var xmldispno = 1;
 var xmlurl = 2;
@@ -72,10 +72,10 @@ var xmldnpsize=24;
 var count=0;
 function createXmlHttp(){
  if(window.XMLHttpRequest){
-  // IE7ˆÈãASAFARIAFireFox
+  // IE7ï¿½Èï¿½ASAFARIï¿½AFireFox
   return new XMLHttpRequest();
  } else if(window.ActiveXObject){
-  // IE5AIE6
+  // IE5ï¿½AIE6
   try {
    // MSXML3
    return new ActiveXObject("Msxml2.XMLHTTP");
@@ -84,21 +84,21 @@ function createXmlHttp(){
    return new ActiveXObject("Microsoft.XMLHTTP");
   }
  } else{
-  // ”ñ‘Î‰‚Ìƒuƒ‰ƒEƒU
+  // ï¿½ï¿½Î‰ï¿½ï¿½Ìƒuï¿½ï¿½ï¿½Eï¿½U
   return null;
  }
 }
 
 function loadDataLinkinfo() {
-	$("<script type='text/javascript' charset='utf-8' src='/fa/shared/js/ikouKisyu.js'></script>").appendTo("body");
+	$("<script type='text/javascript' charset='utf-8' src='/id_en/shared/js/ikouKisyu.js'></script>").appendTo("body");
 }
 
 
-// ƒJƒ^ƒƒOƒŠƒ“ƒN•\¦
+// ï¿½Jï¿½^ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toCatalogInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'catalog', DIRECT_LINK_CATALOG, DIRECT_LINK_CATALOG_NEW);
-         // ƒOƒ[ƒoƒ‹‚Ìê‡‚Í"9","11"‚Í‘ÎÛŠO ƒOƒ[ƒoƒ‹ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‘Î‰‚Å‘ÎÛ‚É‚·‚é
+         // ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½Ìê‡ï¿½ï¿½"9","11"ï¿½Í‘ÎÛŠO ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Î‰ï¿½ï¿½Å‘ÎÛ‚É‚ï¿½ï¿½ï¿½
          if (anchorType == "9" || anchorType == "10" || anchorType == "11") {
          //if (anchorType == "10") {
            if (ret != null && ret != "") {
@@ -109,11 +109,11 @@ function toCatalogInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssu
          }
      }
 }
-// ƒJƒ^ƒƒOƒŠƒ“ƒN•\¦
+// ï¿½Jï¿½^ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toCatalogInfoA(elemid, kisyuNo, anchorType, titleType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if( kisyuNo != null && kisyuNo != "" && anchorType != null && anchorType != "" && titleType != null && titleType != ""){
          var ret = makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'cataloga', DIRECT_LINK_CATALOG, DIRECT_LINK_CATALOG_NEW);
-         // ƒOƒ[ƒoƒ‹‚Ìê‡‚Í"9","11"‚Í‘ÎÛŠO
+         // ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½Ìê‡ï¿½ï¿½"9","11"ï¿½Í‘ÎÛŠO
          //if (anchorType == "9" || anchorType == "10" || anchorType == "11") {
          if (anchorType == "10") {
            if (ret != null && ret != "") {
@@ -125,7 +125,7 @@ function toCatalogInfoA(elemid, kisyuNo, anchorType, titleType, directFlg, ancho
      }
 }
 
-//ƒeƒNƒjƒJƒ‹ƒjƒ…[ƒXƒŠƒ“ƒN•\¦
+//ï¿½eï¿½Nï¿½jï¿½Jï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toTechnewsInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'technews', DIRECT_LINK_TECHNEWS, DIRECT_LINK_TECHNEWS_NEW);
@@ -138,7 +138,7 @@ function toTechnewsInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIss
          }
      }
 }
-// ƒZ[ƒ‹ƒX‚ÆƒT[ƒrƒXƒŠƒ“ƒN•\¦
+// ï¿½Zï¿½[ï¿½ï¿½ï¿½Xï¿½ÆƒTï¿½[ï¿½rï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toSalesInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'sales', DIRECT_LINK_SALESE, DIRECT_LINK_SALESE_NEW);
@@ -151,7 +151,7 @@ function toSalesInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueF
          }
     }
 }
-// V»•iƒjƒ…[ƒXƒŠƒ“ƒN•\¦
+// ï¿½Vï¿½ï¿½ï¿½iï¿½jï¿½ï¿½ï¿½[ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toNproductInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'nproduct', DIRECT_LINK_NPRODUCT, DIRECT_LINK_NPRODUCT_NEW);
@@ -164,7 +164,7 @@ function toNproductInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIss
          }
     }
 }
-// ƒ}ƒjƒ…ƒAƒ‹ƒŠƒ“ƒN•\¦
+// ï¿½}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toManualInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
         var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'manual', DIRECT_LINK_MANUAL, DIRECT_LINK_MANUAL_NEW);
@@ -188,7 +188,7 @@ function toManualInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssue
         }
     }
 }
-// ƒ}ƒjƒ…ƒAƒ‹ƒŠƒ“ƒN•\¦ ƒ}ƒCƒy[ƒW—p
+// ï¿½}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½ ï¿½}ï¿½Cï¿½yï¿½[ï¿½Wï¿½p
 function toManualInfoA(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
         var obj = document.getElementById(kisyuNo);
@@ -208,7 +208,7 @@ function toManualInfoA(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssu
         }
     }
 }
-// ‚»‚Ì‘¼‚ÌPDFî•ñƒŠƒ“ƒN•\¦
+// ï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½PDFï¿½ï¿½ñƒŠƒï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toOthersInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
         var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'other' ,'' ,'');
@@ -221,7 +221,7 @@ function toOthersInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssue
         }
     }
 }
-// ƒeƒNƒjƒJƒ‹ƒ‰ƒCƒuƒ‰ƒŠƒŠƒ“ƒN•\¦
+// ï¿½eï¿½Nï¿½jï¿½Jï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 //function toTecLibInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
 //    if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
 //         var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'techlib');
@@ -234,7 +234,7 @@ function toOthersInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssue
 //         }
 //    }
 //}
-//“Á«‹Èüƒf[ƒ^•\¦
+//ï¿½ï¿½ï¿½ï¿½ï¿½Èï¿½ï¿½fï¿½[ï¿½^ï¿½\ï¿½ï¿½
 function toCurveInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'curve', DIRECT_LINK_CURVE, DIRECT_LINK_CURVE_NEW);
@@ -247,7 +247,7 @@ function toCurveInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueF
          }
      }
 }
-//ƒeƒNƒjƒJƒ‹ƒV[ƒg•\¦
+//ï¿½eï¿½Nï¿½jï¿½Jï¿½ï¿½ï¿½Vï¿½[ï¿½gï¿½\ï¿½ï¿½
 function toTechsheetInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'techsheet', DIRECT_LINK_TECHSHEET, DIRECT_LINK_TECHSHEET_NEW);
@@ -260,7 +260,7 @@ function toTechsheetInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIs
          }
      }
 }
-//ƒeƒXƒgƒŒƒ|[ƒgƒŠƒ“ƒN•\¦
+//ï¿½eï¿½Xï¿½gï¿½ï¿½ï¿½|ï¿½[ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½\ï¿½ï¿½
 function toReportInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'report', DIRECT_LINK_REPORT, DIRECT_LINK_REPORT_NEW);
@@ -273,7 +273,7 @@ function toReportInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssue
          }
      }
 }
-//‹Zp‘—¿•\¦
+//ï¿½Zï¿½pï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½
 function toTechLibInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol){
     if(docNo != null && docNo != "" && kisyuNo != null && kisyuNo != ""){
          var ret = makeLinkPage(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, 'techlib', DIRECT_LINK_TECHLIB, DIRECT_LINK_TECHLIB_NEW);
@@ -287,7 +287,7 @@ function toTechLibInfo(elemid, docNo, kisyuNo, anchorType, directFlg, anchorIssu
      }
 }
 //******************************************************************************************************************************************************
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN HTMLƒCƒ[ƒWì¬
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½N HTMLï¿½Cï¿½ï¿½ï¿½[ï¿½Wï¿½ì¬
 //******************************************************************************************************************************************************
 function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, docType, directlink, directlinkNew) {
 	loadDataLinkinfo();
@@ -295,8 +295,8 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 		document.write(errOut(anchorType, anchorTitle,docNo));
 		return;
 	}
-    // ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‚Ö‚Ì’ÊM
-    // ƒpƒ‰ƒ[ƒ^‚Ìİ’è
+    // ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Ö‚Ì’ÊM
+    // ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½^ï¿½Ìİ’ï¿½
     if (docNo == "" && pdfVol != null && pdfVol != "") {
 		var param = { "kisyuNO":kisyuNo, "documentType":docType, "seqNo":pdfVol};
     } else if (docNo == "" && (pdfVol == null || pdfVol == "")) {
@@ -310,7 +310,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 //	document.write("<div class=\"test"+localCount+"\"></div>");
 //	for (i=0; i< 2; i++) {
     
-	// ˆÚs‘ÎÛ‹@í‚Å‚ ‚é‚©”»’è
+	// ï¿½Úsï¿½ÎÛ‹@ï¿½ï¿½Å‚ï¿½ï¿½é‚©ï¿½ï¿½ï¿½ï¿½
 	var count = 0;
 	var flg = false;
 	for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -319,7 +319,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 			break;
 		}
 	}
-	// ‹@í–¼‚Å‚Ì”»’è(‹@íID‚Åƒtƒ‰ƒO‚ªtrue‚É‚È‚Á‚½ê‡‚ÍƒXƒLƒbƒvj
+	// ï¿½@ï¿½í–¼ï¿½Å‚Ì”ï¿½ï¿½ï¿½(ï¿½@ï¿½ï¿½IDï¿½Åƒtï¿½ï¿½ï¿½Oï¿½ï¿½trueï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍƒXï¿½Lï¿½bï¿½vï¿½j
 	if (!flg) {
 		for ( count=0; count<=KISYU_NAME_ARRAY.length; count++) {
 			if (KISYU_NAME_ARRAY[count] == kisyuNo) {
@@ -330,7 +330,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 	}
 	
 	var postUrl = "";
-    // ’ÊM‚ğOPEN
+    // ï¿½ÊMï¿½ï¿½OPEN
     if (flg) {
         postUrl = NEW_GET_DOCUMENT_LINK_INFO;
         directlink = directlinkNew
@@ -338,7 +338,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
         postUrl = GET_DOCUMENT_LINK_INFO;
     }
 
-		// ’ÊM‚ğOPEN
+		// ï¿½ÊMï¿½ï¿½OPEN
 		$.ajax({
 			type: "GET",
 			cache: true,
@@ -346,11 +346,11 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 			async:false,
 			data: param,
 			dataType: 'jsonp'}).done( function (json){
-				// •Ô‚è’l‚w‚l‚k‚Ìæ“¾
+				// ï¿½Ô‚ï¿½lï¿½wï¿½lï¿½kï¿½Ìæ“¾
 				var chtm = new Array();
 				var errorcode = json.ErrorCD;
 				if(errorcode == 0){
-					// DocumentLinkInfo‚ª•¡”‘¶İ‚µ‚½ê‡‚Í1‚Â–Ú‚Ìƒf[ƒ^‚ğg‚¤
+					// DocumentLinkInfoï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½İ‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ï¿½1ï¿½Â–Ú‚Ìƒfï¿½[ï¿½^ï¿½ï¿½ï¿½gï¿½ï¿½
 					var localDocumentLinkInfo = json.DocumentLinkInfoList.DocumentLinkInfo;
 					if (Object.prototype.toString.call(localDocumentLinkInfo) === '[object Array]') {
 						localDocumentLinkInfo = json.DocumentLinkInfoList.DocumentLinkInfo[0];
@@ -363,11 +363,11 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 					var pdfver = versionSet(datas,directFlg);
 
 					
-					// ƒ_ƒCƒŒƒNƒgURLİ’è
+					// ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gURLï¿½İ’ï¿½
 					if(directurl != null && directurl != ""){
 						directurl = directurl + datas[xmlkisyupath];
 					}
-					// ƒ^ƒCƒgƒ‹ƒ^ƒCƒv
+					// ï¿½^ï¿½Cï¿½gï¿½ï¿½ï¿½^ï¿½Cï¿½v
 					if ( (Number(anchorType) >= 0 && Number(anchorType) < 5) || anchorType == "11" ) {
 					//if ( (Number(anchorType) >= 0 && Number(anchorType) < 5) ) {
 						chtm.push("<table>");
@@ -383,16 +383,16 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 						chtm.push(imageSet(documentNo, datas[xmlimgKisyu], directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
 						chtm.push("</table>");
 					}else if(anchorType == "6"){
-						// ‰æ‘œiƒJƒ^ƒƒOˆê———pj
+						// ï¿½æ‘œï¿½iï¿½Jï¿½^ï¿½ï¿½ï¿½Oï¿½ê——ï¿½pï¿½j
 						chtm.push("<table>");
 						chtm.push(imageSet(documentNo, datas[xmlimgCatalog], directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
 						chtm.push("</table>");
-					// ƒOƒ[ƒoƒ‹‚Ìê‡‚Í"7"`"9"‚Í‘ÎÛŠO ¨ƒOƒ[ƒoƒ‹ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‘Î‰‚Å‘ÎÛ‚ÉC³
+					// ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½Ìê‡ï¿½ï¿½"7"ï¿½`"9"ï¿½Í‘ÎÛŠO ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Î‰ï¿½ï¿½Å‘ÎÛ‚ÉCï¿½ï¿½
 					}else if(anchorType == "7") {
-						// ‰æ‘œi”CˆÓj
+						// ï¿½æ‘œï¿½iï¿½Cï¿½Ój
 						chtm.push(imageSet(documentNo, datas[xmlimgOption], directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
 					}else if(anchorType == "8") {
-						// ‰æ‘œiPDFƒAƒCƒRƒ“j
+						// ï¿½æ‘œï¿½iPDFï¿½Aï¿½Cï¿½Rï¿½ï¿½ï¿½j
 						var imgUrl = ""
 						if (directFlg == 3){
 							imgUrl=EMA_ICON_IMG;
@@ -405,17 +405,17 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 						}
 						chtm.push(imageSet(documentNo, imgUrl, directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
 					}else if(anchorType == "9") {
-						// ƒy[ƒWƒWƒƒƒ“ƒv
+						// ï¿½yï¿½[ï¿½Wï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½v
 						return pageLocation(directFlg, pdfurl, directurl, datas[xmlno], pdfPage);
 					}else if(anchorType == "10") {
-						// ƒy[ƒWƒWƒƒƒ“ƒv
+						// ï¿½yï¿½[ï¿½Wï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½v
 						chtm.push(getUrl(directFlg, pdfurl, directurl, pdfPage));
-					// ƒOƒ[ƒoƒ‹‚Ìê‡‚Í"12"‚Í‘ÎÛŠO ¨ƒOƒ[ƒoƒ‹ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‘Î‰‚Å‘ÎÛ‚ÉC³
+					// ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½Ìê‡ï¿½ï¿½"12"ï¿½Í‘ÎÛŠO ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Î‰ï¿½ï¿½Å‘ÎÛ‚ÉCï¿½ï¿½
 					}else if(anchorType == "12") {
 						uptoolTopics(anchorType, documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, directFlg, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage);
 						return;
 					}else if(anchorType == "13") {
-						// ”­s”NŒ‚Ì‚İ
+						// ï¿½ï¿½ï¿½sï¿½Nï¿½ï¿½ï¿½Ì‚ï¿½
 						if (datas[xmldate] != null && datas[xmldate] != "") {
 							titleOut(anchorType, documentNo, pdfver, datas[xmldate], anchorTitle, anchorNewLine, directFlg, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage);
 							return;
@@ -424,7 +424,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 							chtm.push(errOut(anchorType, anchorTitle,docNo));
 						}
 					}else if(anchorType == "14") {
-						// ƒTƒCƒY‚Ì‚İ
+						// ï¿½Tï¿½Cï¿½Yï¿½Ì‚ï¿½
 						var filesize = sizeSet(datas,directFlg);
 						if (filesize != null && filesize != "") {
 							var orgsize = Number(filesize);
@@ -447,7 +447,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 							chtm.push(errOut(anchorType, anchorTitle,docNo));
 						}
 					}else if(anchorType == "15") {
-						// •ª—Ş‚Ì‚İ
+						// ï¿½ï¿½ï¿½Ş‚Ì‚ï¿½
 						if (datas[xmlbunruil] != null && datas[xmlbunruil] != "") {
 							titleOut(anchorType, documentNo, pdfver, datas[xmlbunruil], anchorTitle, anchorNewLine, directFlg, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage);
 							return;
@@ -462,7 +462,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 						titleOut(anchorType, documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, directFlg, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage);
 						return;
 					}else {
-						// •ªŠ„
+						// ï¿½ï¿½ï¿½ï¿½
 						var outhtm = new Array();
 						var split = anchorType.split(" ");
 						if (split.length) {
@@ -496,7 +496,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 										}
 										break;
 									case 15:
-										// •ª—Ş‚Ì‚İ
+										// ï¿½ï¿½ï¿½Ş‚Ì‚ï¿½
 										if (datas[xmlbunruil] != null && datas[xmlbunruil] != "") {
 											outhtm.push(datas[xmlbunruil]);
 										} else {
@@ -504,23 +504,23 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 										}
 										break;
 									case 18:
-										// ‘—¿–¼Ì‚Ì‚İ
+										// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ì‚ï¿½
 										outhtm.push(titleSetNoTable("0", documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, 0, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage));
 										break;
 									case 19:
-										// ‘—¿–¼Ì‚Ì‚İ
+										// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ì‚ï¿½
 										outhtm.push(titleSetNoTable("1", documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, 0, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage));
 										break;
 									case 20:
-										// ‘—¿–¼Ì‚Ì‚İ
+										// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ì‚ï¿½
 										outhtm.push(titleSetNoTable("2", documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, 0, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage));
 										break;
 									case 21:
-										// ‘—¿–¼Ì‚Ì‚İ
+										// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ì‚ï¿½
 										outhtm.push(titleSetNoTable("3", documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, 0, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage));
 										break;
 									case 22:
-										// ‘—¿–¼Ì‚Ì‚İ
+										// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ì‚ï¿½
 										outhtm.push(titleSetNoTable("4", documentNo, pdfver, datas[xmltitle], anchorTitle, anchorNewLine, 0, pdfurl, directurl,datas[xmlanchor], datas[xmlno], pdfPage));
 										break;
 									}
@@ -535,7 +535,7 @@ function makeLinkPage(elemid,docNo, kisyuNo, anchorType, directFlg, anchorIssueF
 							return;
 						}
 					}
-					// ƒXƒe[ƒ^ƒX
+					// ï¿½Xï¿½eï¿½[ï¿½^ï¿½X
 					chtm.push(dispStatus);
 					if (anchorType == "11") {
 					   return chtm.join("");
@@ -575,8 +575,8 @@ function titleSetNoTable(titleType, docNo, docVer, title, anchorTitle, anchorNew
 	if (!no) { no = ""; }
 	if (!pdfPage) { pdfPage = ""; }
 	var titlehtm = new Array();
-	// ƒ^ƒCƒgƒ‹ƒ^ƒCƒv
-	// ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+	// ï¿½^ï¿½Cï¿½gï¿½ï¿½ï¿½^ï¿½Cï¿½v
+	// ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
 	if(directFlg == 0){
 	}else if(directFlg == 1){
 		var setPdfUrl = pdfUrl;
@@ -591,24 +591,24 @@ function titleSetNoTable(titleType, docNo, docVer, title, anchorTitle, anchorNew
 	} else {
 	}
 	if(titleType == "0" || titleType == "11"){
-	 //‘—¿”Ô† + "-" + ƒo[ƒWƒ‡ƒ“
+	 //ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½ + "-" + ï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½
 		if (docVer != null && docVer != "") {
 			titlehtm.push(docNo + "-" + docVer);
 		} else {
 			titlehtm.push(docNo);
 		}
 	}else if(titleType == "1"){
-		//‘—¿”Ô† + ƒo[ƒWƒ‡ƒ“
+		//ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½ + ï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½
 		if (docVer != null && docVer != "") {
 			titlehtm.push(docNo + docVer);
 		} else {
 			titlehtm.push(docNo);
 		}
 	}else if(titleType == "2"){
-		//‘—¿”Ô†
+		//ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½
 		titlehtm.push(docNo);
 	}else if(titleType == "3"){
-		//‘—¿–¼Ì
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		var setTitle;
 		if (anchorNewLine != null && anchorNewLine != "") {
 		 var buf1 = title.substring(0, anchorNewLine);
@@ -619,7 +619,7 @@ function titleSetNoTable(titleType, docNo, docVer, title, anchorTitle, anchorNew
 		}
 		titlehtm.push(setTitle);
 	}else if(titleType == "4"){
-		//”CˆÓ•¶š‚ğİ’è
+		//ï¿½Cï¿½Ó•ï¿½ï¿½ï¿½ï¿½ï¿½İ’ï¿½
 		if (anchorTitle == '') {
 		  titlehtm.push(docNo);
 		} else {
@@ -628,7 +628,7 @@ function titleSetNoTable(titleType, docNo, docVer, title, anchorTitle, anchorNew
 	} else {
 		return '';
 	}
-	// ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+	// ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
 	if(directFlg == 0){
 	}else if(directFlg == 1){
 		titlehtm.push("</a>");
@@ -643,7 +643,7 @@ function titleSetNoTable(titleType, docNo, docVer, title, anchorTitle, anchorNew
 
 
 //******************************************************************************************************************************************************
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN ‚¨‚·‚·‚ßƒJƒ^ƒƒO
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½N ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ßƒJï¿½^ï¿½ï¿½ï¿½O
 //******************************************************************************************************************************************************
 function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFlag, anchorNewLine, anchorTitle, imgWidth, imgHeight, imgBorder, pdfPage, pdfVol, docType, directlink) {
 	loadDataLinkinfo();
@@ -651,15 +651,15 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
 		document.write(errOut(anchorType, anchorTitle,docNo));
 		return;
 	}
-    // ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‚Ö‚Ì’ÊM
-    // ƒpƒ‰ƒ[ƒ^‚Ìİ’è
+    // ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Ö‚Ì’ÊM
+    // ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½^ï¿½Ìİ’ï¿½
     var parameter = KISYU_NO + "=" + kisyuNo + "&" +DOCUMENT_TYPE + "=" + docType;
     var httpObj = createXmlHttp();
     if(httpObj == null){
         return;
     }
     for (i=0; i< 2; i++) {
-	// ˆÚs‘ÎÛ‹@í‚Å‚ ‚é‚©”»’è
+	// ï¿½Úsï¿½ÎÛ‹@ï¿½ï¿½Å‚ï¿½ï¿½é‚©ï¿½ï¿½ï¿½ï¿½
 	var count = 0;
 	var flg = false;
 	for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -668,7 +668,7 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
 			break;
 		}
 	}
-	// ‹@í–¼‚Å‚Ì”»’è(‹@íID‚Åƒtƒ‰ƒO‚ªtrue‚É‚È‚Á‚½ê‡‚ÍƒXƒLƒbƒvj
+	// ï¿½@ï¿½í–¼ï¿½Å‚Ì”ï¿½ï¿½ï¿½(ï¿½@ï¿½ï¿½IDï¿½Åƒtï¿½ï¿½ï¿½Oï¿½ï¿½trueï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍƒXï¿½Lï¿½bï¿½vï¿½j
 	if (!flg) {
 		for ( count=0; count<=KISYU_NAME_ARRAY.length; count++) {
 			if (KISYU_NAME_ARRAY[count] == kisyuNo) {
@@ -678,7 +678,7 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
 		}
 	}
 
-    // ’ÊM‚ğOPEN
+    // ï¿½ÊMï¿½ï¿½OPEN
     if (flg) {
         httpObj.open("POST", NEW_GET_DOCUMENT_LINK_INFO, false);
     } else {
@@ -688,7 +688,7 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
     httpObj.send(parameter);
     if(httpObj.readyState == 4){
         if(httpObj.status == 200){
-             // •Ô‚è’l‚w‚l‚k‚Ìæ“¾
+             // ï¿½Ô‚ï¿½lï¿½wï¿½lï¿½kï¿½Ìæ“¾
              xmlData  = httpObj.responseXML;
              var errorcode = xmlData.getElementsByTagName("ErrorCD")[0].childNodes[0].nodeValue;
              if(errorcode == 0){
@@ -702,23 +702,23 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
 
                var chtm = new Array();
                chtm.push("<table width='100%'>");
-               // ƒ_ƒCƒŒƒNƒgURLİ’è
+               // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gURLï¿½İ’ï¿½
                if(directurl != null && directurl != ""){
                  directurl = directurl + datas[xmlkisyupath];
                }
-               // ‰æ‘œƒ^ƒCƒv               
+               // ï¿½æ‘œï¿½^ï¿½Cï¿½v               
                if(anchorType == "5"){
-                   // ‰æ‘œi‹@íƒgƒbƒv—pj
+                   // ï¿½æ‘œï¿½iï¿½@ï¿½ï¿½gï¿½bï¿½vï¿½pï¿½j
                    chtm.push(imageSet(documentNo, datas[xmlimgKisyu], directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
                }else if(anchorType == "6"){
-                   // ‰æ‘œiƒJƒ^ƒƒOˆê———pj
+                   // ï¿½æ‘œï¿½iï¿½Jï¿½^ï¿½ï¿½ï¿½Oï¿½ê——ï¿½pï¿½j
                    chtm.push(imageSet(documentNo, datas[xmlimgCatalog], directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
-               // ƒOƒ[ƒoƒ‹‚Ìê‡‚Í"7"`"9"‚Í‘ÎÛŠO
+               // ï¿½Oï¿½ï¿½ï¿½[ï¿½oï¿½ï¿½ï¿½Ìê‡ï¿½ï¿½"7"ï¿½`"9"ï¿½Í‘ÎÛŠO
                //}else if(anchorType == "7") {
-               //    // ‰æ‘œi”CˆÓj
+               //    // ï¿½æ‘œï¿½iï¿½Cï¿½Ój
                //    chtm.push(imageSet(documentNo, datas[xmlimgOption], directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
                //}else if(anchorType == "8") {
-               //    // ‰æ‘œiPDFƒAƒCƒRƒ“j
+               //    // ï¿½æ‘œï¿½iPDFï¿½Aï¿½Cï¿½Rï¿½ï¿½ï¿½j
                //    var imgUrl = ""
                //    if (directFlg == 3){
                //        imgUrl=EMA_ICON_IMG;
@@ -731,14 +731,14 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
                //   }
                //    chtm.push(imageSet(documentNo, imgUrl, directFlg, pdfurl, directurl, datas[xmlanchor], imgWidth, imgHeight, datas[xmlno], imgBorder, pdfPage));
                //}else if(anchorType == "9") {
-               //    // ƒy[ƒWƒWƒƒƒ“ƒv
+               //    // ï¿½yï¿½[ï¿½Wï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½v
                //    return pageLocation(directFlg, pdfurl, directurl, datas[xmlno], pdfPage);
                }
 
-               // ƒ^ƒCƒgƒ‹ƒ^ƒCƒv
+               // ï¿½^ï¿½Cï¿½gï¿½ï¿½ï¿½^ï¿½Cï¿½v
                chtm.push(titleSet(titleType, documentNo, datas[xmlver], datas[xmltitle], anchorTitle, anchorNewLine,0,'','','', datas[xmlno], pdfPage));
 
-               // ”­s(‰ü’è) “ú•tƒtƒ‰ƒO
+               // ï¿½ï¿½ï¿½s(ï¿½ï¿½ï¿½ï¿½) ï¿½ï¿½ï¿½tï¿½tï¿½ï¿½ï¿½O
                if (anchorIssueFlag == "1") {
                    chtm.push("<tr><td class='docLinkDate'>");
                    setDate ="";
@@ -746,10 +746,10 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
                    chtm.push("[" +setDate+ "]");
                    chtm.push("</td></tr>");
                }
-               // ƒXƒe[ƒ^ƒX
+               // ï¿½Xï¿½eï¿½[ï¿½^ï¿½X
                chtm.push(dispStatus);
                chtm.push("</table>");
-               // •\¦ˆ—
+               // ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
                document.write(chtm.join(""));
                return;
              } else {
@@ -757,7 +757,7 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
              }
              break;
          }else{
-         // ’ÊMƒGƒ‰[
+         // ï¿½ÊMï¿½Gï¿½ï¿½ï¿½[
            if (i > 0) {
              document.write(errOut(titleType, anchorTitle));
            }
@@ -767,22 +767,22 @@ function makeLinkPage2(kisyuNo, anchorType, titleType, directFlg, anchorIssueFla
 }
 
 //******************************************************************************************************************************************************
-// ƒ}ƒjƒ…ƒAƒ‹ƒŠƒ“ƒNiˆø”‚Pj
+// ï¿½}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Pï¿½j
 //******************************************************************************************************************************************************
 function makeLinkPageOrgManual(docNo,kisyuNo) {
 	loadDataLinkinfo();
 
-    var NO_DATA = "ƒ}ƒjƒ…ƒAƒ‹”Ô†";
+    var NO_DATA = "ï¿½}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ôï¿½";
 
-    // ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‚Ö‚Ì’ÊM
-    // ƒpƒ‰ƒ[ƒ^‚Ìİ’è
+    // ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Ö‚Ì’ÊM
+    // ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½^ï¿½Ìİ’ï¿½
     var parameter = DOC_NO + "=" + docNo + "&" +DOCUMENT_TYPE + "=manual";
     var httpObj = createXmlHttp();
     if(httpObj == null){
         return;
     }
     for (i=0; i< 2; i++) {
-	// ˆÚs‘ÎÛ‹@í‚Å‚ ‚é‚©”»’è
+	// ï¿½Úsï¿½ÎÛ‹@ï¿½ï¿½Å‚ï¿½ï¿½é‚©ï¿½ï¿½ï¿½ï¿½
 	var count = 0;
 	var flg = false;
 	for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -791,7 +791,7 @@ function makeLinkPageOrgManual(docNo,kisyuNo) {
 			break;
 		}
 	}
-	// ‹@í–¼‚Å‚Ì”»’è(‹@íID‚Åƒtƒ‰ƒO‚ªtrue‚É‚È‚Á‚½ê‡‚ÍƒXƒLƒbƒvj
+	// ï¿½@ï¿½í–¼ï¿½Å‚Ì”ï¿½ï¿½ï¿½(ï¿½@ï¿½ï¿½IDï¿½Åƒtï¿½ï¿½ï¿½Oï¿½ï¿½trueï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍƒXï¿½Lï¿½bï¿½vï¿½j
 	if (!flg) {
 		for ( count=0; count<=KISYU_NAME_ARRAY.length; count++) {
 			if (KISYU_NAME_ARRAY[count] == kisyuNo) {
@@ -801,7 +801,7 @@ function makeLinkPageOrgManual(docNo,kisyuNo) {
 		}
 	}
 
-    // ’ÊM‚ğOPEN
+    // ï¿½ÊMï¿½ï¿½OPEN
     if (flg) {
         httpObj.open("POST", NEW_GET_DOCUMENT_LINK_INFO, false);
     } else {
@@ -811,7 +811,7 @@ function makeLinkPageOrgManual(docNo,kisyuNo) {
     httpObj.send(parameter);
     if(httpObj.readyState == 4){
         if(httpObj.status == 200){
-             // •Ô‚è’l‚w‚l‚k‚Ìæ“¾
+             // ï¿½Ô‚ï¿½lï¿½wï¿½lï¿½kï¿½Ìæ“¾
              xmlData  = httpObj.responseXML;
              var errorcode = xmlData.getElementsByTagName("ErrorCD")[0].childNodes[0].nodeValue;
              if(errorcode == 0){
@@ -834,7 +834,7 @@ function makeLinkPageOrgManual(docNo,kisyuNo) {
                }
              }
          }else{
-         // ’ÊMƒGƒ‰[
+         // ï¿½ÊMï¿½Gï¿½ï¿½ï¿½[
          }
      }
      }
@@ -843,23 +843,23 @@ function makeLinkPageOrgManual(docNo,kisyuNo) {
 }
 
 //******************************************************************************************************************************************************
-// ƒ}ƒjƒ…ƒAƒ‹ƒŠƒ“ƒNiˆø”‚Qj
+// ï¿½}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½iï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½j
 //******************************************************************************************************************************************************
 function makeLinkPageOrgManualA(docNo, id) {
 
 	loadDataLinkinfo();
-    var NO_DATA = "ƒ}ƒjƒ…ƒAƒ‹”Ô†";
+    var NO_DATA = "ï¿½}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ôï¿½";
     var obj = document.getElementById(id);
 
-    // ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‚Ö‚Ì’ÊM
-    // ƒpƒ‰ƒ[ƒ^‚Ìİ’è
+    // ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Ö‚Ì’ÊM
+    // ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½^ï¿½Ìİ’ï¿½
     var parameter = DOC_NO + "=" + docNo + "&" +DOCUMENT_TYPE + "=manual";
     var httpObj = createXmlHttp();
     if(httpObj == null){
         return;
     }
     for (i=0; i< 2; i++) {
-	// ˆÚs‘ÎÛ‹@í‚Å‚ ‚é‚©”»’è
+	// ï¿½Úsï¿½ÎÛ‹@ï¿½ï¿½Å‚ï¿½ï¿½é‚©ï¿½ï¿½ï¿½ï¿½
 	var count = 0;
 	var flg = false;
 	for ( count=0; count<=KISYU_ARRAY.length; count++) {
@@ -868,7 +868,7 @@ function makeLinkPageOrgManualA(docNo, id) {
 			break;
 		}
 	}
-	// ‹@í–¼‚Å‚Ì”»’è(‹@íID‚Åƒtƒ‰ƒO‚ªtrue‚É‚È‚Á‚½ê‡‚ÍƒXƒLƒbƒvj
+	// ï¿½@ï¿½í–¼ï¿½Å‚Ì”ï¿½ï¿½ï¿½(ï¿½@ï¿½ï¿½IDï¿½Åƒtï¿½ï¿½ï¿½Oï¿½ï¿½trueï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍƒXï¿½Lï¿½bï¿½vï¿½j
 	if (!flg) {
 		for ( count=0; count<=KISYU_NAME_ARRAY.length; count++) {
 			if (KISYU_NAME_ARRAY[count] == kisyuNo) {
@@ -878,7 +878,7 @@ function makeLinkPageOrgManualA(docNo, id) {
 		}
 	}
 
-    // ’ÊM‚ğOPEN
+    // ï¿½ÊMï¿½ï¿½OPEN
     if (flg) {
         httpObj.open("POST", NEW_GET_DOCUMENT_LINK_INFO, false);
     } else {
@@ -888,7 +888,7 @@ function makeLinkPageOrgManualA(docNo, id) {
     httpObj.send(parameter);
     if(httpObj.readyState == 4){
         if(httpObj.status == 200){
-             // •Ô‚è’l‚w‚l‚k‚Ìæ“¾
+             // ï¿½Ô‚ï¿½lï¿½wï¿½lï¿½kï¿½Ìæ“¾
              xmlData  = httpObj.responseXML;
              var errorcode = xmlData.getElementsByTagName("ErrorCD")[0].childNodes[0].nodeValue;
              if(errorcode == 0){
@@ -904,7 +904,7 @@ function makeLinkPageOrgManualA(docNo, id) {
                }
              }
          }else{
-         // ’ÊMƒGƒ‰[
+         // ï¿½ÊMï¿½Gï¿½ï¿½ï¿½[
          }
      }
      }
@@ -912,9 +912,9 @@ function makeLinkPageOrgManualA(docNo, id) {
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// ‰“šXMLƒf[ƒ^‚ğ•Ï”‚ÉŠi”[‚µ‚Ü‚·
-// ˆø” xmlDataF‰“šXMLƒf[ƒ^
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½ï¿½ï¿½ï¿½XMLï¿½fï¿½[ï¿½^ï¿½ï¿½Ïï¿½ï¿½ÉŠiï¿½[ï¿½ï¿½ï¿½Ü‚ï¿½
+// ï¿½ï¿½ï¿½ï¿½ xmlDataï¿½Fï¿½ï¿½ï¿½ï¿½XMLï¿½fï¿½[ï¿½^
 //---------------------------------------------
 function ansXmlDataToArray(xmlData) {
    var ansXmlData = new Array();
@@ -961,8 +961,8 @@ function ansXmlDataToArray(xmlData) {
    if(xmlData.DocDate != null){
      var date = xmlData.DocDate;
      var buff = date.split("/");
-     //ansXmlData[xmldate] = buff[0] + "”N" + buff[1] + "Œ";
-     //YYYY/MMEÖEÏEX
+     //ansXmlData[xmldate] = buff[0] + "ï¿½N" + buff[1] + "ï¿½ï¿½";
+     //YYYY/MMï¿½EÖEÏEX
      ansXmlData[xmldate] = buff[0] + "-" + buff[1];
    }
    if(xmlData.DocStatus != null){
@@ -980,7 +980,7 @@ function ansXmlDataToArray(xmlData) {
    if(xmlData.DocPdfSize != null){
      ansXmlData[xmlpdfsize] = xmlData.DocPdfSize;
    }
-   // ƒhƒLƒ…ƒƒ“ƒgDB‰ü‘P@ƒtƒF[ƒY2‘Î‰
+   // ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gDBï¿½ï¿½ï¿½Pï¿½@ï¿½tï¿½Fï¿½[ï¿½Y2ï¿½Î‰ï¿½
    // E-manual
    if(xmlData.DocEmaURL != null){
        ansXmlData[xmlemaurl] = xmlData.DocEmaURL;
@@ -1025,10 +1025,10 @@ function ansXmlDataToArray(xmlData) {
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// “o˜^ó‘Ô‚ğHTMLƒCƒ[ƒW‚ğì¬‚µ‚Ü‚·B
-// ˆø” datasF‰“šXMLƒf[ƒ^”z—ñ
-// –ß‚è’l@@G“o˜^ó‘ÔHTMLƒCƒ[ƒW
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½oï¿½^ï¿½ï¿½Ô‚ï¿½HTMLï¿½Cï¿½ï¿½ï¿½[ï¿½Wï¿½ï¿½ï¿½ì¬ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
+// ï¿½ï¿½ï¿½ï¿½ datasï¿½Fï¿½ï¿½ï¿½ï¿½XMLï¿½fï¿½[ï¿½^ï¿½zï¿½ï¿½
+// ï¿½ß‚ï¿½lï¿½@ï¿½@ï¿½Gï¿½oï¿½^ï¿½ï¿½ï¿½HTMLï¿½Cï¿½ï¿½ï¿½[ï¿½W
 //---------------------------------------------
 function dispStatusSet(datas) {
    var dispStatus = new Array();
@@ -1047,8 +1047,8 @@ function dispStatusSet(datas) {
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// ‘—¿”Ô†‚Ìì¬‚ğs‚¢‚Ü‚·B
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½ï¿½Ìì¬ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 //---------------------------------------------
 function documentNoSet(datas) {
    var documentNo = '';
@@ -1060,7 +1060,7 @@ function documentNoSet(datas) {
    return documentNo;
 }
 //---------------------------------------------
-// URL‚Ìæ“¾‚ğs‚¢‚Ü‚·B
+// URLï¿½Ìæ“¾ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 //---------------------------------------------
 function pdfurlSet(datas,directFlg) {
    var pdfUrl ='#';
@@ -1084,7 +1084,7 @@ function pdfurlSet(datas,directFlg) {
    return pdfUrl;
 }
 //---------------------------------------------
-// ƒo[ƒWƒ‡ƒ“‚Ìæ“¾‚ğs‚¢‚Ü‚·B
+// ï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½Ìæ“¾ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 //---------------------------------------------
 function versionSet(datas,directFlg) {
    var version ='';
@@ -1100,7 +1100,7 @@ function versionSet(datas,directFlg) {
    return version;
 }
 //---------------------------------------------
-// ƒTƒCƒY‚Ìæ“¾‚ğs‚¢‚Ü‚·B
+// ï¿½Tï¿½Cï¿½Yï¿½Ìæ“¾ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 //---------------------------------------------
 function sizeSet(datas,directFlg) {
    var size ='';
@@ -1117,8 +1117,8 @@ function sizeSet(datas,directFlg) {
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// ƒ^ƒCƒgƒ‹‚ÌHTMLƒCƒ[ƒW‚ğì¬‚µ‚Ü‚·B
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½^ï¿½Cï¿½gï¿½ï¿½ï¿½ï¿½HTMLï¿½Cï¿½ï¿½ï¿½[ï¿½Wï¿½ï¿½ï¿½ì¬ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 //---------------------------------------------
 function titleSet(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, directFlg, pdfUrl, directUrl, anchorUrl, no, pdfPage) {
    if (!titleType) { titleType = ""; }
@@ -1134,9 +1134,9 @@ function titleSet(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
    if (!no) { no = ""; }
    if (!pdfPage) { pdfPage = ""; }
    var titlehtm = new Array();
-   // ƒ^ƒCƒgƒ‹ƒ^ƒCƒv
+   // ï¿½^ï¿½Cï¿½gï¿½ï¿½ï¿½^ï¿½Cï¿½v
    titlehtm.push("<tr><td class='docLinkSiryo'>");
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        var setPdfUrl = pdfUrl;
@@ -1151,24 +1151,24 @@ function titleSet(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
    } else {
    }
    if(titleType == "0" || titleType == "11"){
-     //‘—¿”Ô† + "-" + ƒo[ƒWƒ‡ƒ“
+     //ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½ + "-" + ï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½
        if (docVer != null && docVer != "") {
            titlehtm.push(docNo + "-" + docVer);
        } else {
            titlehtm.push(docNo);
        }
    }else if(titleType == "1"){
-       //‘—¿”Ô† + ƒo[ƒWƒ‡ƒ“
+       //ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½ + ï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½
        if (docVer != null && docVer != "") {
            titlehtm.push(docNo + docVer);
        } else {
            titlehtm.push(docNo);
        }
    }else if(titleType == "2"){
-       //‘—¿”Ô†
+       //ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½
        titlehtm.push(docNo);
    }else if(titleType == "3"){
-       //‘—¿–¼Ì
+       //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
        var setTitle;
        if (anchorNewLine != null && anchorNewLine != "") {
          var buf1 = title.substring(0, anchorNewLine);
@@ -1179,7 +1179,7 @@ function titleSet(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
        }
        titlehtm.push(setTitle);
    }else if(titleType == "4"){
-       //”CˆÓ•¶š‚ğİ’è
+       //ï¿½Cï¿½Ó•ï¿½ï¿½ï¿½ï¿½ï¿½İ’ï¿½
        if (anchorTitle == '') {
           titlehtm.push(docNo);
        } else {
@@ -1188,7 +1188,7 @@ function titleSet(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
    } else {
        return '';
    }
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        titlehtm.push("</a>");
@@ -1203,8 +1203,8 @@ function titleSet(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// ‰æ‘œ‚ÌHTMLƒCƒ[ƒW‚ğì¬‚µ‚Ü‚·B
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½æ‘œï¿½ï¿½HTMLï¿½Cï¿½ï¿½ï¿½[ï¿½Wï¿½ï¿½ï¿½ì¬ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 //---------------------------------------------
 function imageSet(docno, imageFile, directFlg, pdfUrl, directUrl, anchorUrl, imgWidth, imgHeight, no, imgBorder, pdfPage) {
    if (!docno) { docno = ""; }
@@ -1219,9 +1219,9 @@ function imageSet(docno, imageFile, directFlg, pdfUrl, directUrl, anchorUrl, img
    if (!imgBorder) { imgBorder = ""; }
    if (!pdfPage) { pdfPage = ""; }
    var imghtm = new Array();
-   // ‰æ‘œ•\¦ƒGƒŠƒA
+   // ï¿½æ‘œï¿½\ï¿½ï¿½ï¿½Gï¿½ï¿½ï¿½A
    imghtm.push("<tr><td class='docLinkImage'>");
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        if (no == anchorUrl ) {
@@ -1239,7 +1239,7 @@ function imageSet(docno, imageFile, directFlg, pdfUrl, directUrl, anchorUrl, img
        imghtm.push("<a href='" + pdfUrl + "' title='" + docno + "' target='_top'>");
    } else {
    }
-   // ‰æ‘œ
+   // ï¿½æ‘œ
    var setImgFile = "";
    if(IMG_DOMAIN_NAME != ""){
    		setImgFile = IMG_DOMAIN_NAME;
@@ -1251,17 +1251,17 @@ function imageSet(docno, imageFile, directFlg, pdfUrl, directUrl, anchorUrl, img
        imghtm.push("<img src='" + setImgFile + "'");
    }
 
-   // ‰¡•İ’è
+   // ï¿½ï¿½ï¿½ï¿½ï¿½İ’ï¿½
    if (imgWidth != null && imgWidth != "") {
        imghtm.push(" width='"+ imgWidth  + "'");
    }
-   // c•İ’è
+   // ï¿½cï¿½ï¿½ï¿½İ’ï¿½
    if (imgHeight != null && imgHeight != "") {
        imghtm.push(" height='"+ imgHeight + "'");
    }
    imghtm.push(" >");
 
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        imghtm.push("</a>");
@@ -1281,15 +1281,15 @@ function pageLocation(directFlg, pdfurl, directurl, no, pdfPage) {
        if (pdfPage != null && pdfPage != "") {
            setPdfUrl = pdfurl + "#page="+pdfPage;
        }
-       // PDFƒtƒ@ƒCƒ‹‚Ì‚½‚ß•ÊƒEƒCƒ“ƒhƒE‚ÅŠJ‚­
+       // PDFï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß•ÊƒEï¿½Cï¿½ï¿½ï¿½hï¿½Eï¿½ÅŠJï¿½ï¿½
        window.open(setPdfUrl);
        return true;
    } else if (directFlg == 2 && directurl != null && directurl != ""){
-       // ƒRƒ“ƒeƒ“ƒc‚Ì‚½‚ß“¯ˆêƒEƒCƒ“ƒhƒE‚ÅŠJ‚­
+       // ï¿½Rï¿½ï¿½ï¿½eï¿½ï¿½ï¿½cï¿½Ì‚ï¿½ï¿½ß“ï¿½ï¿½ï¿½Eï¿½Cï¿½ï¿½ï¿½hï¿½Eï¿½ÅŠJï¿½ï¿½
        top.location.href = directurl+ "#" + no;
        return true;
    } else if( directFlg == 3 || directFlg == 4 || directFlg == 5) {
-       // PDFƒtƒ@ƒCƒ‹‚Ì‚½‚ß•ÊƒEƒCƒ“ƒhƒE‚ÅŠJ‚­
+       // PDFï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß•ÊƒEï¿½Cï¿½ï¿½ï¿½hï¿½Eï¿½ÅŠJï¿½ï¿½
        window.open(pdfurl);
        return true;
    }
@@ -1298,14 +1298,14 @@ function pageLocation(directFlg, pdfurl, directurl, no, pdfPage) {
 
 function getUrl(directFlg, pdfurl, directurl, pdfPage) {
    if (directFlg == 0 || directFlg == 1) {
-       // PDFƒtƒ@ƒCƒ‹‚Ì‚½‚ß•ÊƒEƒCƒ“ƒhƒE‚ÅŠJ‚­
+       // PDFï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß•ÊƒEï¿½Cï¿½ï¿½ï¿½hï¿½Eï¿½ÅŠJï¿½ï¿½
        var setPdfUrl = pdfurl;
        if (pdfPage != null && pdfPage != "") {
            setPdfUrl = pdfurl + "#page="+pdfPage;
        }
        return setPdfUrl;
    } else if (directFlg == 2  && directurl != ""){
-       // ƒRƒ“ƒeƒ“ƒc‚Ì‚½‚ß“¯ˆêƒEƒCƒ“ƒhƒE‚ÅŠJ‚­
+       // ï¿½Rï¿½ï¿½ï¿½eï¿½ï¿½ï¿½cï¿½Ì‚ï¿½ï¿½ß“ï¿½ï¿½ï¿½Eï¿½Cï¿½ï¿½ï¿½hï¿½Eï¿½ÅŠJï¿½ï¿½
        return directurl;
    } else if (directFlg == 3  || directFlg == 4 || directFlg == 5){
        return pdfurl;
@@ -1314,8 +1314,8 @@ function getUrl(directFlg, pdfurl, directurl, pdfPage) {
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// ƒGƒ‰[‚Ìo—Í‚ğs‚¢‚Ü‚·
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½Gï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Ìoï¿½Í‚ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½
 //---------------------------------------------
 function errOut(titleType, anchorTitle, docNo) {
    var outString = "";
@@ -1330,8 +1330,8 @@ function errOut(titleType, anchorTitle, docNo) {
 }
 
 //---------------------------------------------
-// ƒhƒLƒ…ƒƒ“ƒgƒŠƒ“ƒN‹¤’ÊƒƒWƒbƒN
-// ƒAƒbƒvƒc[ƒ‹‚¨’m‚ç‚¹—p‚Ìo—Í‚ğs‚¢‚Ü‚·
+// ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Êƒï¿½ï¿½Wï¿½bï¿½N
+// ï¿½Aï¿½bï¿½vï¿½cï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ç‚¹ï¿½pï¿½Ìoï¿½Í‚ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½
 //---------------------------------------------
 function uptoolTopics(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, directFlg, pdfUrl, directUrl, anchorUrl, no, pdfPage) {
    if (!titleType) { titleType = ""; }
@@ -1347,7 +1347,7 @@ function uptoolTopics(titleType, docNo, docVer, title, anchorTitle, anchorNewLin
    if (!no) { no = ""; }
    if (!pdfPage) { pdfPage = ""; }
    var titlehtm = new Array();
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        var setPdfUrl = pdfUrl;
@@ -1361,15 +1361,15 @@ function uptoolTopics(titleType, docNo, docVer, title, anchorTitle, anchorNewLin
        titlehtm.push("<a href='" + pdfUrl + "' title='" + docNo + "' target='_blank'>");
    } else {
    }
-   //”CˆÓ•¶š‚ğİ’è
-       //”CˆÓ•¶š‚ğİ’è
+   //ï¿½Cï¿½Ó•ï¿½ï¿½ï¿½ï¿½ï¿½İ’ï¿½
+       //ï¿½Cï¿½Ó•ï¿½ï¿½ï¿½ï¿½ï¿½İ’ï¿½
        if (anchorTitle == '') {
           titlehtm.push(docNo);
        } else {
           titlehtm.push(anchorTitle);
        }
 //   titlehtm.push(anchorTitle);
-   // ƒ_ƒCƒŒƒNƒg•\¦Etƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½Etï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        titlehtm.push("</a>");
@@ -1395,7 +1395,7 @@ function docNoOut(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
    if (!no) { no = ""; }
    if (!pdfPage) { pdfPage = ""; }
    var titlehtm = new Array();
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        var setPdfUrl = pdfUrl;
@@ -1409,7 +1409,7 @@ function docNoOut(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
        titlehtm.push("<a href='" + pdfUrl + "' title='" + docNo + "' target='_blank'>");
    } else {
    }
-   //‘—¿”Ô† + ƒo[ƒWƒ‡ƒ“
+   //ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½ + ï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½
    if (docVer != null && docVer != "") {
        titlehtm.push(docNo);
        titlehtm.push("-");
@@ -1417,7 +1417,7 @@ function docNoOut(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
    } else {
        titlehtm.push(docNo);
    }
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        titlehtm.push("</a>");
@@ -1443,7 +1443,7 @@ function titleOut(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
    if (!no) { no = ""; }
    if (!pdfPage) { pdfPage = ""; }
    var titlehtm = new Array();
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        var setPdfUrl = pdfUrl;
@@ -1457,9 +1457,9 @@ function titleOut(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
        titlehtm.push("<a href='" + pdfUrl + "' title='" + docNo + "' target='_blank'>");
    } else {
    }
-   // ƒ^ƒCƒgƒ‹
+   // ï¿½^ï¿½Cï¿½gï¿½ï¿½
    titlehtm.push(title);
-   // ƒ_ƒCƒŒƒNƒg•\¦ƒtƒ‰ƒO
+   // ï¿½_ï¿½Cï¿½ï¿½ï¿½Nï¿½gï¿½\ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½O
    if(directFlg == 0){
    }else if(directFlg == 1){
        titlehtm.push("</a>");
@@ -1474,12 +1474,12 @@ function titleOut(titleType, docNo, docVer, title, anchorTitle, anchorNewLine, d
 
 
 /**
- * ‰“šƒf[ƒ^\‘¢‘Ì
- * @documentno   :‘—¿”Ô†
- * @pdfurl       :PDF‚ÌURL
- * @pdfsize      :PDFƒTƒCƒYiƒoƒCƒgj
- * @pdfver       :PDFƒo[ƒWƒ‡ƒ“
- * @documenttitle:‘—¿‚Ìƒ^ƒCƒgƒ‹
+ * ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½[ï¿½^ï¿½\ï¿½ï¿½ï¿½ï¿½
+ * ï¿½@documentno   :ï¿½ï¿½ï¿½ï¿½ï¿½Ôï¿½
+ * ï¿½@pdfurl       :PDFï¿½ï¿½URL
+ * ï¿½@pdfsize      :PDFï¿½Tï¿½Cï¿½Yï¿½iï¿½oï¿½Cï¿½gï¿½j
+ * ï¿½@pdfver       :PDFï¿½oï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½
+ * ï¿½@documenttitle:ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒ^ï¿½Cï¿½gï¿½ï¿½
  */
 function documentdatas(documentno, pdfurl, pdfsize, pdfver, documenttitle){
 	this.documentno=documentno;
@@ -1527,7 +1527,7 @@ function getDocumentDataList(docNos, kisyuId, type) {
 			requesturl.push(docNos);
 			roopflag=false;
 		}
-		// ƒŠƒNƒGƒXƒg‘—M
+		// ï¿½ï¿½ï¿½Nï¿½Gï¿½Xï¿½gï¿½ï¿½ï¿½M
 		var httpObj = createXmlHttp();
 		if(httpObj == null){
 			return;
@@ -1540,7 +1540,7 @@ function getDocumentDataList(docNos, kisyuId, type) {
 				break;
 			}
 		}
-		// ‹@í–¼‚Å‚Ì”»’è(‹@íID‚Åƒtƒ‰ƒO‚ªtrue‚É‚È‚Á‚½ê‡‚ÍƒXƒLƒbƒvj
+		// ï¿½@ï¿½í–¼ï¿½Å‚Ì”ï¿½ï¿½ï¿½(ï¿½@ï¿½ï¿½IDï¿½Åƒtï¿½ï¿½ï¿½Oï¿½ï¿½trueï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍƒXï¿½Lï¿½bï¿½vï¿½j
 		if (!flg) {
 		for ( count=0; count<=KISYU_NAME_ARRAY.length; count++) {
 				if (KISYU_NAME_ARRAY[count] == kisyuId) {
@@ -1550,7 +1550,7 @@ function getDocumentDataList(docNos, kisyuId, type) {
 			}
 		}
 
-	    // ’ÊM‚ğOPEN
+	    // ï¿½ÊMï¿½ï¿½OPEN
 	    if (flg) {
 	        httpObj.open("POST", NEW_GET_DOCUMENT_LINK_INFO, false);
 	    } else {
@@ -1560,7 +1560,7 @@ function getDocumentDataList(docNos, kisyuId, type) {
 		httpObj.send(requesturl.join(""));
 		if(httpObj.readyState == 4){
 			if(httpObj.status == 200){
-				 // •Ô‚è’l‚w‚l‚k‚Ìæ“¾
+				 // ï¿½Ô‚ï¿½lï¿½wï¿½lï¿½kï¿½Ìæ“¾
 				 xmlData  = httpObj.responseXML;
 				 var errorcode = xmlData.getElementsByTagName("ErrorCD")[0].childNodes[0].nodeValue;
 				 var workDocNumber = "";
@@ -1609,8 +1609,8 @@ function getDocumentDataList(docNos, kisyuId, type) {
 							if(xmlData.getElementsByTagName("DocDate")[j] != null && xmlData.getElementsByTagName("DocDate")[j].childNodes[0] != null){
 							 var date = xmlData.getElementsByTagName("DocDate")[j].childNodes[0].nodeValue;
 							 var buff = date.split("/");
-							 //YYYY/MM‚Ö•ÏX
-							 //ansXmlData[xmldate] = buff[0] + "”N" + buff[1] + "Œ";
+							 //YYYY/MMï¿½Ö•ÏX
+							 //ansXmlData[xmldate] = buff[0] + "ï¿½N" + buff[1] + "ï¿½ï¿½";
 							 ansXmlData[xmldate] = buff[0] + "-" + buff[1];
 							}
 							if(xmlData.getElementsByTagName("DocStatus")[j] != null && xmlData.getElementsByTagName("DocStatus")[j].childNodes[0] != null){
@@ -1632,7 +1632,7 @@ function getDocumentDataList(docNos, kisyuId, type) {
 				 				ret.push( new documentdatas(ansXmlData[xmlno], ansXmlData[xmlurl], ansXmlData[xmlpdfsize], ansXmlData[xmlver],  ansXmlData[xmltitle]) );
 				 				workDocNumber = ansXmlData[xmlno];
 				 			}
-						   // ƒhƒLƒ…ƒƒ“ƒgDB‰ü‘P@ƒtƒF[ƒY2‘Î‰
+						   // ï¿½hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gDBï¿½ï¿½ï¿½Pï¿½@ï¿½tï¿½Fï¿½[ï¿½Y2ï¿½Î‰ï¿½
 						   // E-manual
 						   if(xmlData.getElementsByTagName("DocEmaURL")[j] != null && xmlData.getElementsByTagName("DocEmaURL")[j].childNodes[0] != null){
 						       ansXmlData[xmlemaurl] = xmlData.getElementsByTagName("DocEmaURL")[j].childNodes[0].nodeValue;

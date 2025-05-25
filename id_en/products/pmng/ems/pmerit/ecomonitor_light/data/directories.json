@@ -57,8 +57,8 @@
         "group": "Energy Measuring Units",
         "name": "EcoMonitorLight",
         "feature": "/id_en/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
-        "spec": "/id_en/products/faspec/search.page?kisyu=/ems&search=B@@K-01&word=Energy Measuring Units@@EcoMonitorLight&current=EcoMonitorLight",
-        "standard": "/id_en/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorLight",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ems&search=B@@K-01&word=Energy Measuring Units@@EcoMonitorLight&current=EcoMonitorLight",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ems&current=EcoMonitorLight",
         "discon": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/ems&category=discon&current=EcoMonitorLight",
 		"return": {
 			"name": "Energy Measuring Units",

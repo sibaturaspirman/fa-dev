@@ -745,7 +745,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
         }
       }
       // 規格適合品
-      else if(currentPathWithQuery.indexOf('/id_en/products/standard/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('https://www.mitsubishielectric.com/fa/products/standard/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
           path: '/id_en/products/index.html'

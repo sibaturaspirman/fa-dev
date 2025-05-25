@@ -59,8 +59,8 @@
         "group": "Energy Saving Support Software",
         "name": "Energy Saving Support Software EcoAdviser",
         "feature": "/id_en/products/software/ems/eap/index.html",
-        "spec": "/id_en/products/faspec/search.page?kisyu=/ecoadviser&current=EcoAdviser",
-        "standard": "/id_en/products/standard/SearchServlet.page?kisyu=/ecoadviser&current=EcoAdviser",
+        "spec": "https://www.mitsubishielectric.com/fa/products/faspec/search.page?kisyu=/ecoadviser&current=EcoAdviser",
+        "standard": "https://www.mitsubishielectric.com/fa/products/standard/SearchServlet.page?kisyu=/ecoadviser&current=EcoAdviser",
         "discon": ""
       }
         ]
