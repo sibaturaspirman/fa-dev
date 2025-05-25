@@ -25,13 +25,13 @@
 	},
 	{
 		"name": "HMI GOT",
-		"url": "/id_en/products/hmi/got/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/index.html",
 		"number": "05",
 		"target": "_self"
 	},
 	{
 		"name": "GT SoftGOT2000",
-		"url": "/id_en/products/hmi/got/pmerit/sgt/sgt2000/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/sgt/sgt2000/index.html",
 		"number": "06",
 		"target": "_self"
 	},
@@ -79,13 +79,13 @@
 	},
 	{
 		"name": "e-F@ctory starter package",
-		"url": "/id_en/products/software/visualisation/support-module/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/support-module/index.html",
 		"number": "14",
 		"target": "_self"
 	},
 	{
 		"name": "iQ Monozukuri ANDON",
-		"url": "/id_en/products/hmi/got/pmerit/apppack/andon/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/apppack/andon/index.html",
 		"number": "15",
 		"target": "_self"
 	},
@@ -97,7 +97,7 @@
 	},
 	{
 		"name": "iQ Monozukuri Process Remote Monitoring",
-		"url": "/id_en/products/hmi/got/pmerit/apppack/prm/index.html",
+		"url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/apppack/prm/index.html",
 		"number": "17",
 		"target": "_self"
 	},
