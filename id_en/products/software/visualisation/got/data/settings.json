@@ -19,7 +19,7 @@
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/software/search.page?mode=software&kisyu=/got"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/got"
 					}
 				]
 			},
@@ -61,7 +61,7 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/software/search.page?mode=software&kisyu=/got"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/got"
 			}
 		]
 	},

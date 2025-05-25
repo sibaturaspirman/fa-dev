@@ -26,7 +26,7 @@
 					{
 						"name": "Software",
 						"icon": "software",
-						"link": "/id_en/download/software/search.page?mode=software&kisyu=/ssc"
+						"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ssc"
 					}
 				]
 			}
@@ -75,7 +75,7 @@
 			{
 				"name": "General Product Catalog",
 				"icon": "catalog",
-				"link": "/id_en/dctlg/index.html"
+				"link": "https://www.mitsubishielectric.com/fa/dctlg/index.html"
 			},
 			{
 				"name": "FA Integrated Selection Tool",
@@ -89,7 +89,7 @@
 		"items": [
 			{
 				"name": "iQ Works",
-				"link": "/id_en/products/sft/melsoft/smerit/iq_works/index.html?menu=kisyu&mid=ssc"
+				"link": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_works/index.html?menu=kisyu&mid=ssc"
 			},
 			{
 				"name": "GX Works2",
@@ -126,7 +126,7 @@
 			{
 				"name": "Software",
 				"icon": "software",
-				"link": "/id_en/download/software/search.page?mode=software&kisyu=/ssc"
+				"link": "https://www.mitsubishielectric.com/fa/download/software/search.page?mode=software&kisyu=/ssc"
 			}
 		]
 	},
