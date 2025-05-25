@@ -159,39 +159,39 @@
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon",
+				"link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon",
         "child": [
           {
             "name": "CPU",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=CPU"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=CPU"
           },
           {
             "name": "Base",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Base"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Base"
           },
           {
             "name": "Power supply",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Power%20supply"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Power%20supply"
           },
           {
             "name": "I/O",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=I/O"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=I/O"
           },
           {
             "name": "Analog",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Analog"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Analog"
           },
           {
             "name": "Simple motion/positioning",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Simple%20motion/positioning"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Simple%20motion/positioning"
           },
           {
             "name": "Information/network",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Information/network"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Information/network"
           },
           {
             "name": "Option",
-            "link": "/id_en/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Option"
+            "link": "https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet.page?kisyu=/plcq&category=discon&bunrui1=Option"
           }
         ]
 			},

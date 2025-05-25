@@ -257,11 +257,11 @@
         "child": [
           {
             "name": "Specifications list",
-            "path": "/id_en/products/spec.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/spec.html"
           },
           {
             "name": "Products certified/compliant to standards",
-            "path": "/id_en/products/standard.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/standard.html"
           },
           {
             "name": "Discontinued(alternative models) products",
@@ -309,7 +309,7 @@
           },
           {
             "name": "Data communication software",
-            "path": "/id_en/products/software/data-sharing-software/index.html"
+            "path": "https://www.mitsubishielectric.com/fa/products/software/data-sharing-software/index.html"
           },
           {
             "name": "Energy Saving Support Software",

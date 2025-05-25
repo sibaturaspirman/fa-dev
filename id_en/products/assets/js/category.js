@@ -752,7 +752,7 @@ const showRecommendedCatalog = function(elemid, docNo, kisyuNo, anchorType) {
         }
       }
       // 生産終了品
-      else if(currentPathWithQuery.indexOf('/id_en/products/dbdbsearch/SearchServlet') !== -1) {
+      else if(currentPathWithQuery.indexOf('https://www.mitsubishielectric.com/fa/products/dbdbsearch/SearchServlet') !== -1) {
         currentPageFamily.parent = {
           name: productsLabels.products,
           path: '/id_en/products/index.html'

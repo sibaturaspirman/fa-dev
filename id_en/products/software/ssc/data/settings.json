@@ -55,12 +55,12 @@
 			{
 				"name": "Product Specifications",
 				"icon": "settings",
-				"link": "/id_en/products/spec.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/spec.html"
 			},
 			{
 				"name": "Products certified/compliant to standards",
 				"icon": "standard",
-				"link": "/id_en/products/standard.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/standard.html"
 			},
 			{
 				"name": "Discontinued Products",
