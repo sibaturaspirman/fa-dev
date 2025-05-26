@@ -21,7 +21,7 @@
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/ssc"
+						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 					},
 					{
 						"name": "Software",
@@ -38,8 +38,8 @@
 		"items": [
 			{
 				"name": "Motion Control Software SWM-G",
-				"img": "/id_en/products/cnt/ssc/img/spotlight_swmg_gl.jpg",
-				"link": "/id_en/products/cnt/ssc/pmerit/sscemb/swmg/index.html"
+				"img": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/img/spotlight_swmg_gl.jpg",
+				"link": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/swmg/index.html"
 			}
 			
 		]
@@ -65,12 +65,12 @@
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_en/products/renewal.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/renewal.html"
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/id_en/products/replace.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/replace.html"
 			},
 			{
 				"name": "General Product Catalog",
@@ -121,7 +121,7 @@
 			{
 				"name": "Technical<br>Bulletin",
 				"icon": "techinfo",
-				"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/ssc"
+				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 			},
 			{
 				"name": "Software",
@@ -144,7 +144,7 @@
 		"items": [
 			{
 				"name": "MELSERVO-J5",
-				"image": "/id_en/products/cnt/ssc/img/bnr_J5_gl.jpg",
+				"image": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/img/bnr_J5_gl.jpg",
 				"link": "/id_en/products/drv/servo/pmerit/mr_j5/amp/concept.html"
 			},
 			{
@@ -154,7 +154,7 @@
 			},
 			{
 				"name": "FAQ",
-				"image": "/id_en/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
+				"image": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/img/bnr_faq_ssc_gl.jpg",
 				"link": "https://fa-faq.mitsubishielectric.com/category/show/2435"
 			},
 			{

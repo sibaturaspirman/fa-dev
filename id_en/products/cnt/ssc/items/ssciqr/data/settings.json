@@ -21,7 +21,7 @@
 					{
 						"name": "Technical<br>Bulletin",
 						"icon": "techinfo",
-						"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/ssc"
+						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 					},
 					{
 						"name": "CAD Data",
@@ -120,7 +120,7 @@
 			{
 				"name": "Technical<br>Bulletin",
 				"icon": "techinfo",
-				"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/ssc"
+				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/ssc"
 			},
 			{
 				"name": "CAD Data",

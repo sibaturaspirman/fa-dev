@@ -70,12 +70,12 @@
 			{
 				"name": "Discontinued Products",
 				"icon": "silver-line",
-				"link": "/id_en/products/renewal.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/renewal.html"
 			},
 			{
 				"name": "Replace Products",
 				"icon": "replace",
-				"link": "/id_en/products/replace.html"
+				"link": "https://www.mitsubishielectric.com/fa/products/replace.html"
 			},
 			{
 				"name": "General Product Catalog",

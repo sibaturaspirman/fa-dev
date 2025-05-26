@@ -21,7 +21,7 @@
 					{
 						"name": "Technical Bulletin",
 						"icon": "technews",
-						"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/cnc"
+						"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/cnc"
 					},
 					{
 						"name": "CAD Data",
@@ -113,7 +113,7 @@
 			{
 				"name": "Technical Bulletin",
 				"icon": "technews",
-				"link": "/id_en/download/techinfo/search.page?mode=technews&kisyu=/cnc"
+				"link": "https://www.mitsubishielectric.com/fa/download/techinfo/search.page?mode=technews&kisyu=/cnc"
 			},
 			{
 				"name": "CAD Data",
